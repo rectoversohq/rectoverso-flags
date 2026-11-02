@@ -1,6 +1,6 @@
 # Coverage and editorial convention
 
-This local candidate contains **480 cards per language** from a 249-entry ISO reference. The 39 regional additions belong only to Maps.
+This source candidate contains **480 cards per language** from a 249-entry ISO reference. The 39 regional additions belong only to Maps.
 
 ## Included exercises
 

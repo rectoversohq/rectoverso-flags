@@ -4,7 +4,7 @@ Recognize a flag. Recall it from a place name.
 
 [Français](README.fr.md) · [Coverage and sources](docs/coverage.md) · [Build and update](docs/build.md)
 
-**Local review candidate — not released.** No download is published yet.
+**Source review candidate — not released.** Sources are available on this review branch; no package release is published.
 
 | | |
 |---|---|
@@ -16,6 +16,17 @@ Recognize a flag. Recall it from a place name.
 | License | CC BY 4.0, with original asset licenses retained |
 
 Flags retain their real proportions. Shared or similar designs receive clear question qualifiers. Continent and region fields support discovery without cluttering the question. In Anki, **Explore** opens a short answer note. In RectoVerso, compatible importers expose that note after confirmation; app import and native visual review remain separate checks.
+
+## Get the source
+
+The complete candidate is reviewed in [source issue #1](https://github.com/rectoversohq/rectoverso-flags/issues/1). The default branch is a landing page until the source PR is merged. Clone the review branch to run the commands below:
+
+```sh
+git clone --branch codex/1-source-candidate https://github.com/rectoversohq/rectoverso-flags.git
+cd rectoverso-flags
+```
+
+See [source review and validation status](docs/review.md).
 
 ## Build for Anki
 
