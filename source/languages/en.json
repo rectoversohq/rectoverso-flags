@@ -1,0 +1,32 @@
+{
+  "fields": {
+    "place": "Place",
+    "capital": "Capital",
+    "flag": "Flag",
+    "map": "Map",
+    "qualifier": "Qualifier",
+    "details": "Details",
+    "continent": "Continent",
+    "search": "RectoVerso search",
+    "placeData": "RectoVerso place",
+    "region": "Region"
+  },
+  "region": "Region",
+  "detailsButton": "Explore",
+  "imageAlt": {
+    "flag": "Flag",
+    "map": "Highlighted map"
+  },
+  "exercises": {
+    "map-place": "Map → place",
+    "flag-place": "Flag → place",
+    "place-flag": "Place → flag",
+    "place-capital": "Place → capital",
+    "capital-place": "Capital → place",
+    "flag-capital": "Flag → capital",
+    "capital-flag": "Capital → flag",
+    "map-flag": "Map → flag",
+    "flag-map": "Flag → map"
+  },
+  "description": "A bilingual-source geography deck. Local review candidate; not published."
+}

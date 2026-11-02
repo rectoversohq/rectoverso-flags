@@ -1,0 +1,20 @@
+{
+  "v": 1,
+  "progression": "Order of introduction only; the existing scheduler remains authoritative. No stage locking or new app entitlement behaviour.",
+  "exercises": [
+    {
+      "id": "flag-place",
+      "question": "flag",
+      "answer": "place",
+      "stage": 1,
+      "order": 1
+    },
+    {
+      "id": "place-flag",
+      "question": "place",
+      "answer": "flag",
+      "stage": 1,
+      "order": 2
+    }
+  ]
+}

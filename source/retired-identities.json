@@ -1,0 +1,50 @@
+{
+  "v": 1,
+  "reason": "Owner correction: the French tricolor belongs only to France in flag exercises. Retired GUIDs must never be reused; packages do not delete prior imported cards.",
+  "guids": {
+    "en": [
+      "rv-flags-en-myt-flag-place",
+      "rv-flags-en-reu-flag-place",
+      "rv-flags-en-glp-flag-place",
+      "rv-flags-en-mtq-flag-place",
+      "rv-flags-en-blm-flag-place",
+      "rv-flags-en-maf-flag-place",
+      "rv-flags-en-spm-flag-place",
+      "rv-flags-en-ncl-flag-place",
+      "rv-flags-en-wlf-flag-place",
+      "rv-flags-en-guf-flag-place",
+      "rv-flags-en-myt-place-flag",
+      "rv-flags-en-reu-place-flag",
+      "rv-flags-en-glp-place-flag",
+      "rv-flags-en-mtq-place-flag",
+      "rv-flags-en-blm-place-flag",
+      "rv-flags-en-maf-place-flag",
+      "rv-flags-en-spm-place-flag",
+      "rv-flags-en-ncl-place-flag",
+      "rv-flags-en-wlf-place-flag",
+      "rv-flags-en-guf-place-flag"
+    ],
+    "fr": [
+      "rv-flags-fr-reu-flag-place",
+      "rv-flags-fr-myt-flag-place",
+      "rv-flags-fr-glp-flag-place",
+      "rv-flags-fr-mtq-flag-place",
+      "rv-flags-fr-blm-flag-place",
+      "rv-flags-fr-maf-flag-place",
+      "rv-flags-fr-spm-flag-place",
+      "rv-flags-fr-ncl-flag-place",
+      "rv-flags-fr-wlf-flag-place",
+      "rv-flags-fr-guf-flag-place",
+      "rv-flags-fr-reu-place-flag",
+      "rv-flags-fr-myt-place-flag",
+      "rv-flags-fr-glp-place-flag",
+      "rv-flags-fr-mtq-place-flag",
+      "rv-flags-fr-blm-place-flag",
+      "rv-flags-fr-maf-place-flag",
+      "rv-flags-fr-spm-place-flag",
+      "rv-flags-fr-ncl-place-flag",
+      "rv-flags-fr-wlf-place-flag",
+      "rv-flags-fr-guf-place-flag"
+    ]
+  }
+}
