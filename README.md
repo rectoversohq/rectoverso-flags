@@ -4,7 +4,7 @@ Recognize a flag. Recall it from a place name.
 
 [Français](README.fr.md) · [Coverage and sources](docs/coverage.md) · [Build and update](docs/build.md)
 
-**Source review candidate — not released.** Sources are available on this review branch; no package release is published.
+**Prerelease 0.1.0-rc.1.** [Download the English/French Anki packages](https://github.com/rectoversohq/rectoverso-flags/releases/tag/v0.1.0-rc.1).
 
 | | |
 |---|---|
@@ -21,10 +21,10 @@ Answer context uses separately labeled **Continent** and **Region** fields. See 
 
 ## Get the source
 
-The complete candidate is reviewed in [source issue #1](https://github.com/rectoversohq/rectoverso-flags/issues/1). The default branch is a landing page until the source PR is merged. Clone the review branch to run the commands below:
+The complete candidate is reviewed in [source issue #1](https://github.com/rectoversohq/rectoverso-flags/issues/1). Clone the tagged source to reproduce this prerelease:
 
 ```sh
-git clone --branch codex/1-source-candidate https://github.com/rectoversohq/rectoverso-flags.git
+git clone --branch v0.1.0-rc.1 https://github.com/rectoversohq/rectoverso-flags.git
 cd rectoverso-flags
 ```
 

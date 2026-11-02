@@ -1,5 +1,12 @@
 # Source review
 
+## Current publication
+
+The owner approved this source and package release. The reproducible prerelease is [0.1.0-rc.1](https://github.com/rectoversohq/rectoverso-flags/releases/tag/v0.1.0-rc.1). Its English/French assets and SHA-256 manifest identify the exact bytes; earlier validation and source provenance below remain historical evidence. Subsequent changes still require their own checks and publication approval.
+
+The deck is CC BY 4.0, with component licenses retained. This source release does not deploy app asset packs or change the app source pin.
+
+
 The owner approved creating this repository and pushing this candidate for source review. The [source issue](https://github.com/rectoversohq/rectoverso-flags/issues/1) tracks the first PR against a README-only main branch. Merges, version tags and package releases remain separate owner decisions. The source is public; no packaged deck release is published.
 
 ## Provenance of this branch

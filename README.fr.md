@@ -4,7 +4,7 @@ Reconnaître un drapeau. Le retrouver à partir du nom d’un lieu.
 
 [English](README.md) · [Périmètre et sources](docs/coverage.md) · [Construction et mises à jour](docs/build.md)
 
-**Sources candidates pour revue — aucun paquet publié.** Les sources sont disponibles sur cette branche de revue.
+**Préversion 0.1.0-rc.1.** [Télécharger les paquets Anki français et anglais](https://github.com/rectoversohq/rectoverso-flags/releases/tag/v0.1.0-rc.1).
 
 Une source commune produit **460 cartes en français** et **460 en anglais**, dans deux paquets indépendants. Le référentiel comporte 249 pays et territoires ISO ; seules les questions pertinentes sont incluses. Les exclusions sont documentées, sans drapeau inventé.
 
@@ -14,10 +14,10 @@ Le contexte de la réponse distingue **Continent** et **Région**. Les identité
 
 ## Obtenir les sources
 
-La branche principale est une page d’accueil jusqu’à la fusion de la pull request. Cloner la branche de revue pour disposer du générateur :
+Cloner les sources étiquetées pour reproduire cette préversion :
 
 ```sh
-git clone --branch codex/1-source-candidate https://github.com/rectoversohq/rectoverso-flags.git
+git clone --branch v0.1.0-rc.1 https://github.com/rectoversohq/rectoverso-flags.git
 cd rectoverso-flags
 ```
 
