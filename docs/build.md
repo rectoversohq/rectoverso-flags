@@ -5,8 +5,8 @@
 For one package only:
 
 ```sh
-python scripts/build.py --language en --out /outside/repo/Flags-en-480.apkg
-python scripts/build.py --language fr --out /outside/repo/Drapeaux-fr-480.apkg
+python scripts/build.py --language en --out /outside/repo/Flags-en-460.apkg
+python scripts/build.py --language fr --out /outside/repo/Drapeaux-fr-460.apkg
 ```
 
 ## Source layout

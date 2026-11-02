@@ -9,13 +9,15 @@ Recognize a flag. Recall it from a place name.
 | | |
 |---|---|
 | Languages | English · Français — two packages from one shared source |
-| Cards | 480 per language |
+| Cards | 460 per language |
 | Reference | 249 ISO countries and territories; only applicable exercises |
 | Exercises | flag → place, place → flag |
 | Media | 240 attributed images |
 | License | CC BY 4.0, with original asset licenses retained |
 
-Flags retain their real proportions. Shared or similar designs receive clear question qualifiers. Continent and region fields support discovery without cluttering the question. In Anki, **Explore** opens a short answer note. In RectoVerso, compatible importers expose that note after confirmation; app import and native visual review remain separate checks.
+Flags retain their real proportions. France alone uses its shared national tricolor in flag exercises. Similar flags are studied from their faithful artwork, without geographic riddles. Continent and region fields support discovery without cluttering the question. In Anki, **Explore** opens a short answer note. In RectoVerso, compatible importers expose that note after confirmation; app import and native visual review remain separate checks.
+
+Answer context uses separately labeled **Continent** and **Region** fields. See [owner feedback and update semantics](docs/coverage.md#owner-feedback-and-context-labels).
 
 ## Get the source
 
@@ -40,7 +42,7 @@ python3.14 -m venv /path/outside-the-repo/anki-venv
 
 The output must be a **new directory outside this checkout**. CI builds each language twice, checks semantic reproducibility, imports every card into Anki, renders both sides, performs a real study action, and verifies media plus progress through export/reimport. Reports and failed logs remain beside the packages.
 
-Open `packages/Flags-en-480.apkg` or `packages/Drapeaux-fr-480.apkg` in Anki. Choose the language you want; these are independent study collections, not a language toggle applied to existing progress.
+Open `packages/Flags-en-460.apkg` or `packages/Drapeaux-fr-460.apkg` in Anki. Choose the language you want; these are independent study collections, not a language toggle applied to existing progress.
 
 ## Edit and update
 

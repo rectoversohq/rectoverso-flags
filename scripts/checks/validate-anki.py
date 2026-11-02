@@ -41,6 +41,8 @@ def check(package, output):
                 guids.add(card.note().guid)
                 q, a = card.question(), card.answer()
                 note = card.note()
+                if card.template()["name"] not in q:
+                    raise ValueError("Exercise direction missing from rendered question")
                 direction = next(
                     t.removeprefix("exercise::")
                     for t in note.tags

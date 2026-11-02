@@ -8,7 +8,8 @@
     "details": "Détails",
     "continent": "Continent",
     "search": "RectoVerso search",
-    "placeData": "RectoVerso place"
+    "placeData": "RectoVerso place",
+    "region": "Région"
   },
   "region": "Région",
   "detailsButton": "Explorer",

@@ -6,9 +6,11 @@ Reconnaître un drapeau. Le retrouver à partir du nom d’un lieu.
 
 **Sources candidates pour revue — aucun paquet publié.** Les sources sont disponibles sur cette branche de revue.
 
-Une source commune produit **480 cartes en français** et **480 en anglais**, dans deux paquets indépendants. Le référentiel comporte 249 pays et territoires ISO ; seules les questions pertinentes sont incluses. Les exclusions sont documentées, sans drapeau inventé.
+Une source commune produit **460 cartes en français** et **460 en anglais**, dans deux paquets indépendants. Le référentiel comporte 249 pays et territoires ISO ; seules les questions pertinentes sont incluses. Les exclusions sont documentées, sans drapeau inventé.
 
 Les proportions des drapeaux sont conservées. Les dessins partagés ou similaires reçoivent une précision géographique dans la question. Les champs continent et région facilitent la recherche. Dans Anki, **Explorer** ouvre une courte note après la réponse. La compatibilité native RectoVerso reste une vérification distincte.
+
+Le contexte de la réponse distingue **Continent** et **Région**. Les identités existantes sont conservées ; les retraits de questions et les limites de mise à jour sont décrits dans la [couverture](docs/coverage.md#owner-feedback-and-context-labels).
 
 ## Obtenir les sources
 
@@ -33,7 +35,7 @@ python3.14 -m venv /chemin/hors-du-depot/anki-venv
 
 La sortie doit être un **nouveau dossier hors du dépôt**. La commande construit chaque langue deux fois, contrôle les identités et le contenu, importe et affiche les deux faces de chaque carte avec le moteur Anki, effectue une vraie réponse, puis vérifie médias et progression après export/réimport.
 
-Importer `packages/Drapeaux-fr-480.apkg` dans Anki. Le paquet anglais s’appelle `Flags-en-480.apkg`. Chacun possède ses propres identités et sa propre progression.
+Importer `packages/Drapeaux-fr-460.apkg` dans Anki. Le paquet anglais s’appelle `Flags-en-460.apkg`. Chacun possède ses propres identités et sa propre progression.
 
 ## Modifier et publier
 

@@ -68,7 +68,12 @@ def inputs(language):
             '<section class="context"><input type="button" class="details-button" value="'
             + html.escape(words["detailsButton"], quote=True)
             + '" onclick="var d=document.getElementById(\'rv-details\');d.hidden=!d.hidden;this.setAttribute(\'aria-expanded\',!d.hidden)" aria-expanded="false" aria-controls="rv-details"><div id="rv-details" hidden>'
-            + tag("details")
+            + "".join(
+                "{{#" + names[field] + "}}<p><strong>"
+                + html.escape(names[field]) + "</strong><br>" + tag(field)
+                + "</p>{{/" + names[field] + "}}"
+                for field in ("continent", "region", "details")
+            )
             + "</div></section></main>"
         )
         types[key] = {
@@ -102,6 +107,8 @@ def inputs(language):
             needs_flag = "flag" in (question, answer)
             needs_capital = "capital" in (question, answer)
             needs_map = "map" in (question, answer)
+            if key in place.get("excludedExercises", []):
+                continue
             if needs_flag and not place.get("flag"):
                 continue
             if needs_map and not place.get("map"):
@@ -109,7 +116,7 @@ def inputs(language):
             capitals = place.get("capitals", []) if needs_capital else [None]
             for capital in capitals:
                 parts = [labels[c][language] for c in place["continents"]]
-                details = [" · ".join(parts), place["region"][language]]
+                details = []
                 if meta.get("proOnly"):
                     if capital:
                         details.append(
@@ -188,6 +195,7 @@ def inputs(language):
                         html.escape(x) for x in dict.fromkeys(details) if x
                     ),
                     "continent": "; ".join(parts),
+                    "region": place["region"][language],
                     "search": json.dumps(
                         {"v": 1, "fields": search},
                         ensure_ascii=False,

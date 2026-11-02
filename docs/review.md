@@ -20,3 +20,11 @@ The manifest describes the frozen reviewed package candidate, including its reco
 ## En français
 
 Le propriétaire a autorisé le dépôt et l’envoi des sources pour revue. Le premier commit de sources reproduit exactement l’arbre du candidat testé indiqué ci-dessus ; son historique local d’origine est conservé. Les modifications de mise en place concernent la documentation, sans changer les cartes, médias, identités ni générateurs. Vérifier le résultat réel d’**Anki packages** sur la pull request. La revue Anki Desktop, l’approbation éditoriale et la publication restent des étapes distinctes. Aucun paquet n’est publié à ce stade.
+
+## Owner phone feedback
+
+Answer context now exposes **Continent** and **Region** as separate English/French resources. Existing continent memberships and search aliases are unchanged. The new Region field is appended; existing deck/model/template/field identities remain intact. The shared French national tricolor is used only for France in every flag exercise. The ten affected territories keep their ISO records and any applicable non-flag exercises. The four geographic riddles for Indonesia/Monaco and Chad/Romania are removed, with faithful flag artwork unchanged.
+
+The current candidate has **460 cards per language**. Source regression tests and complete bilingual `scripts/ci.py` pass in the working source. Anki renders every direction label; this does not prove its native RectoVerso visibility. Updates from both exact earlier language packages preserve every existing note ID and a genuinely studied card's schedule while applying the Region field. Retired test cards remain after ordinary Anki update; [coverage](coverage.md) documents the explicit cleanup/replacement boundary. No personal collection was opened.
+
+Fresh-clone and hosted results for the final commit are recorded on [source PR #2](https://github.com/rectoversohq/rectoverso-flags/pull/2). The separate app presentation issue is [#655](https://github.com/simonpinkas/RectoVerso/issues/655); the source cannot prove that native layout repair. App/content tracking remains [#648](https://github.com/simonpinkas/RectoVerso/issues/648). No merge, package release or catalog change is included.

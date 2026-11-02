@@ -520,14 +520,14 @@
       "fr": "Caraïbes"
     },
     "capitals": [],
-    "flagQualifier": {
-      "en": "French collectivity northwest of Saint Martin",
-      "fr": "Collectivité française au nord-ouest de Saint-Martin"
-    },
     "flag": {
       "file": "rv-flag-blm.png",
       "status": "National or territorial flag; shared national flags are qualified in the question."
-    }
+    },
+    "excludedExercises": [
+      "flag-place",
+      "place-flag"
+    ]
   },
   {
     "code": "BLR",
@@ -1429,10 +1429,6 @@
       "fr": "Europe de l'Ouest"
     },
     "capitals": [],
-    "flagQualifier": {
-      "en": "European country",
-      "fr": "Pays européen"
-    },
     "flag": {
       "file": "rv-flag-fra.png",
       "status": "National or territorial flag; shared national flags are qualified in the question."
@@ -1624,14 +1620,14 @@
       "fr": "Caraïbes"
     },
     "capitals": [],
-    "flagQualifier": {
-      "en": "French Caribbean archipelago north of Dominica",
-      "fr": "Archipel français des Caraïbes au nord de la Dominique"
-    },
     "flag": {
       "file": "rv-flag-glp.png",
       "status": "National or territorial flag; shared national flags are qualified in the question."
-    }
+    },
+    "excludedExercises": [
+      "flag-place",
+      "place-flag"
+    ]
   },
   {
     "code": "GMB",
@@ -1780,14 +1776,14 @@
       "fr": "Amérique du Sud"
     },
     "capitals": [],
-    "flagQualifier": {
-      "en": "French territory on the South American mainland",
-      "fr": "Territoire français sur le continent sud-américain"
-    },
     "flag": {
       "file": "rv-flag-guf.png",
       "status": "National or territorial flag; shared national flags are qualified in the question."
-    }
+    },
+    "excludedExercises": [
+      "flag-place",
+      "place-flag"
+    ]
   },
   {
     "code": "GUM",
@@ -1955,10 +1951,6 @@
     "flag": {
       "file": "rv-flag-idn.png",
       "status": "National or territorial flag; shared national flags are qualified in the question."
-    },
-    "flagQualifier": {
-      "en": "Southeast Asian archipelago",
-      "fr": "Archipel d’Asie du Sud-Est"
     }
   },
   {
@@ -2603,14 +2595,14 @@
       "fr": "Caraïbes"
     },
     "capitals": [],
-    "flagQualifier": {
-      "en": "French part of an island shared with the Netherlands",
-      "fr": "Partie française d’une île partagée avec les Pays-Bas"
-    },
     "flag": {
       "file": "rv-flag-maf.png",
       "status": "National or territorial flag; shared national flags are qualified in the question."
-    }
+    },
+    "excludedExercises": [
+      "flag-place",
+      "place-flag"
+    ]
   },
   {
     "code": "MAR",
@@ -2648,10 +2640,6 @@
     "flag": {
       "file": "rv-flag-mco.png",
       "status": "National or territorial flag; shared national flags are qualified in the question."
-    },
-    "flagQualifier": {
-      "en": "European principality",
-      "fr": "Principauté européenne"
     }
   },
   {
@@ -2953,14 +2941,14 @@
       "fr": "Caraïbes"
     },
     "capitals": [],
-    "flagQualifier": {
-      "en": "French Caribbean island south of Dominica",
-      "fr": "Île française des Caraïbes au sud de la Dominique"
-    },
     "flag": {
       "file": "rv-flag-mtq.png",
       "status": "National or territorial flag; shared national flags are qualified in the question."
-    }
+    },
+    "excludedExercises": [
+      "flag-place",
+      "place-flag"
+    ]
   },
   {
     "code": "MUS",
@@ -3033,14 +3021,14 @@
       "fr": "Afrique de l'Est"
     },
     "capitals": [],
-    "flagQualifier": {
-      "en": "French department in the Mozambique Channel",
-      "fr": "Département français dans le canal du Mozambique"
-    },
     "flag": {
       "file": "rv-flag-myt.png",
       "status": "National or territorial flag; shared national flags are qualified in the question."
-    }
+    },
+    "excludedExercises": [
+      "flag-place",
+      "place-flag"
+    ]
   },
   {
     "code": "NAM",
@@ -3075,14 +3063,14 @@
       "fr": "Mélanésie"
     },
     "capitals": [],
-    "flagQualifier": {
-      "en": "French collectivity in Melanesia; French national flag",
-      "fr": "Collectivité française de Mélanésie ; drapeau national français"
-    },
     "flag": {
       "file": "rv-flag-ncl.png",
       "status": "National or territorial flag; shared national flags are qualified in the question."
-    }
+    },
+    "excludedExercises": [
+      "flag-place",
+      "place-flag"
+    ]
   },
   {
     "code": "NER",
@@ -3593,14 +3581,14 @@
       "fr": "Afrique de l'Est"
     },
     "capitals": [],
-    "flagQualifier": {
-      "en": "French island east of Madagascar",
-      "fr": "Île française à l’est de Madagascar"
-    },
     "flag": {
       "file": "rv-flag-reu.png",
       "status": "National or territorial flag; shared national flags are qualified in the question."
-    }
+    },
+    "excludedExercises": [
+      "flag-place",
+      "place-flag"
+    ]
   },
   {
     "code": "ROU",
@@ -3619,10 +3607,6 @@
     "flag": {
       "file": "rv-flag-rou.png",
       "status": "National or territorial flag; shared national flags are qualified in the question."
-    },
-    "flagQualifier": {
-      "en": "Country on the Black Sea",
-      "fr": "Pays riverain de la mer Noire"
     }
   },
   {
@@ -3898,14 +3882,14 @@
       "fr": "Amérique du Nord"
     },
     "capitals": [],
-    "flagQualifier": {
-      "en": "French archipelago south of Newfoundland",
-      "fr": "Archipel français au sud de Terre-Neuve"
-    },
     "flag": {
       "file": "rv-flag-spm.png",
       "status": "National or territorial flag; shared national flags are qualified in the question."
-    }
+    },
+    "excludedExercises": [
+      "flag-place",
+      "place-flag"
+    ]
   },
   {
     "code": "SRB",
@@ -4152,10 +4136,6 @@
     "flag": {
       "file": "rv-flag-tcd.png",
       "status": "National or territorial flag; shared national flags are qualified in the question."
-    },
-    "flagQualifier": {
-      "en": "Landlocked country in the Sahel",
-      "fr": "Pays enclavé du Sahel"
     }
   },
   {
@@ -4666,14 +4646,14 @@
       "fr": "Polynésie"
     },
     "capitals": [],
-    "flagQualifier": {
-      "en": "French collectivity west of Samoa",
-      "fr": "Collectivité française à l’ouest des Samoa"
-    },
     "flag": {
       "file": "rv-flag-wlf.png",
       "status": "National or territorial flag; shared national flags are qualified in the question."
-    }
+    },
+    "excludedExercises": [
+      "flag-place",
+      "place-flag"
+    ]
   },
   {
     "code": "WSM",

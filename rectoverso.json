@@ -15,7 +15,7 @@
   "identityBase": 1867200200,
   "guidPrefix": "rv-flags",
   "roster": "iso-3166-1-249-applicable-v1",
-  "cards": 480,
+  "cards": 460,
   "sounds": 0,
   "pictures": 240,
   "imageCredits": [
@@ -3127,19 +3127,19 @@
     "en": {
       "id": "rectoverso-flags-en",
       "title": "Flags",
-      "cards": 480,
+      "cards": 460,
       "package": {
-        "file": "Flags-en-480.apkg"
+        "file": "Flags-en-460.apkg"
       }
     },
     "fr": {
       "id": "rectoverso-flags-fr",
       "title": "Drapeaux",
-      "cards": 480,
+      "cards": 460,
       "package": {
-        "file": "Drapeaux-fr-480.apkg"
+        "file": "Drapeaux-fr-460.apkg"
       }
     }
   },
-  "contentModifiedAt": "2026-11-01T22:57:00Z"
+  "contentModifiedAt": "2026-11-02T13:44:57Z"
 }

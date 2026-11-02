@@ -51,6 +51,126 @@
         "https://commons.wikimedia.org/wiki/File:Flag_of_the_Cocos_(Keeling)_Island.svg",
         "https://www.pmc.gov.au/sites/default/files/resource/download/national-symbols-booklet-accessible-300dpi_0.pdf"
       ]
+    },
+    {
+      "code": "BLM",
+      "kind": "flag-exercises",
+      "exercises": [
+        "flag-place",
+        "place-flag"
+      ],
+      "reason": {
+        "en": "The shared French national flag is studied for France only; no territorial flag exercise is created from this tricolor.",
+        "fr": "Le drapeau national français est étudié pour la France uniquement ; ce tricolore ne donne pas lieu à une question sur le drapeau du territoire."
+      }
+    },
+    {
+      "code": "GLP",
+      "kind": "flag-exercises",
+      "exercises": [
+        "flag-place",
+        "place-flag"
+      ],
+      "reason": {
+        "en": "The shared French national flag is studied for France only; no territorial flag exercise is created from this tricolor.",
+        "fr": "Le drapeau national français est étudié pour la France uniquement ; ce tricolore ne donne pas lieu à une question sur le drapeau du territoire."
+      }
+    },
+    {
+      "code": "GUF",
+      "kind": "flag-exercises",
+      "exercises": [
+        "flag-place",
+        "place-flag"
+      ],
+      "reason": {
+        "en": "The shared French national flag is studied for France only; no territorial flag exercise is created from this tricolor.",
+        "fr": "Le drapeau national français est étudié pour la France uniquement ; ce tricolore ne donne pas lieu à une question sur le drapeau du territoire."
+      }
+    },
+    {
+      "code": "MAF",
+      "kind": "flag-exercises",
+      "exercises": [
+        "flag-place",
+        "place-flag"
+      ],
+      "reason": {
+        "en": "The shared French national flag is studied for France only; no territorial flag exercise is created from this tricolor.",
+        "fr": "Le drapeau national français est étudié pour la France uniquement ; ce tricolore ne donne pas lieu à une question sur le drapeau du territoire."
+      }
+    },
+    {
+      "code": "MTQ",
+      "kind": "flag-exercises",
+      "exercises": [
+        "flag-place",
+        "place-flag"
+      ],
+      "reason": {
+        "en": "The shared French national flag is studied for France only; no territorial flag exercise is created from this tricolor.",
+        "fr": "Le drapeau national français est étudié pour la France uniquement ; ce tricolore ne donne pas lieu à une question sur le drapeau du territoire."
+      }
+    },
+    {
+      "code": "MYT",
+      "kind": "flag-exercises",
+      "exercises": [
+        "flag-place",
+        "place-flag"
+      ],
+      "reason": {
+        "en": "The shared French national flag is studied for France only; no territorial flag exercise is created from this tricolor.",
+        "fr": "Le drapeau national français est étudié pour la France uniquement ; ce tricolore ne donne pas lieu à une question sur le drapeau du territoire."
+      }
+    },
+    {
+      "code": "NCL",
+      "kind": "flag-exercises",
+      "exercises": [
+        "flag-place",
+        "place-flag"
+      ],
+      "reason": {
+        "en": "The shared French national flag is studied for France only; no territorial flag exercise is created from this tricolor.",
+        "fr": "Le drapeau national français est étudié pour la France uniquement ; ce tricolore ne donne pas lieu à une question sur le drapeau du territoire."
+      }
+    },
+    {
+      "code": "REU",
+      "kind": "flag-exercises",
+      "exercises": [
+        "flag-place",
+        "place-flag"
+      ],
+      "reason": {
+        "en": "The shared French national flag is studied for France only; no territorial flag exercise is created from this tricolor.",
+        "fr": "Le drapeau national français est étudié pour la France uniquement ; ce tricolore ne donne pas lieu à une question sur le drapeau du territoire."
+      }
+    },
+    {
+      "code": "SPM",
+      "kind": "flag-exercises",
+      "exercises": [
+        "flag-place",
+        "place-flag"
+      ],
+      "reason": {
+        "en": "The shared French national flag is studied for France only; no territorial flag exercise is created from this tricolor.",
+        "fr": "Le drapeau national français est étudié pour la France uniquement ; ce tricolore ne donne pas lieu à une question sur le drapeau du territoire."
+      }
+    },
+    {
+      "code": "WLF",
+      "kind": "flag-exercises",
+      "exercises": [
+        "flag-place",
+        "place-flag"
+      ],
+      "reason": {
+        "en": "The shared French national flag is studied for France only; no territorial flag exercise is created from this tricolor.",
+        "fr": "Le drapeau national français est étudié pour la France uniquement ; ce tricolore ne donne pas lieu à une question sur le drapeau du territoire."
+      }
     }
   ]
 }

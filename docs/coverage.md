@@ -1,13 +1,13 @@
 # Coverage and editorial convention
 
-This source candidate contains **480 cards per language** from a 249-entry ISO reference. The 39 regional additions belong only to Maps.
+This source candidate contains **460 cards per language** from a 249-entry ISO reference. The 39 regional additions belong only to Maps.
 
 ## Included exercises
 
 | Exercise | Cards per language |
 |---|---:|
-| flag-place | 240 |
-| place-flag | 240 |
+| flag-place | 230 |
+| place-flag | 230 |
 
 ## Explicit omissions and holds
 
@@ -35,7 +35,7 @@ Common English/French learner names follow the reviewed Maps roster. Formal ISO 
 
 ## Flags
 
-Flag proportions and source drawing are preserved. Shared French national flags have geographic qualifiers. Monaco/Indonesia and Chad/Romania also receive qualifiers where similarity can make the image alone an unfair question. The New Caledonia card explicitly asks the French national flag; it does not claim the Kanak flag is the only official symbol. Afghanistan and Syria use the current source designs; symbolic use does not imply diplomatic recognition. Flags for Antarctica and composite island codes are not invented.
+Flag proportions and source drawing are preserved. The French national tricolor is studied for France alone. Flag exercises for the ten territories sharing that image are excluded in every direction; their reference records and original asset provenance remain. No replacement territorial symbol is invented. Monaco/Indonesia and Chad/Romania retain their verified colors and proportions without geographic-riddle qualifiers. Afghanistan and Syria use the current source designs; symbolic use does not imply diplomatic recognition. Flags for Antarctica and composite island codes are not invented.
 
 ## Sources and freshness
 
@@ -71,3 +71,11 @@ This is a named discovery-classification choice, not uncertainty about where the
 Owner decision, 2 November 2026: retain the explicitly named GeoNames Antarctic group while preserving ATF’s African Scattered Islands separately. Its Kerguelen, Crozet and Amsterdam/Saint-Paul groups use AN; Glorioso, Juan de Nova, Europa, Bassas da India and Tromelin use AF. There is no automatic Antarctica membership for Australia, New Zealand, South Africa or Saint Helena merely because an Antarctic program operates on an island. This wording does not say the named islands are on the Antarctic continental landmass.
 
 The owner approved these existing candidate assignments, so this decision changes no package content, card count, artwork or boundary. The exact decision and source comparison remain under `taxonomyReview` in the continent JSON. This geographic classification is settled; publication gates are tracked separately.
+
+## Owner feedback and context labels
+
+Answer context exposes **Continent** and **Region** as separately named fields in English and French. Region preserves the existing source classification; it is not relabeled as a continent or subcontinent. Multiple continent memberships and bilingual search aliases are unchanged. The old **Details** field keeps only the remaining optional note, if any.
+
+The France-only correction excludes BLM, GLP, GUF, MAF, MTQ, MYT, NCL, REU, SPM and WLF from every flag exercise. France and territories with distinct verified flags remain. All 249 reference records stay in source; the exclusions are explicit in `source/coverage-exceptions.json` and on each affected place. Other applicable exercises remain. The frozen active identity roster is reduced only by the retired exercises listed in `source/retired-identities.json`; no remaining GUID, deck, model, template or existing field identity changes.
+
+An Anki package update does not delete older cards. A previously imported test candidate therefore retains the retired questions until those exact GUIDs are removed in the learner's collection, or the test deck is replaced explicitly. Do not claim importing the corrected package alone removes them. There is no published predecessor.
