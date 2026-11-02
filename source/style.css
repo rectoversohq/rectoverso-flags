@@ -1,0 +1,10 @@
+/* Ordinary Anki styling; native RectoVerso cards retain the app's visual language. */
+.card {font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;font-size:22px;line-height:1.45;text-align:center;color:#282820;background:#f8f7f2;margin:0;padding:clamp(24px,6vw,64px);-webkit-font-smoothing:antialiased}
+main {max-width:720px;margin:0 auto} .eyebrow {font-size:11px;letter-spacing:.12em;text-transform:uppercase;color:#6d7066;margin-bottom:28px;font-weight:600}
+.primary {font-size:clamp(28px,6vw,46px);line-height:1.15;font-weight:600;letter-spacing:-.025em;overflow-wrap:anywhere}
+.primary img {display:block;width:auto;height:auto;max-width:min(100%,580px);max-height:340px;object-fit:contain;margin:0 auto}
+.primary.flag img {filter:drop-shadow(0 1px 2px #00000012)} .qualifier {font-size:15px;line-height:1.5;color:#66695f;max-width:440px;margin:24px auto 0}
+hr#answer {border:0;height:1px;background:#d9dcd2;margin:36px auto;max-width:72px} .answer .primary {margin-top:4px}
+.context {margin:26px auto 0;max-width:440px;font-size:15px;line-height:1.6;color:#66695f} .details-button {font:inherit;font-size:13px;font-weight:600;border:1px solid #d8dccf;border-radius:20px;background:transparent;color:inherit;padding:6px 16px;cursor:pointer;margin-bottom:12px}
+[hidden]{display:none!important}.card.nightMode,.card.night_mode {color:#eeefe8;background:#171b18}.nightMode .eyebrow,.night_mode .eyebrow,.nightMode .qualifier,.night_mode .qualifier,.nightMode .context,.night_mode .context {color:#a6b0a3}.nightMode hr#answer,.night_mode hr#answer {background:#3a4539}.nightMode .details-button,.night_mode .details-button {border-color:#3a4539}
+@media(prefers-reduced-motion:no-preference){.details-button{transition:background-color .16s}} .details-button:hover{background:#8080800c}

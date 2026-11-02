@@ -1,0 +1,31 @@
+{
+  "fields": {
+    "place": "Lieu",
+    "capital": "Capitale",
+    "flag": "Drapeau",
+    "map": "Carte",
+    "qualifier": "Précision",
+    "details": "Détails",
+    "continent": "Continent",
+    "search": "RectoVerso search",
+    "placeData": "RectoVerso place"
+  },
+  "region": "Région",
+  "detailsButton": "Explorer",
+  "imageAlt": {
+    "flag": "Drapeau",
+    "map": "Carte avec territoire en évidence"
+  },
+  "exercises": {
+    "map-place": "Carte → lieu",
+    "flag-place": "Drapeau → lieu",
+    "place-flag": "Lieu → drapeau",
+    "place-capital": "Lieu → capitale",
+    "capital-place": "Capitale → lieu",
+    "flag-capital": "Drapeau → capitale",
+    "capital-flag": "Capitale → drapeau",
+    "map-flag": "Carte → drapeau",
+    "flag-map": "Drapeau → carte"
+  },
+  "description": "Un jeu de géographie issu de sources bilingues. Candidat local pour revue ; non publié."
+}

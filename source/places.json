@@ -1,0 +1,4773 @@
+[
+  {
+    "code": "ABW",
+    "name": {
+      "en": "Aruba",
+      "fr": "Aruba"
+    },
+    "continents": [
+      "NA"
+    ],
+    "region": {
+      "en": "Caribbean",
+      "fr": "Caraïbes"
+    },
+    "capitals": [],
+    "flag": {
+      "file": "rv-flag-abw.png",
+      "status": "National or territorial flag; shared national flags are qualified in the question."
+    }
+  },
+  {
+    "code": "AFG",
+    "name": {
+      "en": "Afghanistan",
+      "fr": "Afghanistan"
+    },
+    "continents": [
+      "AS"
+    ],
+    "region": {
+      "en": "Southern Asia",
+      "fr": "Asie du Sud"
+    },
+    "capitals": [],
+    "flag": {
+      "file": "rv-flag-afg.png",
+      "status": "National or territorial flag; shared national flags are qualified in the question."
+    }
+  },
+  {
+    "code": "AGO",
+    "name": {
+      "en": "Angola",
+      "fr": "Angola"
+    },
+    "continents": [
+      "AF"
+    ],
+    "region": {
+      "en": "Middle Africa",
+      "fr": "Afrique centrale"
+    },
+    "capitals": [],
+    "flag": {
+      "file": "rv-flag-ago.png",
+      "status": "National or territorial flag; shared national flags are qualified in the question."
+    }
+  },
+  {
+    "code": "AIA",
+    "name": {
+      "en": "Anguilla",
+      "fr": "Anguilla"
+    },
+    "continents": [
+      "NA"
+    ],
+    "region": {
+      "en": "Caribbean",
+      "fr": "Caraïbes"
+    },
+    "capitals": [],
+    "flag": {
+      "file": "rv-flag-aia.png",
+      "status": "National or territorial flag; shared national flags are qualified in the question."
+    }
+  },
+  {
+    "code": "ALA",
+    "name": {
+      "en": "Åland Islands",
+      "fr": "Åland"
+    },
+    "continents": [
+      "EU"
+    ],
+    "region": {
+      "en": "Northern Europe",
+      "fr": "Europe du Nord"
+    },
+    "capitals": [],
+    "flag": {
+      "file": "rv-flag-ala.png",
+      "status": "National or territorial flag; shared national flags are qualified in the question."
+    }
+  },
+  {
+    "code": "ALB",
+    "name": {
+      "en": "Albania",
+      "fr": "Albanie"
+    },
+    "continents": [
+      "EU"
+    ],
+    "region": {
+      "en": "Southern Europe",
+      "fr": "Europe du Sud"
+    },
+    "capitals": [],
+    "flag": {
+      "file": "rv-flag-alb.png",
+      "status": "National or territorial flag; shared national flags are qualified in the question."
+    }
+  },
+  {
+    "code": "AND",
+    "name": {
+      "en": "Andorra",
+      "fr": "Andorre"
+    },
+    "continents": [
+      "EU"
+    ],
+    "region": {
+      "en": "Southern Europe",
+      "fr": "Europe du Sud"
+    },
+    "capitals": [],
+    "flag": {
+      "file": "rv-flag-and.png",
+      "status": "National or territorial flag; shared national flags are qualified in the question."
+    }
+  },
+  {
+    "code": "ARE",
+    "name": {
+      "en": "United Arab Emirates",
+      "fr": "Émirats arabes unis"
+    },
+    "continents": [
+      "AS"
+    ],
+    "region": {
+      "en": "Western Asia",
+      "fr": "Asie de l'Ouest"
+    },
+    "capitals": [],
+    "flag": {
+      "file": "rv-flag-are.png",
+      "status": "National or territorial flag; shared national flags are qualified in the question."
+    }
+  },
+  {
+    "code": "ARG",
+    "name": {
+      "en": "Argentina",
+      "fr": "Argentine"
+    },
+    "continents": [
+      "SA"
+    ],
+    "region": {
+      "en": "South America",
+      "fr": "Amérique du Sud"
+    },
+    "capitals": [],
+    "flag": {
+      "file": "rv-flag-arg.png",
+      "status": "National or territorial flag; shared national flags are qualified in the question."
+    }
+  },
+  {
+    "code": "ARM",
+    "name": {
+      "en": "Armenia",
+      "fr": "Arménie"
+    },
+    "continents": [
+      "AS"
+    ],
+    "region": {
+      "en": "Western Asia",
+      "fr": "Asie de l'Ouest"
+    },
+    "capitals": [],
+    "flag": {
+      "file": "rv-flag-arm.png",
+      "status": "National or territorial flag; shared national flags are qualified in the question."
+    }
+  },
+  {
+    "code": "ASM",
+    "name": {
+      "en": "American Samoa",
+      "fr": "Samoa américaines"
+    },
+    "continents": [
+      "OC"
+    ],
+    "region": {
+      "en": "Polynesia",
+      "fr": "Polynésie"
+    },
+    "capitals": [],
+    "flag": {
+      "file": "rv-flag-asm.png",
+      "status": "National or territorial flag; shared national flags are qualified in the question."
+    }
+  },
+  {
+    "code": "ATA",
+    "name": {
+      "en": "Antarctica",
+      "fr": "Antarctique"
+    },
+    "continents": [
+      "AN"
+    ],
+    "region": {
+      "en": "Antarctica",
+      "fr": "Antarctique"
+    },
+    "capitals": []
+  },
+  {
+    "code": "ATF",
+    "name": {
+      "en": "French Southern Territories",
+      "fr": "Terres australes françaises"
+    },
+    "continents": [
+      "AF",
+      "AN"
+    ],
+    "region": {
+      "en": "Seven seas (open ocean)",
+      "fr": "Océans"
+    },
+    "capitals": [],
+    "flag": {
+      "file": "rv-flag-atf.png",
+      "status": "National or territorial flag; shared national flags are qualified in the question."
+    }
+  },
+  {
+    "code": "ATG",
+    "name": {
+      "en": "Antigua and Barbuda",
+      "fr": "Antigua-et-Barbuda"
+    },
+    "continents": [
+      "NA"
+    ],
+    "region": {
+      "en": "Caribbean",
+      "fr": "Caraïbes"
+    },
+    "capitals": [],
+    "flag": {
+      "file": "rv-flag-atg.png",
+      "status": "National or territorial flag; shared national flags are qualified in the question."
+    }
+  },
+  {
+    "code": "AUS",
+    "name": {
+      "en": "Australia",
+      "fr": "Australie"
+    },
+    "continents": [
+      "OC"
+    ],
+    "region": {
+      "en": "Australia and New Zealand",
+      "fr": "Australie et Nouvelle-Zélande"
+    },
+    "capitals": [],
+    "flag": {
+      "file": "rv-flag-aus.png",
+      "status": "National or territorial flag; shared national flags are qualified in the question."
+    }
+  },
+  {
+    "code": "AUT",
+    "name": {
+      "en": "Austria",
+      "fr": "Autriche"
+    },
+    "continents": [
+      "EU"
+    ],
+    "region": {
+      "en": "Western Europe",
+      "fr": "Europe de l'Ouest"
+    },
+    "capitals": [],
+    "flag": {
+      "file": "rv-flag-aut.png",
+      "status": "National or territorial flag; shared national flags are qualified in the question."
+    }
+  },
+  {
+    "code": "AZE",
+    "name": {
+      "en": "Azerbaijan",
+      "fr": "Azerbaïdjan"
+    },
+    "continents": [
+      "EU",
+      "AS"
+    ],
+    "region": {
+      "en": "Western Asia",
+      "fr": "Asie de l'Ouest"
+    },
+    "capitals": [],
+    "flag": {
+      "file": "rv-flag-aze.png",
+      "status": "National or territorial flag; shared national flags are qualified in the question."
+    }
+  },
+  {
+    "code": "BDI",
+    "name": {
+      "en": "Burundi",
+      "fr": "Burundi"
+    },
+    "continents": [
+      "AF"
+    ],
+    "region": {
+      "en": "Eastern Africa",
+      "fr": "Afrique de l'Est"
+    },
+    "capitals": [],
+    "flag": {
+      "file": "rv-flag-bdi.png",
+      "status": "National or territorial flag; shared national flags are qualified in the question."
+    }
+  },
+  {
+    "code": "BEL",
+    "name": {
+      "en": "Belgium",
+      "fr": "Belgique"
+    },
+    "continents": [
+      "EU"
+    ],
+    "region": {
+      "en": "Western Europe",
+      "fr": "Europe de l'Ouest"
+    },
+    "capitals": [],
+    "flag": {
+      "file": "rv-flag-bel.png",
+      "status": "National or territorial flag; shared national flags are qualified in the question."
+    }
+  },
+  {
+    "code": "BEN",
+    "name": {
+      "en": "Benin",
+      "fr": "Bénin"
+    },
+    "continents": [
+      "AF"
+    ],
+    "region": {
+      "en": "Western Africa",
+      "fr": "Afrique de l'Ouest"
+    },
+    "capitals": [],
+    "flag": {
+      "file": "rv-flag-ben.png",
+      "status": "National or territorial flag; shared national flags are qualified in the question."
+    }
+  },
+  {
+    "code": "BES",
+    "name": {
+      "en": "Bonaire, Sint Eustatius and Saba",
+      "fr": "Bonaire, Saint-Eustache et Saba"
+    },
+    "continents": [
+      "NA"
+    ],
+    "region": {
+      "en": "Caribbean",
+      "fr": "Caraïbes"
+    },
+    "capitals": []
+  },
+  {
+    "code": "BFA",
+    "name": {
+      "en": "Burkina Faso",
+      "fr": "Burkina Faso"
+    },
+    "continents": [
+      "AF"
+    ],
+    "region": {
+      "en": "Western Africa",
+      "fr": "Afrique de l'Ouest"
+    },
+    "capitals": [],
+    "flag": {
+      "file": "rv-flag-bfa.png",
+      "status": "National or territorial flag; shared national flags are qualified in the question."
+    }
+  },
+  {
+    "code": "BGD",
+    "name": {
+      "en": "Bangladesh",
+      "fr": "Bangladesh"
+    },
+    "continents": [
+      "AS"
+    ],
+    "region": {
+      "en": "Southern Asia",
+      "fr": "Asie du Sud"
+    },
+    "capitals": [],
+    "flag": {
+      "file": "rv-flag-bgd.png",
+      "status": "National or territorial flag; shared national flags are qualified in the question."
+    }
+  },
+  {
+    "code": "BGR",
+    "name": {
+      "en": "Bulgaria",
+      "fr": "Bulgarie"
+    },
+    "continents": [
+      "EU"
+    ],
+    "region": {
+      "en": "Eastern Europe",
+      "fr": "Europe de l'Est"
+    },
+    "capitals": [],
+    "flag": {
+      "file": "rv-flag-bgr.png",
+      "status": "National or territorial flag; shared national flags are qualified in the question."
+    }
+  },
+  {
+    "code": "BHR",
+    "name": {
+      "en": "Bahrain",
+      "fr": "Bahreïn"
+    },
+    "continents": [
+      "AS"
+    ],
+    "region": {
+      "en": "Western Asia",
+      "fr": "Asie de l'Ouest"
+    },
+    "capitals": [],
+    "flag": {
+      "file": "rv-flag-bhr.png",
+      "status": "National or territorial flag; shared national flags are qualified in the question."
+    }
+  },
+  {
+    "code": "BHS",
+    "name": {
+      "en": "The Bahamas",
+      "fr": "Bahamas"
+    },
+    "continents": [
+      "NA"
+    ],
+    "region": {
+      "en": "Caribbean",
+      "fr": "Caraïbes"
+    },
+    "capitals": [],
+    "flag": {
+      "file": "rv-flag-bhs.png",
+      "status": "National or territorial flag; shared national flags are qualified in the question."
+    }
+  },
+  {
+    "code": "BIH",
+    "name": {
+      "en": "Bosnia and Herzegovina",
+      "fr": "Bosnie-Herzégovine"
+    },
+    "continents": [
+      "EU"
+    ],
+    "region": {
+      "en": "Southern Europe",
+      "fr": "Europe du Sud"
+    },
+    "capitals": [],
+    "flag": {
+      "file": "rv-flag-bih.png",
+      "status": "National or territorial flag; shared national flags are qualified in the question."
+    }
+  },
+  {
+    "code": "BLM",
+    "name": {
+      "en": "Saint Barthélemy",
+      "fr": "Saint-Barthélemy"
+    },
+    "continents": [
+      "NA"
+    ],
+    "region": {
+      "en": "Caribbean",
+      "fr": "Caraïbes"
+    },
+    "capitals": [],
+    "flagQualifier": {
+      "en": "French collectivity northwest of Saint Martin",
+      "fr": "Collectivité française au nord-ouest de Saint-Martin"
+    },
+    "flag": {
+      "file": "rv-flag-blm.png",
+      "status": "National or territorial flag; shared national flags are qualified in the question."
+    }
+  },
+  {
+    "code": "BLR",
+    "name": {
+      "en": "Belarus",
+      "fr": "Biélorussie"
+    },
+    "continents": [
+      "EU"
+    ],
+    "region": {
+      "en": "Eastern Europe",
+      "fr": "Europe de l'Est"
+    },
+    "capitals": [],
+    "flag": {
+      "file": "rv-flag-blr.png",
+      "status": "National or territorial flag; shared national flags are qualified in the question."
+    }
+  },
+  {
+    "code": "BLZ",
+    "name": {
+      "en": "Belize",
+      "fr": "Belize"
+    },
+    "continents": [
+      "NA"
+    ],
+    "region": {
+      "en": "Central America",
+      "fr": "Amérique centrale"
+    },
+    "capitals": [],
+    "flag": {
+      "file": "rv-flag-blz.png",
+      "status": "National or territorial flag; shared national flags are qualified in the question."
+    }
+  },
+  {
+    "code": "BMU",
+    "name": {
+      "en": "Bermuda",
+      "fr": "Bermudes"
+    },
+    "continents": [
+      "NA"
+    ],
+    "region": {
+      "en": "Northern America",
+      "fr": "Amérique du Nord"
+    },
+    "capitals": [],
+    "flag": {
+      "file": "rv-flag-bmu.png",
+      "status": "National or territorial flag; shared national flags are qualified in the question."
+    }
+  },
+  {
+    "code": "BOL",
+    "name": {
+      "en": "Bolivia",
+      "fr": "Bolivie"
+    },
+    "continents": [
+      "SA"
+    ],
+    "region": {
+      "en": "South America",
+      "fr": "Amérique du Sud"
+    },
+    "capitals": [],
+    "flag": {
+      "file": "rv-flag-bol.png",
+      "status": "National or territorial flag; shared national flags are qualified in the question."
+    }
+  },
+  {
+    "code": "BRA",
+    "name": {
+      "en": "Brazil",
+      "fr": "Brésil"
+    },
+    "continents": [
+      "SA"
+    ],
+    "region": {
+      "en": "South America",
+      "fr": "Amérique du Sud"
+    },
+    "capitals": [],
+    "flag": {
+      "file": "rv-flag-bra.png",
+      "status": "National or territorial flag; shared national flags are qualified in the question."
+    }
+  },
+  {
+    "code": "BRB",
+    "name": {
+      "en": "Barbados",
+      "fr": "Barbade"
+    },
+    "continents": [
+      "NA"
+    ],
+    "region": {
+      "en": "Caribbean",
+      "fr": "Caraïbes"
+    },
+    "capitals": [],
+    "flag": {
+      "file": "rv-flag-brb.png",
+      "status": "National or territorial flag; shared national flags are qualified in the question."
+    }
+  },
+  {
+    "code": "BRN",
+    "name": {
+      "en": "Brunei",
+      "fr": "Brunei"
+    },
+    "continents": [
+      "AS"
+    ],
+    "region": {
+      "en": "South-Eastern Asia",
+      "fr": "Asie du Sud-Est"
+    },
+    "capitals": [],
+    "flag": {
+      "file": "rv-flag-brn.png",
+      "status": "National or territorial flag; shared national flags are qualified in the question."
+    }
+  },
+  {
+    "code": "BTN",
+    "name": {
+      "en": "Bhutan",
+      "fr": "Bhoutan"
+    },
+    "continents": [
+      "AS"
+    ],
+    "region": {
+      "en": "Southern Asia",
+      "fr": "Asie du Sud"
+    },
+    "capitals": [],
+    "flag": {
+      "file": "rv-flag-btn.png",
+      "status": "National or territorial flag; shared national flags are qualified in the question."
+    }
+  },
+  {
+    "code": "BVT",
+    "name": {
+      "en": "Bouvet Island",
+      "fr": "Île Bouvet"
+    },
+    "continents": [
+      "AN"
+    ],
+    "region": {
+      "en": "Antarctica",
+      "fr": "Antarctique"
+    },
+    "capitals": []
+  },
+  {
+    "code": "BWA",
+    "name": {
+      "en": "Botswana",
+      "fr": "Botswana"
+    },
+    "continents": [
+      "AF"
+    ],
+    "region": {
+      "en": "Southern Africa",
+      "fr": "Afrique australe"
+    },
+    "capitals": [],
+    "flag": {
+      "file": "rv-flag-bwa.png",
+      "status": "National or territorial flag; shared national flags are qualified in the question."
+    }
+  },
+  {
+    "code": "CAF",
+    "name": {
+      "en": "Central African Republic",
+      "fr": "République centrafricaine"
+    },
+    "continents": [
+      "AF"
+    ],
+    "region": {
+      "en": "Middle Africa",
+      "fr": "Afrique centrale"
+    },
+    "capitals": [],
+    "flag": {
+      "file": "rv-flag-caf.png",
+      "status": "National or territorial flag; shared national flags are qualified in the question."
+    }
+  },
+  {
+    "code": "CAN",
+    "name": {
+      "en": "Canada",
+      "fr": "Canada"
+    },
+    "continents": [
+      "NA"
+    ],
+    "region": {
+      "en": "Northern America",
+      "fr": "Amérique du Nord"
+    },
+    "capitals": [],
+    "flag": {
+      "file": "rv-flag-can.png",
+      "status": "National or territorial flag; shared national flags are qualified in the question."
+    }
+  },
+  {
+    "code": "CCK",
+    "name": {
+      "en": "Cocos (Keeling) Islands",
+      "fr": "Îles Cocos (Keeling)"
+    },
+    "continents": [
+      "AS"
+    ],
+    "region": {
+      "en": "South-Eastern Asia",
+      "fr": "Asie du Sud-Est"
+    },
+    "capitals": []
+  },
+  {
+    "code": "CHE",
+    "name": {
+      "en": "Switzerland",
+      "fr": "Suisse"
+    },
+    "continents": [
+      "EU"
+    ],
+    "region": {
+      "en": "Western Europe",
+      "fr": "Europe de l'Ouest"
+    },
+    "capitals": [],
+    "flag": {
+      "file": "rv-flag-che.png",
+      "status": "National or territorial flag; shared national flags are qualified in the question."
+    }
+  },
+  {
+    "code": "CHL",
+    "name": {
+      "en": "Chile",
+      "fr": "Chili"
+    },
+    "continents": [
+      "SA",
+      "OC"
+    ],
+    "region": {
+      "en": "South America",
+      "fr": "Amérique du Sud"
+    },
+    "capitals": [],
+    "flag": {
+      "file": "rv-flag-chl.png",
+      "status": "National or territorial flag; shared national flags are qualified in the question."
+    }
+  },
+  {
+    "code": "CHN",
+    "name": {
+      "en": "China",
+      "fr": "Chine"
+    },
+    "continents": [
+      "AS"
+    ],
+    "region": {
+      "en": "Eastern Asia",
+      "fr": "Asie de l'Est"
+    },
+    "capitals": [],
+    "flag": {
+      "file": "rv-flag-chn.png",
+      "status": "National or territorial flag; shared national flags are qualified in the question."
+    }
+  },
+  {
+    "code": "CIV",
+    "name": {
+      "en": "Ivory Coast",
+      "fr": "Côte d'Ivoire"
+    },
+    "continents": [
+      "AF"
+    ],
+    "region": {
+      "en": "Western Africa",
+      "fr": "Afrique de l'Ouest"
+    },
+    "capitals": [],
+    "flag": {
+      "file": "rv-flag-civ.png",
+      "status": "National or territorial flag; shared national flags are qualified in the question."
+    }
+  },
+  {
+    "code": "CMR",
+    "name": {
+      "en": "Cameroon",
+      "fr": "Cameroun"
+    },
+    "continents": [
+      "AF"
+    ],
+    "region": {
+      "en": "Middle Africa",
+      "fr": "Afrique centrale"
+    },
+    "capitals": [],
+    "flag": {
+      "file": "rv-flag-cmr.png",
+      "status": "National or territorial flag; shared national flags are qualified in the question."
+    }
+  },
+  {
+    "code": "COD",
+    "name": {
+      "en": "Democratic Republic of the Congo",
+      "fr": "République démocratique du Congo"
+    },
+    "continents": [
+      "AF"
+    ],
+    "region": {
+      "en": "Middle Africa",
+      "fr": "Afrique centrale"
+    },
+    "capitals": [],
+    "flag": {
+      "file": "rv-flag-cod.png",
+      "status": "National or territorial flag; shared national flags are qualified in the question."
+    }
+  },
+  {
+    "code": "COG",
+    "name": {
+      "en": "Republic of the Congo",
+      "fr": "République du Congo"
+    },
+    "continents": [
+      "AF"
+    ],
+    "region": {
+      "en": "Middle Africa",
+      "fr": "Afrique centrale"
+    },
+    "capitals": [],
+    "flag": {
+      "file": "rv-flag-cog.png",
+      "status": "National or territorial flag; shared national flags are qualified in the question."
+    }
+  },
+  {
+    "code": "COK",
+    "name": {
+      "en": "Cook Islands",
+      "fr": "Îles Cook"
+    },
+    "continents": [
+      "OC"
+    ],
+    "region": {
+      "en": "Polynesia",
+      "fr": "Polynésie"
+    },
+    "capitals": [],
+    "flag": {
+      "file": "rv-flag-cok.png",
+      "status": "National or territorial flag; shared national flags are qualified in the question."
+    }
+  },
+  {
+    "code": "COL",
+    "name": {
+      "en": "Colombia",
+      "fr": "Colombie"
+    },
+    "continents": [
+      "SA",
+      "NA"
+    ],
+    "region": {
+      "en": "South America",
+      "fr": "Amérique du Sud"
+    },
+    "capitals": [],
+    "flag": {
+      "file": "rv-flag-col.png",
+      "status": "National or territorial flag; shared national flags are qualified in the question."
+    }
+  },
+  {
+    "code": "COM",
+    "name": {
+      "en": "Comoros",
+      "fr": "Comores"
+    },
+    "continents": [
+      "AF"
+    ],
+    "region": {
+      "en": "Eastern Africa",
+      "fr": "Afrique de l'Est"
+    },
+    "capitals": [],
+    "flag": {
+      "file": "rv-flag-com.png",
+      "status": "National or territorial flag; shared national flags are qualified in the question."
+    }
+  },
+  {
+    "code": "CPV",
+    "name": {
+      "en": "Cape Verde",
+      "fr": "Cap-Vert"
+    },
+    "continents": [
+      "AF"
+    ],
+    "region": {
+      "en": "Western Africa",
+      "fr": "Afrique de l'Ouest"
+    },
+    "capitals": [],
+    "flag": {
+      "file": "rv-flag-cpv.png",
+      "status": "National or territorial flag; shared national flags are qualified in the question."
+    }
+  },
+  {
+    "code": "CRI",
+    "name": {
+      "en": "Costa Rica",
+      "fr": "Costa Rica"
+    },
+    "continents": [
+      "NA"
+    ],
+    "region": {
+      "en": "Central America",
+      "fr": "Amérique centrale"
+    },
+    "capitals": [],
+    "flag": {
+      "file": "rv-flag-cri.png",
+      "status": "National or territorial flag; shared national flags are qualified in the question."
+    }
+  },
+  {
+    "code": "CUB",
+    "name": {
+      "en": "Cuba",
+      "fr": "Cuba"
+    },
+    "continents": [
+      "NA"
+    ],
+    "region": {
+      "en": "Caribbean",
+      "fr": "Caraïbes"
+    },
+    "capitals": [],
+    "flag": {
+      "file": "rv-flag-cub.png",
+      "status": "National or territorial flag; shared national flags are qualified in the question."
+    }
+  },
+  {
+    "code": "CUW",
+    "name": {
+      "en": "Curaçao",
+      "fr": "Curaçao"
+    },
+    "continents": [
+      "NA"
+    ],
+    "region": {
+      "en": "Caribbean",
+      "fr": "Caraïbes"
+    },
+    "capitals": [],
+    "flag": {
+      "file": "rv-flag-cuw.png",
+      "status": "National or territorial flag; shared national flags are qualified in the question."
+    }
+  },
+  {
+    "code": "CXR",
+    "name": {
+      "en": "Christmas Island",
+      "fr": "Île Christmas"
+    },
+    "continents": [
+      "AS"
+    ],
+    "region": {
+      "en": "South-Eastern Asia",
+      "fr": "Asie du Sud-Est"
+    },
+    "capitals": [],
+    "flag": {
+      "file": "rv-flag-cxr.png",
+      "status": "National or territorial flag; shared national flags are qualified in the question."
+    }
+  },
+  {
+    "code": "CYM",
+    "name": {
+      "en": "Cayman Islands",
+      "fr": "Îles Caïmans"
+    },
+    "continents": [
+      "NA"
+    ],
+    "region": {
+      "en": "Caribbean",
+      "fr": "Caraïbes"
+    },
+    "capitals": [],
+    "flag": {
+      "file": "rv-flag-cym.png",
+      "status": "National or territorial flag; shared national flags are qualified in the question."
+    }
+  },
+  {
+    "code": "CYP",
+    "name": {
+      "en": "Cyprus",
+      "fr": "Chypre"
+    },
+    "continents": [
+      "AS"
+    ],
+    "region": {
+      "en": "Western Asia",
+      "fr": "Asie de l'Ouest"
+    },
+    "capitals": [],
+    "flag": {
+      "file": "rv-flag-cyp.png",
+      "status": "National or territorial flag; shared national flags are qualified in the question."
+    }
+  },
+  {
+    "code": "CZE",
+    "name": {
+      "en": "Czech Republic",
+      "fr": "Tchéquie"
+    },
+    "continents": [
+      "EU"
+    ],
+    "region": {
+      "en": "Eastern Europe",
+      "fr": "Europe de l'Est"
+    },
+    "capitals": [],
+    "flag": {
+      "file": "rv-flag-cze.png",
+      "status": "National or territorial flag; shared national flags are qualified in the question."
+    }
+  },
+  {
+    "code": "DEU",
+    "name": {
+      "en": "Germany",
+      "fr": "Allemagne"
+    },
+    "continents": [
+      "EU"
+    ],
+    "region": {
+      "en": "Western Europe",
+      "fr": "Europe de l'Ouest"
+    },
+    "capitals": [],
+    "flag": {
+      "file": "rv-flag-deu.png",
+      "status": "National or territorial flag; shared national flags are qualified in the question."
+    }
+  },
+  {
+    "code": "DJI",
+    "name": {
+      "en": "Djibouti",
+      "fr": "Djibouti"
+    },
+    "continents": [
+      "AF"
+    ],
+    "region": {
+      "en": "Eastern Africa",
+      "fr": "Afrique de l'Est"
+    },
+    "capitals": [],
+    "flag": {
+      "file": "rv-flag-dji.png",
+      "status": "National or territorial flag; shared national flags are qualified in the question."
+    }
+  },
+  {
+    "code": "DMA",
+    "name": {
+      "en": "Dominica",
+      "fr": "Dominique"
+    },
+    "continents": [
+      "NA"
+    ],
+    "region": {
+      "en": "Caribbean",
+      "fr": "Caraïbes"
+    },
+    "capitals": [],
+    "flag": {
+      "file": "rv-flag-dma.png",
+      "status": "National or territorial flag; shared national flags are qualified in the question."
+    }
+  },
+  {
+    "code": "DNK",
+    "name": {
+      "en": "Denmark",
+      "fr": "Danemark"
+    },
+    "continents": [
+      "EU"
+    ],
+    "region": {
+      "en": "Northern Europe",
+      "fr": "Europe du Nord"
+    },
+    "capitals": [],
+    "flag": {
+      "file": "rv-flag-dnk.png",
+      "status": "National or territorial flag; shared national flags are qualified in the question."
+    }
+  },
+  {
+    "code": "DOM",
+    "name": {
+      "en": "Dominican Republic",
+      "fr": "République dominicaine"
+    },
+    "continents": [
+      "NA"
+    ],
+    "region": {
+      "en": "Caribbean",
+      "fr": "Caraïbes"
+    },
+    "capitals": [],
+    "flag": {
+      "file": "rv-flag-dom.png",
+      "status": "National or territorial flag; shared national flags are qualified in the question."
+    }
+  },
+  {
+    "code": "DZA",
+    "name": {
+      "en": "Algeria",
+      "fr": "Algérie"
+    },
+    "continents": [
+      "AF"
+    ],
+    "region": {
+      "en": "Northern Africa",
+      "fr": "Afrique du Nord"
+    },
+    "capitals": [],
+    "flag": {
+      "file": "rv-flag-dza.png",
+      "status": "National or territorial flag; shared national flags are qualified in the question."
+    }
+  },
+  {
+    "code": "ECU",
+    "name": {
+      "en": "Ecuador",
+      "fr": "Équateur"
+    },
+    "continents": [
+      "SA"
+    ],
+    "region": {
+      "en": "South America",
+      "fr": "Amérique du Sud"
+    },
+    "capitals": [],
+    "flag": {
+      "file": "rv-flag-ecu.png",
+      "status": "National or territorial flag; shared national flags are qualified in the question."
+    }
+  },
+  {
+    "code": "EGY",
+    "name": {
+      "en": "Egypt",
+      "fr": "Égypte"
+    },
+    "continents": [
+      "AF",
+      "AS"
+    ],
+    "region": {
+      "en": "Northern Africa",
+      "fr": "Afrique du Nord"
+    },
+    "capitals": [],
+    "flag": {
+      "file": "rv-flag-egy.png",
+      "status": "National or territorial flag; shared national flags are qualified in the question."
+    }
+  },
+  {
+    "code": "ERI",
+    "name": {
+      "en": "Eritrea",
+      "fr": "Érythrée"
+    },
+    "continents": [
+      "AF"
+    ],
+    "region": {
+      "en": "Eastern Africa",
+      "fr": "Afrique de l'Est"
+    },
+    "capitals": [],
+    "flag": {
+      "file": "rv-flag-eri.png",
+      "status": "National or territorial flag; shared national flags are qualified in the question."
+    }
+  },
+  {
+    "code": "ESH",
+    "name": {
+      "en": "Western Sahara",
+      "fr": "Sahara occidental"
+    },
+    "continents": [
+      "AF"
+    ],
+    "region": {
+      "en": "Northern Africa",
+      "fr": "Afrique du Nord"
+    },
+    "capitals": []
+  },
+  {
+    "code": "ESP",
+    "name": {
+      "en": "Spain",
+      "fr": "Espagne"
+    },
+    "continents": [
+      "EU",
+      "AF"
+    ],
+    "region": {
+      "en": "Southern Europe",
+      "fr": "Europe du Sud"
+    },
+    "capitals": [],
+    "flag": {
+      "file": "rv-flag-esp.png",
+      "status": "National or territorial flag; shared national flags are qualified in the question."
+    }
+  },
+  {
+    "code": "EST",
+    "name": {
+      "en": "Estonia",
+      "fr": "Estonie"
+    },
+    "continents": [
+      "EU"
+    ],
+    "region": {
+      "en": "Northern Europe",
+      "fr": "Europe du Nord"
+    },
+    "capitals": [],
+    "flag": {
+      "file": "rv-flag-est.png",
+      "status": "National or territorial flag; shared national flags are qualified in the question."
+    }
+  },
+  {
+    "code": "ETH",
+    "name": {
+      "en": "Ethiopia",
+      "fr": "Éthiopie"
+    },
+    "continents": [
+      "AF"
+    ],
+    "region": {
+      "en": "Eastern Africa",
+      "fr": "Afrique de l'Est"
+    },
+    "capitals": [],
+    "flag": {
+      "file": "rv-flag-eth.png",
+      "status": "National or territorial flag; shared national flags are qualified in the question."
+    }
+  },
+  {
+    "code": "FIN",
+    "name": {
+      "en": "Finland",
+      "fr": "Finlande"
+    },
+    "continents": [
+      "EU"
+    ],
+    "region": {
+      "en": "Northern Europe",
+      "fr": "Europe du Nord"
+    },
+    "capitals": [],
+    "flag": {
+      "file": "rv-flag-fin.png",
+      "status": "National or territorial flag; shared national flags are qualified in the question."
+    }
+  },
+  {
+    "code": "FJI",
+    "name": {
+      "en": "Fiji",
+      "fr": "Fidji"
+    },
+    "continents": [
+      "OC"
+    ],
+    "region": {
+      "en": "Melanesia",
+      "fr": "Mélanésie"
+    },
+    "capitals": [],
+    "flag": {
+      "file": "rv-flag-fji.png",
+      "status": "National or territorial flag; shared national flags are qualified in the question."
+    }
+  },
+  {
+    "code": "FLK",
+    "name": {
+      "en": "Falkland Islands",
+      "fr": "Îles Malouines"
+    },
+    "continents": [
+      "SA"
+    ],
+    "region": {
+      "en": "South America",
+      "fr": "Amérique du Sud"
+    },
+    "capitals": [],
+    "flag": {
+      "file": "rv-flag-flk.png",
+      "status": "National or territorial flag; shared national flags are qualified in the question."
+    }
+  },
+  {
+    "code": "FRA",
+    "name": {
+      "en": "France",
+      "fr": "France"
+    },
+    "continents": [
+      "EU",
+      "NA"
+    ],
+    "region": {
+      "en": "Western Europe",
+      "fr": "Europe de l'Ouest"
+    },
+    "capitals": [],
+    "flagQualifier": {
+      "en": "European country",
+      "fr": "Pays européen"
+    },
+    "flag": {
+      "file": "rv-flag-fra.png",
+      "status": "National or territorial flag; shared national flags are qualified in the question."
+    }
+  },
+  {
+    "code": "FRO",
+    "name": {
+      "en": "Faroe Islands",
+      "fr": "Îles Féroé"
+    },
+    "continents": [
+      "EU"
+    ],
+    "region": {
+      "en": "Northern Europe",
+      "fr": "Europe du Nord"
+    },
+    "capitals": [],
+    "flag": {
+      "file": "rv-flag-fro.png",
+      "status": "National or territorial flag; shared national flags are qualified in the question."
+    }
+  },
+  {
+    "code": "FSM",
+    "name": {
+      "en": "Federated States of Micronesia",
+      "fr": "États fédérés de Micronésie"
+    },
+    "continents": [
+      "OC"
+    ],
+    "region": {
+      "en": "Micronesia",
+      "fr": "Micronésie"
+    },
+    "capitals": [],
+    "flag": {
+      "file": "rv-flag-fsm.png",
+      "status": "National or territorial flag; shared national flags are qualified in the question."
+    }
+  },
+  {
+    "code": "GAB",
+    "name": {
+      "en": "Gabon",
+      "fr": "Gabon"
+    },
+    "continents": [
+      "AF"
+    ],
+    "region": {
+      "en": "Middle Africa",
+      "fr": "Afrique centrale"
+    },
+    "capitals": [],
+    "flag": {
+      "file": "rv-flag-gab.png",
+      "status": "National or territorial flag; shared national flags are qualified in the question."
+    }
+  },
+  {
+    "code": "GBR",
+    "name": {
+      "en": "United Kingdom",
+      "fr": "Royaume-Uni"
+    },
+    "continents": [
+      "EU"
+    ],
+    "region": {
+      "en": "Northern Europe",
+      "fr": "Europe du Nord"
+    },
+    "capitals": [],
+    "flag": {
+      "file": "rv-flag-gbr.png",
+      "status": "National or territorial flag; shared national flags are qualified in the question."
+    }
+  },
+  {
+    "code": "GEO",
+    "name": {
+      "en": "Georgia",
+      "fr": "Géorgie"
+    },
+    "continents": [
+      "EU",
+      "AS"
+    ],
+    "region": {
+      "en": "Western Asia",
+      "fr": "Asie de l'Ouest"
+    },
+    "capitals": [],
+    "flag": {
+      "file": "rv-flag-geo.png",
+      "status": "National or territorial flag; shared national flags are qualified in the question."
+    }
+  },
+  {
+    "code": "GGY",
+    "name": {
+      "en": "Guernsey",
+      "fr": "Guernesey"
+    },
+    "continents": [
+      "EU"
+    ],
+    "region": {
+      "en": "Northern Europe",
+      "fr": "Europe du Nord"
+    },
+    "capitals": [],
+    "flag": {
+      "file": "rv-flag-ggy.png",
+      "status": "National or territorial flag; shared national flags are qualified in the question."
+    }
+  },
+  {
+    "code": "GHA",
+    "name": {
+      "en": "Ghana",
+      "fr": "Ghana"
+    },
+    "continents": [
+      "AF"
+    ],
+    "region": {
+      "en": "Western Africa",
+      "fr": "Afrique de l'Ouest"
+    },
+    "capitals": [],
+    "flag": {
+      "file": "rv-flag-gha.png",
+      "status": "National or territorial flag; shared national flags are qualified in the question."
+    }
+  },
+  {
+    "code": "GIB",
+    "name": {
+      "en": "Gibraltar",
+      "fr": "Gibraltar"
+    },
+    "continents": [
+      "EU"
+    ],
+    "region": {
+      "en": "Southern Europe",
+      "fr": "Europe du Sud"
+    },
+    "capitals": [],
+    "flag": {
+      "file": "rv-flag-gib.png",
+      "status": "National or territorial flag; shared national flags are qualified in the question."
+    }
+  },
+  {
+    "code": "GIN",
+    "name": {
+      "en": "Guinea",
+      "fr": "Guinée"
+    },
+    "continents": [
+      "AF"
+    ],
+    "region": {
+      "en": "Western Africa",
+      "fr": "Afrique de l'Ouest"
+    },
+    "capitals": [],
+    "flag": {
+      "file": "rv-flag-gin.png",
+      "status": "National or territorial flag; shared national flags are qualified in the question."
+    }
+  },
+  {
+    "code": "GLP",
+    "name": {
+      "en": "Guadeloupe",
+      "fr": "Guadeloupe"
+    },
+    "continents": [
+      "NA"
+    ],
+    "region": {
+      "en": "Caribbean",
+      "fr": "Caraïbes"
+    },
+    "capitals": [],
+    "flagQualifier": {
+      "en": "French Caribbean archipelago north of Dominica",
+      "fr": "Archipel français des Caraïbes au nord de la Dominique"
+    },
+    "flag": {
+      "file": "rv-flag-glp.png",
+      "status": "National or territorial flag; shared national flags are qualified in the question."
+    }
+  },
+  {
+    "code": "GMB",
+    "name": {
+      "en": "The Gambia",
+      "fr": "Gambie"
+    },
+    "continents": [
+      "AF"
+    ],
+    "region": {
+      "en": "Western Africa",
+      "fr": "Afrique de l'Ouest"
+    },
+    "capitals": [],
+    "flag": {
+      "file": "rv-flag-gmb.png",
+      "status": "National or territorial flag; shared national flags are qualified in the question."
+    }
+  },
+  {
+    "code": "GNB",
+    "name": {
+      "en": "Guinea-Bissau",
+      "fr": "Guinée-Bissau"
+    },
+    "continents": [
+      "AF"
+    ],
+    "region": {
+      "en": "Western Africa",
+      "fr": "Afrique de l'Ouest"
+    },
+    "capitals": [],
+    "flag": {
+      "file": "rv-flag-gnb.png",
+      "status": "National or territorial flag; shared national flags are qualified in the question."
+    }
+  },
+  {
+    "code": "GNQ",
+    "name": {
+      "en": "Equatorial Guinea",
+      "fr": "Guinée équatoriale"
+    },
+    "continents": [
+      "AF"
+    ],
+    "region": {
+      "en": "Middle Africa",
+      "fr": "Afrique centrale"
+    },
+    "capitals": [],
+    "flag": {
+      "file": "rv-flag-gnq.png",
+      "status": "National or territorial flag; shared national flags are qualified in the question."
+    }
+  },
+  {
+    "code": "GRC",
+    "name": {
+      "en": "Greece",
+      "fr": "Grèce"
+    },
+    "continents": [
+      "EU"
+    ],
+    "region": {
+      "en": "Southern Europe",
+      "fr": "Europe du Sud"
+    },
+    "capitals": [],
+    "flag": {
+      "file": "rv-flag-grc.png",
+      "status": "National or territorial flag; shared national flags are qualified in the question."
+    }
+  },
+  {
+    "code": "GRD",
+    "name": {
+      "en": "Grenada",
+      "fr": "Grenade"
+    },
+    "continents": [
+      "NA"
+    ],
+    "region": {
+      "en": "Caribbean",
+      "fr": "Caraïbes"
+    },
+    "capitals": [],
+    "flag": {
+      "file": "rv-flag-grd.png",
+      "status": "National or territorial flag; shared national flags are qualified in the question."
+    }
+  },
+  {
+    "code": "GRL",
+    "name": {
+      "en": "Greenland",
+      "fr": "Groenland"
+    },
+    "continents": [
+      "NA"
+    ],
+    "region": {
+      "en": "Northern America",
+      "fr": "Amérique du Nord"
+    },
+    "capitals": [],
+    "flag": {
+      "file": "rv-flag-grl.png",
+      "status": "National or territorial flag; shared national flags are qualified in the question."
+    }
+  },
+  {
+    "code": "GTM",
+    "name": {
+      "en": "Guatemala",
+      "fr": "Guatemala"
+    },
+    "continents": [
+      "NA"
+    ],
+    "region": {
+      "en": "Central America",
+      "fr": "Amérique centrale"
+    },
+    "capitals": [],
+    "flag": {
+      "file": "rv-flag-gtm.png",
+      "status": "National or territorial flag; shared national flags are qualified in the question."
+    }
+  },
+  {
+    "code": "GUF",
+    "name": {
+      "en": "French Guiana",
+      "fr": "Guyane"
+    },
+    "continents": [
+      "SA"
+    ],
+    "region": {
+      "en": "South America",
+      "fr": "Amérique du Sud"
+    },
+    "capitals": [],
+    "flagQualifier": {
+      "en": "French territory on the South American mainland",
+      "fr": "Territoire français sur le continent sud-américain"
+    },
+    "flag": {
+      "file": "rv-flag-guf.png",
+      "status": "National or territorial flag; shared national flags are qualified in the question."
+    }
+  },
+  {
+    "code": "GUM",
+    "name": {
+      "en": "Guam",
+      "fr": "Guam"
+    },
+    "continents": [
+      "OC"
+    ],
+    "region": {
+      "en": "Micronesia",
+      "fr": "Micronésie"
+    },
+    "capitals": [],
+    "flag": {
+      "file": "rv-flag-gum.png",
+      "status": "National or territorial flag; shared national flags are qualified in the question."
+    }
+  },
+  {
+    "code": "GUY",
+    "name": {
+      "en": "Guyana",
+      "fr": "Guyana"
+    },
+    "continents": [
+      "SA"
+    ],
+    "region": {
+      "en": "South America",
+      "fr": "Amérique du Sud"
+    },
+    "capitals": [],
+    "flag": {
+      "file": "rv-flag-guy.png",
+      "status": "National or territorial flag; shared national flags are qualified in the question."
+    }
+  },
+  {
+    "code": "HKG",
+    "name": {
+      "en": "Hong Kong",
+      "fr": "Hong Kong"
+    },
+    "continents": [
+      "AS"
+    ],
+    "region": {
+      "en": "Eastern Asia",
+      "fr": "Asie de l'Est"
+    },
+    "capitals": [],
+    "flag": {
+      "file": "rv-flag-hkg.png",
+      "status": "National or territorial flag; shared national flags are qualified in the question."
+    }
+  },
+  {
+    "code": "HMD",
+    "name": {
+      "en": "Heard Island and McDonald Islands",
+      "fr": "Îles Heard et McDonald"
+    },
+    "continents": [
+      "AN"
+    ],
+    "region": {
+      "en": "Seven seas (open ocean)",
+      "fr": "Océans"
+    },
+    "capitals": []
+  },
+  {
+    "code": "HND",
+    "name": {
+      "en": "Honduras",
+      "fr": "Honduras"
+    },
+    "continents": [
+      "NA"
+    ],
+    "region": {
+      "en": "Central America",
+      "fr": "Amérique centrale"
+    },
+    "capitals": [],
+    "flag": {
+      "file": "rv-flag-hnd.png",
+      "status": "National or territorial flag; shared national flags are qualified in the question."
+    }
+  },
+  {
+    "code": "HRV",
+    "name": {
+      "en": "Croatia",
+      "fr": "Croatie"
+    },
+    "continents": [
+      "EU"
+    ],
+    "region": {
+      "en": "Southern Europe",
+      "fr": "Europe du Sud"
+    },
+    "capitals": [],
+    "flag": {
+      "file": "rv-flag-hrv.png",
+      "status": "National or territorial flag; shared national flags are qualified in the question."
+    }
+  },
+  {
+    "code": "HTI",
+    "name": {
+      "en": "Haiti",
+      "fr": "Haïti"
+    },
+    "continents": [
+      "NA"
+    ],
+    "region": {
+      "en": "Caribbean",
+      "fr": "Caraïbes"
+    },
+    "capitals": [],
+    "flag": {
+      "file": "rv-flag-hti.png",
+      "status": "National or territorial flag; shared national flags are qualified in the question."
+    }
+  },
+  {
+    "code": "HUN",
+    "name": {
+      "en": "Hungary",
+      "fr": "Hongrie"
+    },
+    "continents": [
+      "EU"
+    ],
+    "region": {
+      "en": "Eastern Europe",
+      "fr": "Europe de l'Est"
+    },
+    "capitals": [],
+    "flag": {
+      "file": "rv-flag-hun.png",
+      "status": "National or territorial flag; shared national flags are qualified in the question."
+    }
+  },
+  {
+    "code": "IDN",
+    "name": {
+      "en": "Indonesia",
+      "fr": "Indonésie"
+    },
+    "continents": [
+      "AS",
+      "OC"
+    ],
+    "region": {
+      "en": "South-Eastern Asia",
+      "fr": "Asie du Sud-Est"
+    },
+    "capitals": [],
+    "flag": {
+      "file": "rv-flag-idn.png",
+      "status": "National or territorial flag; shared national flags are qualified in the question."
+    },
+    "flagQualifier": {
+      "en": "Southeast Asian archipelago",
+      "fr": "Archipel d’Asie du Sud-Est"
+    }
+  },
+  {
+    "code": "IMN",
+    "name": {
+      "en": "Isle of Man",
+      "fr": "Île de Man"
+    },
+    "continents": [
+      "EU"
+    ],
+    "region": {
+      "en": "Northern Europe",
+      "fr": "Europe du Nord"
+    },
+    "capitals": [],
+    "flag": {
+      "file": "rv-flag-imn.png",
+      "status": "National or territorial flag; shared national flags are qualified in the question."
+    }
+  },
+  {
+    "code": "IND",
+    "name": {
+      "en": "India",
+      "fr": "Inde"
+    },
+    "continents": [
+      "AS"
+    ],
+    "region": {
+      "en": "Southern Asia",
+      "fr": "Asie du Sud"
+    },
+    "capitals": [],
+    "flag": {
+      "file": "rv-flag-ind.png",
+      "status": "National or territorial flag; shared national flags are qualified in the question."
+    }
+  },
+  {
+    "code": "IOT",
+    "name": {
+      "en": "British Indian Ocean Territory",
+      "fr": "Territoire britannique de l’océan Indien"
+    },
+    "continents": [
+      "AS"
+    ],
+    "region": {
+      "en": "Seven seas (open ocean)",
+      "fr": "Océans"
+    },
+    "capitals": [],
+    "flag": {
+      "file": "rv-flag-iot.png",
+      "status": "National or territorial flag; shared national flags are qualified in the question."
+    }
+  },
+  {
+    "code": "IRL",
+    "name": {
+      "en": "Ireland",
+      "fr": "Irlande"
+    },
+    "continents": [
+      "EU"
+    ],
+    "region": {
+      "en": "Northern Europe",
+      "fr": "Europe du Nord"
+    },
+    "capitals": [],
+    "flag": {
+      "file": "rv-flag-irl.png",
+      "status": "National or territorial flag; shared national flags are qualified in the question."
+    }
+  },
+  {
+    "code": "IRN",
+    "name": {
+      "en": "Iran",
+      "fr": "Iran"
+    },
+    "continents": [
+      "AS"
+    ],
+    "region": {
+      "en": "Southern Asia",
+      "fr": "Asie du Sud"
+    },
+    "capitals": [],
+    "flag": {
+      "file": "rv-flag-irn.png",
+      "status": "National or territorial flag; shared national flags are qualified in the question."
+    }
+  },
+  {
+    "code": "IRQ",
+    "name": {
+      "en": "Iraq",
+      "fr": "Irak"
+    },
+    "continents": [
+      "AS"
+    ],
+    "region": {
+      "en": "Western Asia",
+      "fr": "Asie de l'Ouest"
+    },
+    "capitals": [],
+    "flag": {
+      "file": "rv-flag-irq.png",
+      "status": "National or territorial flag; shared national flags are qualified in the question."
+    }
+  },
+  {
+    "code": "ISL",
+    "name": {
+      "en": "Iceland",
+      "fr": "Islande"
+    },
+    "continents": [
+      "EU"
+    ],
+    "region": {
+      "en": "Northern Europe",
+      "fr": "Europe du Nord"
+    },
+    "capitals": [],
+    "flag": {
+      "file": "rv-flag-isl.png",
+      "status": "National or territorial flag; shared national flags are qualified in the question."
+    }
+  },
+  {
+    "code": "ISR",
+    "name": {
+      "en": "Israel",
+      "fr": "Israël"
+    },
+    "continents": [
+      "AS"
+    ],
+    "region": {
+      "en": "Western Asia",
+      "fr": "Asie de l'Ouest"
+    },
+    "capitals": [],
+    "flag": {
+      "file": "rv-flag-isr.png",
+      "status": "National or territorial flag; shared national flags are qualified in the question."
+    }
+  },
+  {
+    "code": "ITA",
+    "name": {
+      "en": "Italy",
+      "fr": "Italie"
+    },
+    "continents": [
+      "EU"
+    ],
+    "region": {
+      "en": "Southern Europe",
+      "fr": "Europe du Sud"
+    },
+    "capitals": [],
+    "flag": {
+      "file": "rv-flag-ita.png",
+      "status": "National or territorial flag; shared national flags are qualified in the question."
+    }
+  },
+  {
+    "code": "JAM",
+    "name": {
+      "en": "Jamaica",
+      "fr": "Jamaïque"
+    },
+    "continents": [
+      "NA"
+    ],
+    "region": {
+      "en": "Caribbean",
+      "fr": "Caraïbes"
+    },
+    "capitals": [],
+    "flag": {
+      "file": "rv-flag-jam.png",
+      "status": "National or territorial flag; shared national flags are qualified in the question."
+    }
+  },
+  {
+    "code": "JEY",
+    "name": {
+      "en": "Jersey",
+      "fr": "Jersey"
+    },
+    "continents": [
+      "EU"
+    ],
+    "region": {
+      "en": "Northern Europe",
+      "fr": "Europe du Nord"
+    },
+    "capitals": [],
+    "flag": {
+      "file": "rv-flag-jey.png",
+      "status": "National or territorial flag; shared national flags are qualified in the question."
+    }
+  },
+  {
+    "code": "JOR",
+    "name": {
+      "en": "Jordan",
+      "fr": "Jordanie"
+    },
+    "continents": [
+      "AS"
+    ],
+    "region": {
+      "en": "Western Asia",
+      "fr": "Asie de l'Ouest"
+    },
+    "capitals": [],
+    "flag": {
+      "file": "rv-flag-jor.png",
+      "status": "National or territorial flag; shared national flags are qualified in the question."
+    }
+  },
+  {
+    "code": "JPN",
+    "name": {
+      "en": "Japan",
+      "fr": "Japon"
+    },
+    "continents": [
+      "AS"
+    ],
+    "region": {
+      "en": "Eastern Asia",
+      "fr": "Asie de l'Est"
+    },
+    "capitals": [],
+    "flag": {
+      "file": "rv-flag-jpn.png",
+      "status": "National or territorial flag; shared national flags are qualified in the question."
+    }
+  },
+  {
+    "code": "KAZ",
+    "name": {
+      "en": "Kazakhstan",
+      "fr": "Kazakhstan"
+    },
+    "continents": [
+      "EU",
+      "AS"
+    ],
+    "region": {
+      "en": "Central Asia",
+      "fr": "Asie centrale"
+    },
+    "capitals": [],
+    "flag": {
+      "file": "rv-flag-kaz.png",
+      "status": "National or territorial flag; shared national flags are qualified in the question."
+    }
+  },
+  {
+    "code": "KEN",
+    "name": {
+      "en": "Kenya",
+      "fr": "Kenya"
+    },
+    "continents": [
+      "AF"
+    ],
+    "region": {
+      "en": "Eastern Africa",
+      "fr": "Afrique de l'Est"
+    },
+    "capitals": [],
+    "flag": {
+      "file": "rv-flag-ken.png",
+      "status": "National or territorial flag; shared national flags are qualified in the question."
+    }
+  },
+  {
+    "code": "KGZ",
+    "name": {
+      "en": "Kyrgyzstan",
+      "fr": "Kirghizistan"
+    },
+    "continents": [
+      "AS"
+    ],
+    "region": {
+      "en": "Central Asia",
+      "fr": "Asie centrale"
+    },
+    "capitals": [],
+    "flag": {
+      "file": "rv-flag-kgz.png",
+      "status": "National or territorial flag; shared national flags are qualified in the question."
+    }
+  },
+  {
+    "code": "KHM",
+    "name": {
+      "en": "Cambodia",
+      "fr": "Cambodge"
+    },
+    "continents": [
+      "AS"
+    ],
+    "region": {
+      "en": "South-Eastern Asia",
+      "fr": "Asie du Sud-Est"
+    },
+    "capitals": [],
+    "flag": {
+      "file": "rv-flag-khm.png",
+      "status": "National or territorial flag; shared national flags are qualified in the question."
+    }
+  },
+  {
+    "code": "KIR",
+    "name": {
+      "en": "Kiribati",
+      "fr": "Kiribati"
+    },
+    "continents": [
+      "OC"
+    ],
+    "region": {
+      "en": "Micronesia",
+      "fr": "Micronésie"
+    },
+    "capitals": [],
+    "flag": {
+      "file": "rv-flag-kir.png",
+      "status": "National or territorial flag; shared national flags are qualified in the question."
+    }
+  },
+  {
+    "code": "KNA",
+    "name": {
+      "en": "Saint Kitts and Nevis",
+      "fr": "Saint-Christophe-et-Niévès"
+    },
+    "continents": [
+      "NA"
+    ],
+    "region": {
+      "en": "Caribbean",
+      "fr": "Caraïbes"
+    },
+    "capitals": [],
+    "flag": {
+      "file": "rv-flag-kna.png",
+      "status": "National or territorial flag; shared national flags are qualified in the question."
+    }
+  },
+  {
+    "code": "KOR",
+    "name": {
+      "en": "South Korea",
+      "fr": "Corée du Sud"
+    },
+    "continents": [
+      "AS"
+    ],
+    "region": {
+      "en": "Eastern Asia",
+      "fr": "Asie de l'Est"
+    },
+    "capitals": [],
+    "flag": {
+      "file": "rv-flag-kor.png",
+      "status": "National or territorial flag; shared national flags are qualified in the question."
+    }
+  },
+  {
+    "code": "KWT",
+    "name": {
+      "en": "Kuwait",
+      "fr": "Koweït"
+    },
+    "continents": [
+      "AS"
+    ],
+    "region": {
+      "en": "Western Asia",
+      "fr": "Asie de l'Ouest"
+    },
+    "capitals": [],
+    "flag": {
+      "file": "rv-flag-kwt.png",
+      "status": "National or territorial flag; shared national flags are qualified in the question."
+    }
+  },
+  {
+    "code": "LAO",
+    "name": {
+      "en": "Laos",
+      "fr": "Laos"
+    },
+    "continents": [
+      "AS"
+    ],
+    "region": {
+      "en": "South-Eastern Asia",
+      "fr": "Asie du Sud-Est"
+    },
+    "capitals": [],
+    "flag": {
+      "file": "rv-flag-lao.png",
+      "status": "National or territorial flag; shared national flags are qualified in the question."
+    }
+  },
+  {
+    "code": "LBN",
+    "name": {
+      "en": "Lebanon",
+      "fr": "Liban"
+    },
+    "continents": [
+      "AS"
+    ],
+    "region": {
+      "en": "Western Asia",
+      "fr": "Asie de l'Ouest"
+    },
+    "capitals": [],
+    "flag": {
+      "file": "rv-flag-lbn.png",
+      "status": "National or territorial flag; shared national flags are qualified in the question."
+    }
+  },
+  {
+    "code": "LBR",
+    "name": {
+      "en": "Liberia",
+      "fr": "Liberia"
+    },
+    "continents": [
+      "AF"
+    ],
+    "region": {
+      "en": "Western Africa",
+      "fr": "Afrique de l'Ouest"
+    },
+    "capitals": [],
+    "flag": {
+      "file": "rv-flag-lbr.png",
+      "status": "National or territorial flag; shared national flags are qualified in the question."
+    }
+  },
+  {
+    "code": "LBY",
+    "name": {
+      "en": "Libya",
+      "fr": "Libye"
+    },
+    "continents": [
+      "AF"
+    ],
+    "region": {
+      "en": "Northern Africa",
+      "fr": "Afrique du Nord"
+    },
+    "capitals": [],
+    "flag": {
+      "file": "rv-flag-lby.png",
+      "status": "National or territorial flag; shared national flags are qualified in the question."
+    }
+  },
+  {
+    "code": "LCA",
+    "name": {
+      "en": "Saint Lucia",
+      "fr": "Sainte-Lucie"
+    },
+    "continents": [
+      "NA"
+    ],
+    "region": {
+      "en": "Caribbean",
+      "fr": "Caraïbes"
+    },
+    "capitals": [],
+    "flag": {
+      "file": "rv-flag-lca.png",
+      "status": "National or territorial flag; shared national flags are qualified in the question."
+    }
+  },
+  {
+    "code": "LIE",
+    "name": {
+      "en": "Liechtenstein",
+      "fr": "Liechtenstein"
+    },
+    "continents": [
+      "EU"
+    ],
+    "region": {
+      "en": "Western Europe",
+      "fr": "Europe de l'Ouest"
+    },
+    "capitals": [],
+    "flag": {
+      "file": "rv-flag-lie.png",
+      "status": "National or territorial flag; shared national flags are qualified in the question."
+    }
+  },
+  {
+    "code": "LKA",
+    "name": {
+      "en": "Sri Lanka",
+      "fr": "Sri Lanka"
+    },
+    "continents": [
+      "AS"
+    ],
+    "region": {
+      "en": "Southern Asia",
+      "fr": "Asie du Sud"
+    },
+    "capitals": [],
+    "flag": {
+      "file": "rv-flag-lka.png",
+      "status": "National or territorial flag; shared national flags are qualified in the question."
+    }
+  },
+  {
+    "code": "LSO",
+    "name": {
+      "en": "Lesotho",
+      "fr": "Lesotho"
+    },
+    "continents": [
+      "AF"
+    ],
+    "region": {
+      "en": "Southern Africa",
+      "fr": "Afrique australe"
+    },
+    "capitals": [],
+    "flag": {
+      "file": "rv-flag-lso.png",
+      "status": "National or territorial flag; shared national flags are qualified in the question."
+    }
+  },
+  {
+    "code": "LTU",
+    "name": {
+      "en": "Lithuania",
+      "fr": "Lituanie"
+    },
+    "continents": [
+      "EU"
+    ],
+    "region": {
+      "en": "Northern Europe",
+      "fr": "Europe du Nord"
+    },
+    "capitals": [],
+    "flag": {
+      "file": "rv-flag-ltu.png",
+      "status": "National or territorial flag; shared national flags are qualified in the question."
+    }
+  },
+  {
+    "code": "LUX",
+    "name": {
+      "en": "Luxembourg",
+      "fr": "Luxembourg"
+    },
+    "continents": [
+      "EU"
+    ],
+    "region": {
+      "en": "Western Europe",
+      "fr": "Europe de l'Ouest"
+    },
+    "capitals": [],
+    "flag": {
+      "file": "rv-flag-lux.png",
+      "status": "National or territorial flag; shared national flags are qualified in the question."
+    }
+  },
+  {
+    "code": "LVA",
+    "name": {
+      "en": "Latvia",
+      "fr": "Lettonie"
+    },
+    "continents": [
+      "EU"
+    ],
+    "region": {
+      "en": "Northern Europe",
+      "fr": "Europe du Nord"
+    },
+    "capitals": [],
+    "flag": {
+      "file": "rv-flag-lva.png",
+      "status": "National or territorial flag; shared national flags are qualified in the question."
+    }
+  },
+  {
+    "code": "MAC",
+    "name": {
+      "en": "Macau",
+      "fr": "Macao"
+    },
+    "continents": [
+      "AS"
+    ],
+    "region": {
+      "en": "Eastern Asia",
+      "fr": "Asie de l'Est"
+    },
+    "capitals": [],
+    "flag": {
+      "file": "rv-flag-mac.png",
+      "status": "National or territorial flag; shared national flags are qualified in the question."
+    }
+  },
+  {
+    "code": "MAF",
+    "name": {
+      "en": "Saint Martin",
+      "fr": "Saint-Martin (Antilles françaises)"
+    },
+    "continents": [
+      "NA"
+    ],
+    "region": {
+      "en": "Caribbean",
+      "fr": "Caraïbes"
+    },
+    "capitals": [],
+    "flagQualifier": {
+      "en": "French part of an island shared with the Netherlands",
+      "fr": "Partie française d’une île partagée avec les Pays-Bas"
+    },
+    "flag": {
+      "file": "rv-flag-maf.png",
+      "status": "National or territorial flag; shared national flags are qualified in the question."
+    }
+  },
+  {
+    "code": "MAR",
+    "name": {
+      "en": "Morocco",
+      "fr": "Maroc"
+    },
+    "continents": [
+      "AF"
+    ],
+    "region": {
+      "en": "Northern Africa",
+      "fr": "Afrique du Nord"
+    },
+    "capitals": [],
+    "flag": {
+      "file": "rv-flag-mar.png",
+      "status": "National or territorial flag; shared national flags are qualified in the question."
+    }
+  },
+  {
+    "code": "MCO",
+    "name": {
+      "en": "Monaco",
+      "fr": "Monaco"
+    },
+    "continents": [
+      "EU"
+    ],
+    "region": {
+      "en": "Western Europe",
+      "fr": "Europe de l'Ouest"
+    },
+    "capitals": [],
+    "flag": {
+      "file": "rv-flag-mco.png",
+      "status": "National or territorial flag; shared national flags are qualified in the question."
+    },
+    "flagQualifier": {
+      "en": "European principality",
+      "fr": "Principauté européenne"
+    }
+  },
+  {
+    "code": "MDA",
+    "name": {
+      "en": "Moldova",
+      "fr": "Moldavie"
+    },
+    "continents": [
+      "EU"
+    ],
+    "region": {
+      "en": "Eastern Europe",
+      "fr": "Europe de l'Est"
+    },
+    "capitals": [],
+    "flag": {
+      "file": "rv-flag-mda.png",
+      "status": "National or territorial flag; shared national flags are qualified in the question."
+    }
+  },
+  {
+    "code": "MDG",
+    "name": {
+      "en": "Madagascar",
+      "fr": "Madagascar"
+    },
+    "continents": [
+      "AF"
+    ],
+    "region": {
+      "en": "Eastern Africa",
+      "fr": "Afrique de l'Est"
+    },
+    "capitals": [],
+    "flag": {
+      "file": "rv-flag-mdg.png",
+      "status": "National or territorial flag; shared national flags are qualified in the question."
+    }
+  },
+  {
+    "code": "MDV",
+    "name": {
+      "en": "Maldives",
+      "fr": "Maldives"
+    },
+    "continents": [
+      "AS"
+    ],
+    "region": {
+      "en": "Southern Asia",
+      "fr": "Asie du Sud"
+    },
+    "capitals": [],
+    "flag": {
+      "file": "rv-flag-mdv.png",
+      "status": "National or territorial flag; shared national flags are qualified in the question."
+    }
+  },
+  {
+    "code": "MEX",
+    "name": {
+      "en": "Mexico",
+      "fr": "Mexique"
+    },
+    "continents": [
+      "NA"
+    ],
+    "region": {
+      "en": "Central America",
+      "fr": "Amérique centrale"
+    },
+    "capitals": [],
+    "flag": {
+      "file": "rv-flag-mex.png",
+      "status": "National or territorial flag; shared national flags are qualified in the question."
+    }
+  },
+  {
+    "code": "MHL",
+    "name": {
+      "en": "Marshall Islands",
+      "fr": "Îles Marshall"
+    },
+    "continents": [
+      "OC"
+    ],
+    "region": {
+      "en": "Micronesia",
+      "fr": "Micronésie"
+    },
+    "capitals": [],
+    "flag": {
+      "file": "rv-flag-mhl.png",
+      "status": "National or territorial flag; shared national flags are qualified in the question."
+    }
+  },
+  {
+    "code": "MKD",
+    "name": {
+      "en": "North Macedonia",
+      "fr": "Macédoine du Nord"
+    },
+    "continents": [
+      "EU"
+    ],
+    "region": {
+      "en": "Southern Europe",
+      "fr": "Europe du Sud"
+    },
+    "capitals": [],
+    "flag": {
+      "file": "rv-flag-mkd.png",
+      "status": "National or territorial flag; shared national flags are qualified in the question."
+    }
+  },
+  {
+    "code": "MLI",
+    "name": {
+      "en": "Mali",
+      "fr": "Mali"
+    },
+    "continents": [
+      "AF"
+    ],
+    "region": {
+      "en": "Western Africa",
+      "fr": "Afrique de l'Ouest"
+    },
+    "capitals": [],
+    "flag": {
+      "file": "rv-flag-mli.png",
+      "status": "National or territorial flag; shared national flags are qualified in the question."
+    }
+  },
+  {
+    "code": "MLT",
+    "name": {
+      "en": "Malta",
+      "fr": "Malte"
+    },
+    "continents": [
+      "EU"
+    ],
+    "region": {
+      "en": "Southern Europe",
+      "fr": "Europe du Sud"
+    },
+    "capitals": [],
+    "flag": {
+      "file": "rv-flag-mlt.png",
+      "status": "National or territorial flag; shared national flags are qualified in the question."
+    }
+  },
+  {
+    "code": "MMR",
+    "name": {
+      "en": "Myanmar",
+      "fr": "Birmanie"
+    },
+    "continents": [
+      "AS"
+    ],
+    "region": {
+      "en": "South-Eastern Asia",
+      "fr": "Asie du Sud-Est"
+    },
+    "capitals": [],
+    "flag": {
+      "file": "rv-flag-mmr.png",
+      "status": "National or territorial flag; shared national flags are qualified in the question."
+    }
+  },
+  {
+    "code": "MNE",
+    "name": {
+      "en": "Montenegro",
+      "fr": "Monténégro"
+    },
+    "continents": [
+      "EU"
+    ],
+    "region": {
+      "en": "Southern Europe",
+      "fr": "Europe du Sud"
+    },
+    "capitals": [],
+    "flag": {
+      "file": "rv-flag-mne.png",
+      "status": "National or territorial flag; shared national flags are qualified in the question."
+    }
+  },
+  {
+    "code": "MNG",
+    "name": {
+      "en": "Mongolia",
+      "fr": "Mongolie"
+    },
+    "continents": [
+      "AS"
+    ],
+    "region": {
+      "en": "Eastern Asia",
+      "fr": "Asie de l'Est"
+    },
+    "capitals": [],
+    "flag": {
+      "file": "rv-flag-mng.png",
+      "status": "National or territorial flag; shared national flags are qualified in the question."
+    }
+  },
+  {
+    "code": "MNP",
+    "name": {
+      "en": "Northern Mariana Islands",
+      "fr": "Îles Mariannes du Nord"
+    },
+    "continents": [
+      "OC"
+    ],
+    "region": {
+      "en": "Micronesia",
+      "fr": "Micronésie"
+    },
+    "capitals": [],
+    "flag": {
+      "file": "rv-flag-mnp.png",
+      "status": "National or territorial flag; shared national flags are qualified in the question."
+    }
+  },
+  {
+    "code": "MOZ",
+    "name": {
+      "en": "Mozambique",
+      "fr": "Mozambique"
+    },
+    "continents": [
+      "AF"
+    ],
+    "region": {
+      "en": "Eastern Africa",
+      "fr": "Afrique de l'Est"
+    },
+    "capitals": [],
+    "flag": {
+      "file": "rv-flag-moz.png",
+      "status": "National or territorial flag; shared national flags are qualified in the question."
+    }
+  },
+  {
+    "code": "MRT",
+    "name": {
+      "en": "Mauritania",
+      "fr": "Mauritanie"
+    },
+    "continents": [
+      "AF"
+    ],
+    "region": {
+      "en": "Western Africa",
+      "fr": "Afrique de l'Ouest"
+    },
+    "capitals": [],
+    "flag": {
+      "file": "rv-flag-mrt.png",
+      "status": "National or territorial flag; shared national flags are qualified in the question."
+    }
+  },
+  {
+    "code": "MSR",
+    "name": {
+      "en": "Montserrat",
+      "fr": "Montserrat"
+    },
+    "continents": [
+      "NA"
+    ],
+    "region": {
+      "en": "Caribbean",
+      "fr": "Caraïbes"
+    },
+    "capitals": [],
+    "flag": {
+      "file": "rv-flag-msr.png",
+      "status": "National or territorial flag; shared national flags are qualified in the question."
+    }
+  },
+  {
+    "code": "MTQ",
+    "name": {
+      "en": "Martinique",
+      "fr": "Martinique"
+    },
+    "continents": [
+      "NA"
+    ],
+    "region": {
+      "en": "Caribbean",
+      "fr": "Caraïbes"
+    },
+    "capitals": [],
+    "flagQualifier": {
+      "en": "French Caribbean island south of Dominica",
+      "fr": "Île française des Caraïbes au sud de la Dominique"
+    },
+    "flag": {
+      "file": "rv-flag-mtq.png",
+      "status": "National or territorial flag; shared national flags are qualified in the question."
+    }
+  },
+  {
+    "code": "MUS",
+    "name": {
+      "en": "Mauritius",
+      "fr": "Maurice"
+    },
+    "continents": [
+      "AF"
+    ],
+    "region": {
+      "en": "Eastern Africa",
+      "fr": "Afrique de l'Est"
+    },
+    "capitals": [],
+    "flag": {
+      "file": "rv-flag-mus.png",
+      "status": "National or territorial flag; shared national flags are qualified in the question."
+    }
+  },
+  {
+    "code": "MWI",
+    "name": {
+      "en": "Malawi",
+      "fr": "Malawi"
+    },
+    "continents": [
+      "AF"
+    ],
+    "region": {
+      "en": "Eastern Africa",
+      "fr": "Afrique de l'Est"
+    },
+    "capitals": [],
+    "flag": {
+      "file": "rv-flag-mwi.png",
+      "status": "National or territorial flag; shared national flags are qualified in the question."
+    }
+  },
+  {
+    "code": "MYS",
+    "name": {
+      "en": "Malaysia",
+      "fr": "Malaisie"
+    },
+    "continents": [
+      "AS"
+    ],
+    "region": {
+      "en": "South-Eastern Asia",
+      "fr": "Asie du Sud-Est"
+    },
+    "capitals": [],
+    "flag": {
+      "file": "rv-flag-mys.png",
+      "status": "National or territorial flag; shared national flags are qualified in the question."
+    }
+  },
+  {
+    "code": "MYT",
+    "name": {
+      "en": "Mayotte",
+      "fr": "Mayotte"
+    },
+    "continents": [
+      "AF"
+    ],
+    "region": {
+      "en": "Eastern Africa",
+      "fr": "Afrique de l'Est"
+    },
+    "capitals": [],
+    "flagQualifier": {
+      "en": "French department in the Mozambique Channel",
+      "fr": "Département français dans le canal du Mozambique"
+    },
+    "flag": {
+      "file": "rv-flag-myt.png",
+      "status": "National or territorial flag; shared national flags are qualified in the question."
+    }
+  },
+  {
+    "code": "NAM",
+    "name": {
+      "en": "Namibia",
+      "fr": "Namibie"
+    },
+    "continents": [
+      "AF"
+    ],
+    "region": {
+      "en": "Southern Africa",
+      "fr": "Afrique australe"
+    },
+    "capitals": [],
+    "flag": {
+      "file": "rv-flag-nam.png",
+      "status": "National or territorial flag; shared national flags are qualified in the question."
+    }
+  },
+  {
+    "code": "NCL",
+    "name": {
+      "en": "New Caledonia",
+      "fr": "Nouvelle-Calédonie"
+    },
+    "continents": [
+      "OC"
+    ],
+    "region": {
+      "en": "Melanesia",
+      "fr": "Mélanésie"
+    },
+    "capitals": [],
+    "flagQualifier": {
+      "en": "French collectivity in Melanesia; French national flag",
+      "fr": "Collectivité française de Mélanésie ; drapeau national français"
+    },
+    "flag": {
+      "file": "rv-flag-ncl.png",
+      "status": "National or territorial flag; shared national flags are qualified in the question."
+    }
+  },
+  {
+    "code": "NER",
+    "name": {
+      "en": "Niger",
+      "fr": "Niger"
+    },
+    "continents": [
+      "AF"
+    ],
+    "region": {
+      "en": "Western Africa",
+      "fr": "Afrique de l'Ouest"
+    },
+    "capitals": [],
+    "flag": {
+      "file": "rv-flag-ner.png",
+      "status": "National or territorial flag; shared national flags are qualified in the question."
+    }
+  },
+  {
+    "code": "NFK",
+    "name": {
+      "en": "Norfolk Island",
+      "fr": "Île Norfolk"
+    },
+    "continents": [
+      "OC"
+    ],
+    "region": {
+      "en": "Australia and New Zealand",
+      "fr": "Australie et Nouvelle-Zélande"
+    },
+    "capitals": [],
+    "flag": {
+      "file": "rv-flag-nfk.png",
+      "status": "National or territorial flag; shared national flags are qualified in the question."
+    }
+  },
+  {
+    "code": "NGA",
+    "name": {
+      "en": "Nigeria",
+      "fr": "Nigeria"
+    },
+    "continents": [
+      "AF"
+    ],
+    "region": {
+      "en": "Western Africa",
+      "fr": "Afrique de l'Ouest"
+    },
+    "capitals": [],
+    "flag": {
+      "file": "rv-flag-nga.png",
+      "status": "National or territorial flag; shared national flags are qualified in the question."
+    }
+  },
+  {
+    "code": "NIC",
+    "name": {
+      "en": "Nicaragua",
+      "fr": "Nicaragua"
+    },
+    "continents": [
+      "NA"
+    ],
+    "region": {
+      "en": "Central America",
+      "fr": "Amérique centrale"
+    },
+    "capitals": [],
+    "flag": {
+      "file": "rv-flag-nic.png",
+      "status": "National or territorial flag; shared national flags are qualified in the question."
+    }
+  },
+  {
+    "code": "NIU",
+    "name": {
+      "en": "Niue",
+      "fr": "Niue"
+    },
+    "continents": [
+      "OC"
+    ],
+    "region": {
+      "en": "Polynesia",
+      "fr": "Polynésie"
+    },
+    "capitals": [],
+    "flag": {
+      "file": "rv-flag-niu.png",
+      "status": "National or territorial flag; shared national flags are qualified in the question."
+    }
+  },
+  {
+    "code": "NLD",
+    "name": {
+      "en": "Netherlands",
+      "fr": "Pays-Bas"
+    },
+    "continents": [
+      "EU"
+    ],
+    "region": {
+      "en": "Western Europe",
+      "fr": "Europe de l'Ouest"
+    },
+    "capitals": [],
+    "flag": {
+      "file": "rv-flag-nld.png",
+      "status": "National or territorial flag; shared national flags are qualified in the question."
+    }
+  },
+  {
+    "code": "NOR",
+    "name": {
+      "en": "Norway",
+      "fr": "Norvège"
+    },
+    "continents": [
+      "EU"
+    ],
+    "region": {
+      "en": "Northern Europe",
+      "fr": "Europe du Nord"
+    },
+    "capitals": [],
+    "flag": {
+      "file": "rv-flag-nor.png",
+      "status": "National or territorial flag; shared national flags are qualified in the question."
+    }
+  },
+  {
+    "code": "NPL",
+    "name": {
+      "en": "Nepal",
+      "fr": "Népal"
+    },
+    "continents": [
+      "AS"
+    ],
+    "region": {
+      "en": "Southern Asia",
+      "fr": "Asie du Sud"
+    },
+    "capitals": [],
+    "flag": {
+      "file": "rv-flag-npl.png",
+      "status": "National or territorial flag; shared national flags are qualified in the question."
+    }
+  },
+  {
+    "code": "NRU",
+    "name": {
+      "en": "Nauru",
+      "fr": "Nauru"
+    },
+    "continents": [
+      "OC"
+    ],
+    "region": {
+      "en": "Micronesia",
+      "fr": "Micronésie"
+    },
+    "capitals": [],
+    "flag": {
+      "file": "rv-flag-nru.png",
+      "status": "National or territorial flag; shared national flags are qualified in the question."
+    }
+  },
+  {
+    "code": "NZL",
+    "name": {
+      "en": "New Zealand",
+      "fr": "Nouvelle-Zélande"
+    },
+    "continents": [
+      "OC"
+    ],
+    "region": {
+      "en": "Australia and New Zealand",
+      "fr": "Australie et Nouvelle-Zélande"
+    },
+    "capitals": [],
+    "flag": {
+      "file": "rv-flag-nzl.png",
+      "status": "National or territorial flag; shared national flags are qualified in the question."
+    }
+  },
+  {
+    "code": "OMN",
+    "name": {
+      "en": "Oman",
+      "fr": "Oman"
+    },
+    "continents": [
+      "AS"
+    ],
+    "region": {
+      "en": "Western Asia",
+      "fr": "Asie de l'Ouest"
+    },
+    "capitals": [],
+    "flag": {
+      "file": "rv-flag-omn.png",
+      "status": "National or territorial flag; shared national flags are qualified in the question."
+    }
+  },
+  {
+    "code": "PAK",
+    "name": {
+      "en": "Pakistan",
+      "fr": "Pakistan"
+    },
+    "continents": [
+      "AS"
+    ],
+    "region": {
+      "en": "Southern Asia",
+      "fr": "Asie du Sud"
+    },
+    "capitals": [],
+    "flag": {
+      "file": "rv-flag-pak.png",
+      "status": "National or territorial flag; shared national flags are qualified in the question."
+    }
+  },
+  {
+    "code": "PAN",
+    "name": {
+      "en": "Panama",
+      "fr": "Panama"
+    },
+    "continents": [
+      "NA"
+    ],
+    "region": {
+      "en": "Central America",
+      "fr": "Amérique centrale"
+    },
+    "capitals": [],
+    "flag": {
+      "file": "rv-flag-pan.png",
+      "status": "National or territorial flag; shared national flags are qualified in the question."
+    }
+  },
+  {
+    "code": "PCN",
+    "name": {
+      "en": "Pitcairn Islands",
+      "fr": "Îles Pitcairn"
+    },
+    "continents": [
+      "OC"
+    ],
+    "region": {
+      "en": "Polynesia",
+      "fr": "Polynésie"
+    },
+    "capitals": [],
+    "flag": {
+      "file": "rv-flag-pcn.png",
+      "status": "National or territorial flag; shared national flags are qualified in the question."
+    }
+  },
+  {
+    "code": "PER",
+    "name": {
+      "en": "Peru",
+      "fr": "Pérou"
+    },
+    "continents": [
+      "SA"
+    ],
+    "region": {
+      "en": "South America",
+      "fr": "Amérique du Sud"
+    },
+    "capitals": [],
+    "flag": {
+      "file": "rv-flag-per.png",
+      "status": "National or territorial flag; shared national flags are qualified in the question."
+    }
+  },
+  {
+    "code": "PHL",
+    "name": {
+      "en": "Philippines",
+      "fr": "Philippines"
+    },
+    "continents": [
+      "AS"
+    ],
+    "region": {
+      "en": "South-Eastern Asia",
+      "fr": "Asie du Sud-Est"
+    },
+    "capitals": [],
+    "flag": {
+      "file": "rv-flag-phl.png",
+      "status": "National or territorial flag; shared national flags are qualified in the question."
+    }
+  },
+  {
+    "code": "PLW",
+    "name": {
+      "en": "Palau",
+      "fr": "Palaos"
+    },
+    "continents": [
+      "OC"
+    ],
+    "region": {
+      "en": "Micronesia",
+      "fr": "Micronésie"
+    },
+    "capitals": [],
+    "flag": {
+      "file": "rv-flag-plw.png",
+      "status": "National or territorial flag; shared national flags are qualified in the question."
+    }
+  },
+  {
+    "code": "PNG",
+    "name": {
+      "en": "Papua New Guinea",
+      "fr": "Papouasie-Nouvelle-Guinée"
+    },
+    "continents": [
+      "OC"
+    ],
+    "region": {
+      "en": "Melanesia",
+      "fr": "Mélanésie"
+    },
+    "capitals": [],
+    "flag": {
+      "file": "rv-flag-png.png",
+      "status": "National or territorial flag; shared national flags are qualified in the question."
+    }
+  },
+  {
+    "code": "POL",
+    "name": {
+      "en": "Poland",
+      "fr": "Pologne"
+    },
+    "continents": [
+      "EU"
+    ],
+    "region": {
+      "en": "Eastern Europe",
+      "fr": "Europe de l'Est"
+    },
+    "capitals": [],
+    "flag": {
+      "file": "rv-flag-pol.png",
+      "status": "National or territorial flag; shared national flags are qualified in the question."
+    }
+  },
+  {
+    "code": "PRI",
+    "name": {
+      "en": "Puerto Rico",
+      "fr": "Porto Rico"
+    },
+    "continents": [
+      "NA"
+    ],
+    "region": {
+      "en": "Caribbean",
+      "fr": "Caraïbes"
+    },
+    "capitals": [],
+    "flag": {
+      "file": "rv-flag-pri.png",
+      "status": "National or territorial flag; shared national flags are qualified in the question."
+    }
+  },
+  {
+    "code": "PRK",
+    "name": {
+      "en": "North Korea",
+      "fr": "Corée du Nord"
+    },
+    "continents": [
+      "AS"
+    ],
+    "region": {
+      "en": "Eastern Asia",
+      "fr": "Asie de l'Est"
+    },
+    "capitals": [],
+    "flag": {
+      "file": "rv-flag-prk.png",
+      "status": "National or territorial flag; shared national flags are qualified in the question."
+    }
+  },
+  {
+    "code": "PRT",
+    "name": {
+      "en": "Portugal",
+      "fr": "Portugal"
+    },
+    "continents": [
+      "EU",
+      "AF"
+    ],
+    "region": {
+      "en": "Southern Europe",
+      "fr": "Europe du Sud"
+    },
+    "capitals": [],
+    "flag": {
+      "file": "rv-flag-prt.png",
+      "status": "National or territorial flag; shared national flags are qualified in the question."
+    }
+  },
+  {
+    "code": "PRY",
+    "name": {
+      "en": "Paraguay",
+      "fr": "Paraguay"
+    },
+    "continents": [
+      "SA"
+    ],
+    "region": {
+      "en": "South America",
+      "fr": "Amérique du Sud"
+    },
+    "capitals": [],
+    "flag": {
+      "file": "rv-flag-pry.png",
+      "status": "National or territorial flag; shared national flags are qualified in the question."
+    }
+  },
+  {
+    "code": "PSE",
+    "name": {
+      "en": "Palestine",
+      "fr": "Palestine"
+    },
+    "continents": [
+      "AS"
+    ],
+    "region": {
+      "en": "Western Asia",
+      "fr": "Asie de l'Ouest"
+    },
+    "capitals": [],
+    "flag": {
+      "file": "rv-flag-pse.png",
+      "status": "National or territorial flag; shared national flags are qualified in the question."
+    }
+  },
+  {
+    "code": "PYF",
+    "name": {
+      "en": "French Polynesia",
+      "fr": "Polynésie française"
+    },
+    "continents": [
+      "OC"
+    ],
+    "region": {
+      "en": "Polynesia",
+      "fr": "Polynésie"
+    },
+    "capitals": [],
+    "flag": {
+      "file": "rv-flag-pyf.png",
+      "status": "National or territorial flag; shared national flags are qualified in the question."
+    }
+  },
+  {
+    "code": "QAT",
+    "name": {
+      "en": "Qatar",
+      "fr": "Qatar"
+    },
+    "continents": [
+      "AS"
+    ],
+    "region": {
+      "en": "Western Asia",
+      "fr": "Asie de l'Ouest"
+    },
+    "capitals": [],
+    "flag": {
+      "file": "rv-flag-qat.png",
+      "status": "National or territorial flag; shared national flags are qualified in the question."
+    }
+  },
+  {
+    "code": "REU",
+    "name": {
+      "en": "Réunion",
+      "fr": "La Réunion"
+    },
+    "continents": [
+      "AF"
+    ],
+    "region": {
+      "en": "Eastern Africa",
+      "fr": "Afrique de l'Est"
+    },
+    "capitals": [],
+    "flagQualifier": {
+      "en": "French island east of Madagascar",
+      "fr": "Île française à l’est de Madagascar"
+    },
+    "flag": {
+      "file": "rv-flag-reu.png",
+      "status": "National or territorial flag; shared national flags are qualified in the question."
+    }
+  },
+  {
+    "code": "ROU",
+    "name": {
+      "en": "Romania",
+      "fr": "Roumanie"
+    },
+    "continents": [
+      "EU"
+    ],
+    "region": {
+      "en": "Eastern Europe",
+      "fr": "Europe de l'Est"
+    },
+    "capitals": [],
+    "flag": {
+      "file": "rv-flag-rou.png",
+      "status": "National or territorial flag; shared national flags are qualified in the question."
+    },
+    "flagQualifier": {
+      "en": "Country on the Black Sea",
+      "fr": "Pays riverain de la mer Noire"
+    }
+  },
+  {
+    "code": "RUS",
+    "name": {
+      "en": "Russia",
+      "fr": "Russie"
+    },
+    "continents": [
+      "EU",
+      "AS"
+    ],
+    "region": {
+      "en": "Eastern Europe",
+      "fr": "Europe de l'Est"
+    },
+    "capitals": [],
+    "flag": {
+      "file": "rv-flag-rus.png",
+      "status": "National or territorial flag; shared national flags are qualified in the question."
+    }
+  },
+  {
+    "code": "RWA",
+    "name": {
+      "en": "Rwanda",
+      "fr": "Rwanda"
+    },
+    "continents": [
+      "AF"
+    ],
+    "region": {
+      "en": "Eastern Africa",
+      "fr": "Afrique de l'Est"
+    },
+    "capitals": [],
+    "flag": {
+      "file": "rv-flag-rwa.png",
+      "status": "National or territorial flag; shared national flags are qualified in the question."
+    }
+  },
+  {
+    "code": "SAU",
+    "name": {
+      "en": "Saudi Arabia",
+      "fr": "Arabie saoudite"
+    },
+    "continents": [
+      "AS"
+    ],
+    "region": {
+      "en": "Western Asia",
+      "fr": "Asie de l'Ouest"
+    },
+    "capitals": [],
+    "flag": {
+      "file": "rv-flag-sau.png",
+      "status": "National or territorial flag; shared national flags are qualified in the question."
+    }
+  },
+  {
+    "code": "SDN",
+    "name": {
+      "en": "Sudan",
+      "fr": "Soudan"
+    },
+    "continents": [
+      "AF"
+    ],
+    "region": {
+      "en": "Northern Africa",
+      "fr": "Afrique du Nord"
+    },
+    "capitals": [],
+    "flag": {
+      "file": "rv-flag-sdn.png",
+      "status": "National or territorial flag; shared national flags are qualified in the question."
+    }
+  },
+  {
+    "code": "SEN",
+    "name": {
+      "en": "Senegal",
+      "fr": "Sénégal"
+    },
+    "continents": [
+      "AF"
+    ],
+    "region": {
+      "en": "Western Africa",
+      "fr": "Afrique de l'Ouest"
+    },
+    "capitals": [],
+    "flag": {
+      "file": "rv-flag-sen.png",
+      "status": "National or territorial flag; shared national flags are qualified in the question."
+    }
+  },
+  {
+    "code": "SGP",
+    "name": {
+      "en": "Singapore",
+      "fr": "Singapour"
+    },
+    "continents": [
+      "AS"
+    ],
+    "region": {
+      "en": "South-Eastern Asia",
+      "fr": "Asie du Sud-Est"
+    },
+    "capitals": [],
+    "flag": {
+      "file": "rv-flag-sgp.png",
+      "status": "National or territorial flag; shared national flags are qualified in the question."
+    }
+  },
+  {
+    "code": "SGS",
+    "name": {
+      "en": "South Georgia and the South Sandwich Islands",
+      "fr": "Géorgie du Sud-et-les Îles Sandwich du Sud"
+    },
+    "continents": [
+      "AN"
+    ],
+    "region": {
+      "en": "Seven seas (open ocean)",
+      "fr": "Océans"
+    },
+    "capitals": [],
+    "flag": {
+      "file": "rv-flag-sgs.png",
+      "status": "National or territorial flag; shared national flags are qualified in the question."
+    }
+  },
+  {
+    "code": "SHN",
+    "name": {
+      "en": "Saint Helena, Ascension and Tristan da Cunha",
+      "fr": "Sainte-Hélène, Ascension et Tristan da Cunha"
+    },
+    "continents": [
+      "AF"
+    ],
+    "region": {
+      "en": "Western Africa",
+      "fr": "Afrique de l'Ouest"
+    },
+    "capitals": []
+  },
+  {
+    "code": "SJM",
+    "name": {
+      "en": "Svalbard and Jan Mayen",
+      "fr": "Svalbard et Jan Mayen"
+    },
+    "continents": [
+      "EU"
+    ],
+    "region": {
+      "en": "Northern Europe",
+      "fr": "Europe du Nord"
+    },
+    "capitals": []
+  },
+  {
+    "code": "SLB",
+    "name": {
+      "en": "Solomon Islands",
+      "fr": "Îles Salomon"
+    },
+    "continents": [
+      "OC"
+    ],
+    "region": {
+      "en": "Melanesia",
+      "fr": "Mélanésie"
+    },
+    "capitals": [],
+    "flag": {
+      "file": "rv-flag-slb.png",
+      "status": "National or territorial flag; shared national flags are qualified in the question."
+    }
+  },
+  {
+    "code": "SLE",
+    "name": {
+      "en": "Sierra Leone",
+      "fr": "Sierra Leone"
+    },
+    "continents": [
+      "AF"
+    ],
+    "region": {
+      "en": "Western Africa",
+      "fr": "Afrique de l'Ouest"
+    },
+    "capitals": [],
+    "flag": {
+      "file": "rv-flag-sle.png",
+      "status": "National or territorial flag; shared national flags are qualified in the question."
+    }
+  },
+  {
+    "code": "SLV",
+    "name": {
+      "en": "El Salvador",
+      "fr": "Salvador"
+    },
+    "continents": [
+      "NA"
+    ],
+    "region": {
+      "en": "Central America",
+      "fr": "Amérique centrale"
+    },
+    "capitals": [],
+    "flag": {
+      "file": "rv-flag-slv.png",
+      "status": "National or territorial flag; shared national flags are qualified in the question."
+    }
+  },
+  {
+    "code": "SMR",
+    "name": {
+      "en": "San Marino",
+      "fr": "Saint-Marin"
+    },
+    "continents": [
+      "EU"
+    ],
+    "region": {
+      "en": "Southern Europe",
+      "fr": "Europe du Sud"
+    },
+    "capitals": [],
+    "flag": {
+      "file": "rv-flag-smr.png",
+      "status": "National or territorial flag; shared national flags are qualified in the question."
+    }
+  },
+  {
+    "code": "SOM",
+    "name": {
+      "en": "Somalia",
+      "fr": "Somalie"
+    },
+    "continents": [
+      "AF"
+    ],
+    "region": {
+      "en": "Eastern Africa",
+      "fr": "Afrique de l'Est"
+    },
+    "capitals": [],
+    "flag": {
+      "file": "rv-flag-som.png",
+      "status": "National or territorial flag; shared national flags are qualified in the question."
+    }
+  },
+  {
+    "code": "SPM",
+    "name": {
+      "en": "Saint Pierre and Miquelon",
+      "fr": "Saint-Pierre-et-Miquelon"
+    },
+    "continents": [
+      "NA"
+    ],
+    "region": {
+      "en": "Northern America",
+      "fr": "Amérique du Nord"
+    },
+    "capitals": [],
+    "flagQualifier": {
+      "en": "French archipelago south of Newfoundland",
+      "fr": "Archipel français au sud de Terre-Neuve"
+    },
+    "flag": {
+      "file": "rv-flag-spm.png",
+      "status": "National or territorial flag; shared national flags are qualified in the question."
+    }
+  },
+  {
+    "code": "SRB",
+    "name": {
+      "en": "Serbia",
+      "fr": "Serbie"
+    },
+    "continents": [
+      "EU"
+    ],
+    "region": {
+      "en": "Southern Europe",
+      "fr": "Europe du Sud"
+    },
+    "capitals": [],
+    "flag": {
+      "file": "rv-flag-srb.png",
+      "status": "National or territorial flag; shared national flags are qualified in the question."
+    }
+  },
+  {
+    "code": "SSD",
+    "name": {
+      "en": "South Sudan",
+      "fr": "Soudan du Sud"
+    },
+    "continents": [
+      "AF"
+    ],
+    "region": {
+      "en": "Eastern Africa",
+      "fr": "Afrique de l'Est"
+    },
+    "capitals": [],
+    "flag": {
+      "file": "rv-flag-ssd.png",
+      "status": "National or territorial flag; shared national flags are qualified in the question."
+    }
+  },
+  {
+    "code": "STP",
+    "name": {
+      "en": "São Tomé and Príncipe",
+      "fr": "Sao Tomé-et-Principe"
+    },
+    "continents": [
+      "AF"
+    ],
+    "region": {
+      "en": "Middle Africa",
+      "fr": "Afrique centrale"
+    },
+    "capitals": [],
+    "flag": {
+      "file": "rv-flag-stp.png",
+      "status": "National or territorial flag; shared national flags are qualified in the question."
+    }
+  },
+  {
+    "code": "SUR",
+    "name": {
+      "en": "Suriname",
+      "fr": "Suriname"
+    },
+    "continents": [
+      "SA"
+    ],
+    "region": {
+      "en": "South America",
+      "fr": "Amérique du Sud"
+    },
+    "capitals": [],
+    "flag": {
+      "file": "rv-flag-sur.png",
+      "status": "National or territorial flag; shared national flags are qualified in the question."
+    }
+  },
+  {
+    "code": "SVK",
+    "name": {
+      "en": "Slovakia",
+      "fr": "Slovaquie"
+    },
+    "continents": [
+      "EU"
+    ],
+    "region": {
+      "en": "Eastern Europe",
+      "fr": "Europe de l'Est"
+    },
+    "capitals": [],
+    "flag": {
+      "file": "rv-flag-svk.png",
+      "status": "National or territorial flag; shared national flags are qualified in the question."
+    }
+  },
+  {
+    "code": "SVN",
+    "name": {
+      "en": "Slovenia",
+      "fr": "Slovénie"
+    },
+    "continents": [
+      "EU"
+    ],
+    "region": {
+      "en": "Southern Europe",
+      "fr": "Europe du Sud"
+    },
+    "capitals": [],
+    "flag": {
+      "file": "rv-flag-svn.png",
+      "status": "National or territorial flag; shared national flags are qualified in the question."
+    }
+  },
+  {
+    "code": "SWE",
+    "name": {
+      "en": "Sweden",
+      "fr": "Suède"
+    },
+    "continents": [
+      "EU"
+    ],
+    "region": {
+      "en": "Northern Europe",
+      "fr": "Europe du Nord"
+    },
+    "capitals": [],
+    "flag": {
+      "file": "rv-flag-swe.png",
+      "status": "National or territorial flag; shared national flags are qualified in the question."
+    }
+  },
+  {
+    "code": "SWZ",
+    "name": {
+      "en": "Eswatini",
+      "fr": "Eswatini"
+    },
+    "continents": [
+      "AF"
+    ],
+    "region": {
+      "en": "Southern Africa",
+      "fr": "Afrique australe"
+    },
+    "capitals": [],
+    "flag": {
+      "file": "rv-flag-swz.png",
+      "status": "National or territorial flag; shared national flags are qualified in the question."
+    }
+  },
+  {
+    "code": "SXM",
+    "name": {
+      "en": "Sint Maarten",
+      "fr": "Saint-Martin (royaume des Pays-Bas)"
+    },
+    "continents": [
+      "NA"
+    ],
+    "region": {
+      "en": "Caribbean",
+      "fr": "Caraïbes"
+    },
+    "capitals": [],
+    "flag": {
+      "file": "rv-flag-sxm.png",
+      "status": "National or territorial flag; shared national flags are qualified in the question."
+    }
+  },
+  {
+    "code": "SYC",
+    "name": {
+      "en": "Seychelles",
+      "fr": "Seychelles"
+    },
+    "continents": [
+      "AF"
+    ],
+    "region": {
+      "en": "Eastern Africa",
+      "fr": "Afrique de l'Est"
+    },
+    "capitals": [],
+    "flag": {
+      "file": "rv-flag-syc.png",
+      "status": "National or territorial flag; shared national flags are qualified in the question."
+    }
+  },
+  {
+    "code": "SYR",
+    "name": {
+      "en": "Syria",
+      "fr": "Syrie"
+    },
+    "continents": [
+      "AS"
+    ],
+    "region": {
+      "en": "Western Asia",
+      "fr": "Asie de l'Ouest"
+    },
+    "capitals": [],
+    "flag": {
+      "file": "rv-flag-syr.png",
+      "status": "National or territorial flag; shared national flags are qualified in the question."
+    }
+  },
+  {
+    "code": "TCA",
+    "name": {
+      "en": "Turks and Caicos Islands",
+      "fr": "Îles Turques-et-Caïques"
+    },
+    "continents": [
+      "NA"
+    ],
+    "region": {
+      "en": "Caribbean",
+      "fr": "Caraïbes"
+    },
+    "capitals": [],
+    "flag": {
+      "file": "rv-flag-tca.png",
+      "status": "National or territorial flag; shared national flags are qualified in the question."
+    }
+  },
+  {
+    "code": "TCD",
+    "name": {
+      "en": "Chad",
+      "fr": "Tchad"
+    },
+    "continents": [
+      "AF"
+    ],
+    "region": {
+      "en": "Middle Africa",
+      "fr": "Afrique centrale"
+    },
+    "capitals": [],
+    "flag": {
+      "file": "rv-flag-tcd.png",
+      "status": "National or territorial flag; shared national flags are qualified in the question."
+    },
+    "flagQualifier": {
+      "en": "Landlocked country in the Sahel",
+      "fr": "Pays enclavé du Sahel"
+    }
+  },
+  {
+    "code": "TGO",
+    "name": {
+      "en": "Togo",
+      "fr": "Togo"
+    },
+    "continents": [
+      "AF"
+    ],
+    "region": {
+      "en": "Western Africa",
+      "fr": "Afrique de l'Ouest"
+    },
+    "capitals": [],
+    "flag": {
+      "file": "rv-flag-tgo.png",
+      "status": "National or territorial flag; shared national flags are qualified in the question."
+    }
+  },
+  {
+    "code": "THA",
+    "name": {
+      "en": "Thailand",
+      "fr": "Thaïlande"
+    },
+    "continents": [
+      "AS"
+    ],
+    "region": {
+      "en": "South-Eastern Asia",
+      "fr": "Asie du Sud-Est"
+    },
+    "capitals": [],
+    "flag": {
+      "file": "rv-flag-tha.png",
+      "status": "National or territorial flag; shared national flags are qualified in the question."
+    }
+  },
+  {
+    "code": "TJK",
+    "name": {
+      "en": "Tajikistan",
+      "fr": "Tadjikistan"
+    },
+    "continents": [
+      "AS"
+    ],
+    "region": {
+      "en": "Central Asia",
+      "fr": "Asie centrale"
+    },
+    "capitals": [],
+    "flag": {
+      "file": "rv-flag-tjk.png",
+      "status": "National or territorial flag; shared national flags are qualified in the question."
+    }
+  },
+  {
+    "code": "TKL",
+    "name": {
+      "en": "Tokelau",
+      "fr": "Tokelau"
+    },
+    "continents": [
+      "OC"
+    ],
+    "region": {
+      "en": "Polynesia",
+      "fr": "Polynésie"
+    },
+    "capitals": [],
+    "flag": {
+      "file": "rv-flag-tkl.png",
+      "status": "National or territorial flag; shared national flags are qualified in the question."
+    }
+  },
+  {
+    "code": "TKM",
+    "name": {
+      "en": "Turkmenistan",
+      "fr": "Turkménistan"
+    },
+    "continents": [
+      "AS"
+    ],
+    "region": {
+      "en": "Central Asia",
+      "fr": "Asie centrale"
+    },
+    "capitals": [],
+    "flag": {
+      "file": "rv-flag-tkm.png",
+      "status": "National or territorial flag; shared national flags are qualified in the question."
+    }
+  },
+  {
+    "code": "TLS",
+    "name": {
+      "en": "Timor-Leste",
+      "fr": "Timor oriental"
+    },
+    "continents": [
+      "AS"
+    ],
+    "region": {
+      "en": "South-Eastern Asia",
+      "fr": "Asie du Sud-Est"
+    },
+    "capitals": [],
+    "flag": {
+      "file": "rv-flag-tls.png",
+      "status": "National or territorial flag; shared national flags are qualified in the question."
+    }
+  },
+  {
+    "code": "TON",
+    "name": {
+      "en": "Tonga",
+      "fr": "Tonga"
+    },
+    "continents": [
+      "OC"
+    ],
+    "region": {
+      "en": "Polynesia",
+      "fr": "Polynésie"
+    },
+    "capitals": [],
+    "flag": {
+      "file": "rv-flag-ton.png",
+      "status": "National or territorial flag; shared national flags are qualified in the question."
+    }
+  },
+  {
+    "code": "TTO",
+    "name": {
+      "en": "Trinidad and Tobago",
+      "fr": "Trinité-et-Tobago"
+    },
+    "continents": [
+      "NA"
+    ],
+    "region": {
+      "en": "Caribbean",
+      "fr": "Caraïbes"
+    },
+    "capitals": [],
+    "flag": {
+      "file": "rv-flag-tto.png",
+      "status": "National or territorial flag; shared national flags are qualified in the question."
+    }
+  },
+  {
+    "code": "TUN",
+    "name": {
+      "en": "Tunisia",
+      "fr": "Tunisie"
+    },
+    "continents": [
+      "AF"
+    ],
+    "region": {
+      "en": "Northern Africa",
+      "fr": "Afrique du Nord"
+    },
+    "capitals": [],
+    "flag": {
+      "file": "rv-flag-tun.png",
+      "status": "National or territorial flag; shared national flags are qualified in the question."
+    }
+  },
+  {
+    "code": "TUR",
+    "name": {
+      "en": "Turkey",
+      "fr": "Turquie"
+    },
+    "continents": [
+      "EU",
+      "AS"
+    ],
+    "region": {
+      "en": "Western Asia",
+      "fr": "Asie de l'Ouest"
+    },
+    "capitals": [],
+    "flag": {
+      "file": "rv-flag-tur.png",
+      "status": "National or territorial flag; shared national flags are qualified in the question."
+    }
+  },
+  {
+    "code": "TUV",
+    "name": {
+      "en": "Tuvalu",
+      "fr": "Tuvalu"
+    },
+    "continents": [
+      "OC"
+    ],
+    "region": {
+      "en": "Polynesia",
+      "fr": "Polynésie"
+    },
+    "capitals": [],
+    "flag": {
+      "file": "rv-flag-tuv.png",
+      "status": "National or territorial flag; shared national flags are qualified in the question."
+    }
+  },
+  {
+    "code": "TWN",
+    "name": {
+      "en": "Taiwan",
+      "fr": "Taïwan"
+    },
+    "continents": [
+      "AS"
+    ],
+    "region": {
+      "en": "Eastern Asia",
+      "fr": "Asie de l'Est"
+    },
+    "capitals": [],
+    "flag": {
+      "file": "rv-flag-twn.png",
+      "status": "National or territorial flag; shared national flags are qualified in the question."
+    }
+  },
+  {
+    "code": "TZA",
+    "name": {
+      "en": "Tanzania",
+      "fr": "Tanzanie"
+    },
+    "continents": [
+      "AF"
+    ],
+    "region": {
+      "en": "Eastern Africa",
+      "fr": "Afrique de l'Est"
+    },
+    "capitals": [],
+    "flag": {
+      "file": "rv-flag-tza.png",
+      "status": "National or territorial flag; shared national flags are qualified in the question."
+    }
+  },
+  {
+    "code": "UGA",
+    "name": {
+      "en": "Uganda",
+      "fr": "Ouganda"
+    },
+    "continents": [
+      "AF"
+    ],
+    "region": {
+      "en": "Eastern Africa",
+      "fr": "Afrique de l'Est"
+    },
+    "capitals": [],
+    "flag": {
+      "file": "rv-flag-uga.png",
+      "status": "National or territorial flag; shared national flags are qualified in the question."
+    }
+  },
+  {
+    "code": "UKR",
+    "name": {
+      "en": "Ukraine",
+      "fr": "Ukraine"
+    },
+    "continents": [
+      "EU"
+    ],
+    "region": {
+      "en": "Eastern Europe",
+      "fr": "Europe de l'Est"
+    },
+    "capitals": [],
+    "flag": {
+      "file": "rv-flag-ukr.png",
+      "status": "National or territorial flag; shared national flags are qualified in the question."
+    }
+  },
+  {
+    "code": "UMI",
+    "name": {
+      "en": "United States Minor Outlying Islands",
+      "fr": "Îles mineures éloignées des États-Unis"
+    },
+    "continents": [
+      "NA",
+      "OC"
+    ],
+    "region": {
+      "en": "Seven seas (open ocean)",
+      "fr": "Océans"
+    },
+    "capitals": []
+  },
+  {
+    "code": "URY",
+    "name": {
+      "en": "Uruguay",
+      "fr": "Uruguay"
+    },
+    "continents": [
+      "SA"
+    ],
+    "region": {
+      "en": "South America",
+      "fr": "Amérique du Sud"
+    },
+    "capitals": [],
+    "flag": {
+      "file": "rv-flag-ury.png",
+      "status": "National or territorial flag; shared national flags are qualified in the question."
+    }
+  },
+  {
+    "code": "USA",
+    "name": {
+      "en": "United States of America",
+      "fr": "États-Unis"
+    },
+    "continents": [
+      "NA",
+      "OC"
+    ],
+    "region": {
+      "en": "Northern America",
+      "fr": "Amérique du Nord"
+    },
+    "capitals": [],
+    "flag": {
+      "file": "rv-flag-usa.png",
+      "status": "National or territorial flag; shared national flags are qualified in the question."
+    }
+  },
+  {
+    "code": "UZB",
+    "name": {
+      "en": "Uzbekistan",
+      "fr": "Ouzbékistan"
+    },
+    "continents": [
+      "AS"
+    ],
+    "region": {
+      "en": "Central Asia",
+      "fr": "Asie centrale"
+    },
+    "capitals": [],
+    "flag": {
+      "file": "rv-flag-uzb.png",
+      "status": "National or territorial flag; shared national flags are qualified in the question."
+    }
+  },
+  {
+    "code": "VAT",
+    "name": {
+      "en": "Vatican City",
+      "fr": "Cité du Vatican"
+    },
+    "continents": [
+      "EU"
+    ],
+    "region": {
+      "en": "Southern Europe",
+      "fr": "Europe du Sud"
+    },
+    "capitals": [],
+    "flag": {
+      "file": "rv-flag-vat.png",
+      "status": "National or territorial flag; shared national flags are qualified in the question."
+    }
+  },
+  {
+    "code": "VCT",
+    "name": {
+      "en": "Saint Vincent and the Grenadines",
+      "fr": "Saint-Vincent-et-les-Grenadines"
+    },
+    "continents": [
+      "NA"
+    ],
+    "region": {
+      "en": "Caribbean",
+      "fr": "Caraïbes"
+    },
+    "capitals": [],
+    "flag": {
+      "file": "rv-flag-vct.png",
+      "status": "National or territorial flag; shared national flags are qualified in the question."
+    }
+  },
+  {
+    "code": "VEN",
+    "name": {
+      "en": "Venezuela",
+      "fr": "Venezuela"
+    },
+    "continents": [
+      "SA",
+      "NA"
+    ],
+    "region": {
+      "en": "South America",
+      "fr": "Amérique du Sud"
+    },
+    "capitals": [],
+    "flag": {
+      "file": "rv-flag-ven.png",
+      "status": "National or territorial flag; shared national flags are qualified in the question."
+    }
+  },
+  {
+    "code": "VGB",
+    "name": {
+      "en": "British Virgin Islands",
+      "fr": "Îles Vierges britanniques"
+    },
+    "continents": [
+      "NA"
+    ],
+    "region": {
+      "en": "Caribbean",
+      "fr": "Caraïbes"
+    },
+    "capitals": [],
+    "flag": {
+      "file": "rv-flag-vgb.png",
+      "status": "National or territorial flag; shared national flags are qualified in the question."
+    }
+  },
+  {
+    "code": "VIR",
+    "name": {
+      "en": "United States Virgin Islands",
+      "fr": "Îles Vierges des États-Unis"
+    },
+    "continents": [
+      "NA"
+    ],
+    "region": {
+      "en": "Caribbean",
+      "fr": "Caraïbes"
+    },
+    "capitals": [],
+    "flag": {
+      "file": "rv-flag-vir.png",
+      "status": "National or territorial flag; shared national flags are qualified in the question."
+    }
+  },
+  {
+    "code": "VNM",
+    "name": {
+      "en": "Vietnam",
+      "fr": "Viêt Nam"
+    },
+    "continents": [
+      "AS"
+    ],
+    "region": {
+      "en": "South-Eastern Asia",
+      "fr": "Asie du Sud-Est"
+    },
+    "capitals": [],
+    "flag": {
+      "file": "rv-flag-vnm.png",
+      "status": "National or territorial flag; shared national flags are qualified in the question."
+    }
+  },
+  {
+    "code": "VUT",
+    "name": {
+      "en": "Vanuatu",
+      "fr": "Vanuatu"
+    },
+    "continents": [
+      "OC"
+    ],
+    "region": {
+      "en": "Melanesia",
+      "fr": "Mélanésie"
+    },
+    "capitals": [],
+    "flag": {
+      "file": "rv-flag-vut.png",
+      "status": "National or territorial flag; shared national flags are qualified in the question."
+    }
+  },
+  {
+    "code": "WLF",
+    "name": {
+      "en": "Wallis and Futuna",
+      "fr": "Wallis-et-Futuna"
+    },
+    "continents": [
+      "OC"
+    ],
+    "region": {
+      "en": "Polynesia",
+      "fr": "Polynésie"
+    },
+    "capitals": [],
+    "flagQualifier": {
+      "en": "French collectivity west of Samoa",
+      "fr": "Collectivité française à l’ouest des Samoa"
+    },
+    "flag": {
+      "file": "rv-flag-wlf.png",
+      "status": "National or territorial flag; shared national flags are qualified in the question."
+    }
+  },
+  {
+    "code": "WSM",
+    "name": {
+      "en": "Samoa",
+      "fr": "Samoa"
+    },
+    "continents": [
+      "OC"
+    ],
+    "region": {
+      "en": "Polynesia",
+      "fr": "Polynésie"
+    },
+    "capitals": [],
+    "flag": {
+      "file": "rv-flag-wsm.png",
+      "status": "National or territorial flag; shared national flags are qualified in the question."
+    }
+  },
+  {
+    "code": "YEM",
+    "name": {
+      "en": "Yemen",
+      "fr": "Yémen"
+    },
+    "continents": [
+      "AS"
+    ],
+    "region": {
+      "en": "Western Asia",
+      "fr": "Asie de l'Ouest"
+    },
+    "capitals": [],
+    "flag": {
+      "file": "rv-flag-yem.png",
+      "status": "National or territorial flag; shared national flags are qualified in the question."
+    }
+  },
+  {
+    "code": "ZAF",
+    "name": {
+      "en": "South Africa",
+      "fr": "Afrique du Sud"
+    },
+    "continents": [
+      "AF"
+    ],
+    "region": {
+      "en": "Southern Africa",
+      "fr": "Afrique australe"
+    },
+    "capitals": [],
+    "flag": {
+      "file": "rv-flag-zaf.png",
+      "status": "National or territorial flag; shared national flags are qualified in the question."
+    }
+  },
+  {
+    "code": "ZMB",
+    "name": {
+      "en": "Zambia",
+      "fr": "Zambie"
+    },
+    "continents": [
+      "AF"
+    ],
+    "region": {
+      "en": "Eastern Africa",
+      "fr": "Afrique de l'Est"
+    },
+    "capitals": [],
+    "flag": {
+      "file": "rv-flag-zmb.png",
+      "status": "National or territorial flag; shared national flags are qualified in the question."
+    }
+  },
+  {
+    "code": "ZWE",
+    "name": {
+      "en": "Zimbabwe",
+      "fr": "Zimbabwe"
+    },
+    "continents": [
+      "AF"
+    ],
+    "region": {
+      "en": "Eastern Africa",
+      "fr": "Afrique de l'Est"
+    },
+    "capitals": [],
+    "flag": {
+      "file": "rv-flag-zwe.png",
+      "status": "National or territorial flag; shared national flags are qualified in the question."
+    }
+  }
+]
