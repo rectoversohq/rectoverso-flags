@@ -9,3 +9,7 @@ The source remains a review candidate. Existing images, attribution, licenses an
 ## 2026-11-02 — Owner-authorized prerelease
 
 The owner approved releasing all authored decks. Publish this reviewed bilingual candidate as 0.1.0-rc.1 after exact-head checks. This publication-only change updates package status and download/build instructions without changing note content, identities or artwork. Preserve the existing CC BY 4.0 license and original component rights. App pin/catalog delivery remains separate.
+
+## 2026-11-03 — Gallery metadata and sample question (candidate 0.1.0-rc.2)
+
+RectoVerso's gallery reads every deck from one metadata layout ([#690](https://github.com/simonpinkas/RectoVerso/issues/690)). `rectoverso.json` adds a headline and a description in English and French, the `geography` category, the creator and the upstream sources, and under each language the `sample`: the GUID of the one card the gallery opens as the deck's sample question. The sample is proposed; the owner chooses it. Each language's sidecar carries it. Note content, identities and artwork are unchanged; only the release metadata and the version (0.1.0-rc.2, unreleased) change. Release and app pin wait for the owner.

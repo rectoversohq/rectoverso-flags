@@ -232,5 +232,6 @@ def inputs(language):
         deckID=meta["id"],
         language=language,
         package=artifact["package"],
+        sample=artifact["sample"],
     )
     return localized, notes, types, deck

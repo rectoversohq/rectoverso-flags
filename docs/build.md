@@ -27,6 +27,10 @@ python scripts/build.py --language fr --out /outside/repo/Drapeaux-fr-460.apkg
 
 On macOS, compile `scripts/render-svg.swift` into an external temporary directory. Run `RENDERER NEW_OUTPUT_DIRECTORY 900 artwork/svg/*.svg`; it keeps the SVG aspect ratio. Review every changed image and update its digest in the manifest. Rebuilding packages does not require regenerating unchanged PNGs. Do not replace official flags with decorative approximations.
 
+## Gallery metadata
+
+RectoVerso's gallery reads this deck from `rectoverso.json` and each package's `.rectoverso.json` sidecar, attached to the release with the release's `SHA256SUMS` (the contract: [RectoVerso #690](https://github.com/simonpinkas/RectoVerso/issues/690)). Beside the identity and version: the headline and description in each language, the categories, the creator, the license, the upstream sources, and under each language its `sample`, the GUID of the card the gallery opens as the deck's sample question. A sample is one of that language's cards and shows alone with all its pictures; `scripts/checks/verify-source.py` checks it.
+
 ## Updating a published deck
 
 1. Branch in this deck repository and attach the PR to a source issue.
