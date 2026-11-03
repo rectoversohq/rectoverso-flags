@@ -21,6 +21,41 @@ def import_package(col, path):
     col.models._clear_cache()
 
 
+def check_exercise(card, note, q, a, directions):
+    if card.template()["name"] not in q:
+        raise ValueError("Exercise direction missing from rendered question")
+    direction = next(
+        t.removeprefix("exercise::")
+        for t in note.tags
+        if t.startswith("exercise::")
+    )
+    question_kind, answer_kind = direction.split("-")
+    has_place = bool(note["RectoVerso place"])
+    if has_place != (question_kind == "map"):
+        raise ValueError("Live-map metadata on a non-map question")
+    has_question_image = bool(re.search(r"<img\b", q))
+    after_answer = a.split('<hr id="answer">', 1)[1]
+    has_answer_image = bool(
+        re.search(
+            r"<img\b", after_answer.split('<section class="context">', 1)[0]
+        )
+    )
+    if has_question_image != (question_kind in ("flag", "map")):
+        raise ValueError("Question image kind differs from exercise")
+    if has_answer_image != (answer_kind in ("flag", "map")):
+        raise ValueError("Answer image kind differs from exercise")
+    row = directions.setdefault(
+        direction,
+        {
+            "cards": 0,
+            "questionImage": has_question_image,
+            "answerImage": has_answer_image,
+            "liveMapQuestion": has_place,
+        },
+    )
+    row["cards"] += 1
+
+
 def check(package, output):
     meta = json.loads(package.with_suffix(".rectoverso.json").read_text())
     count = meta["cards"]
@@ -41,38 +76,11 @@ def check(package, output):
                 guids.add(card.note().guid)
                 q, a = card.question(), card.answer()
                 note = card.note()
-                if card.template()["name"] not in q:
-                    raise ValueError("Exercise direction missing from rendered question")
-                direction = next(
-                    t.removeprefix("exercise::")
-                    for t in note.tags
-                    if t.startswith("exercise::")
-                )
-                question_kind, answer_kind = direction.split("-")
-                has_place = bool(note["RectoVerso place"])
-                if has_place != (question_kind == "map"):
-                    raise ValueError("Live-map metadata on a non-map question")
-                has_question_image = bool(re.search(r"<img\b", q))
-                after_answer = a.split('<hr id="answer">', 1)[1]
-                has_answer_image = bool(
-                    re.search(
-                        r"<img\b", after_answer.split('<section class="context">', 1)[0]
-                    )
-                )
-                if has_question_image != (question_kind in ("flag", "map")):
-                    raise ValueError("Question image kind differs from exercise")
-                if has_answer_image != (answer_kind in ("flag", "map")):
-                    raise ValueError("Answer image kind differs from exercise")
-                row = directions.setdefault(
-                    direction,
-                    {
-                        "cards": 0,
-                        "questionImage": has_question_image,
-                        "answerImage": has_answer_image,
-                        "liveMapQuestion": has_place,
-                    },
-                )
-                row["cards"] += 1
+                # The exercise checks read this deck's own note types. Another app's export of
+                # the deck (RectoVerso's gallery check opens its Anki export here) has note types
+                # of its own: it gets the checks below, which hold for any package.
+                if note.note_type()["name"].startswith(meta["deckID"] + " · "):
+                    check_exercise(card, note, q, a, directions)
                 if not q.strip() or "<hr" not in a:
                     raise ValueError("Empty rendered side")
                 answer = a.split("<hr", 1)[1]
