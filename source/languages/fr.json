@@ -28,5 +28,5 @@
     "map-flag": "Carte → drapeau",
     "flag-map": "Drapeau → carte"
   },
-  "description": "Un jeu de géographie issu de sources bilingues. Candidat local pour revue ; non publié."
+  "description": "230 drapeaux des pays et territoires du monde, dans les deux sens : d’un drapeau à son lieu, d’un lieu à son drapeau. Chaque drapeau garde ses vraies proportions et ses couleurs, et chaque réponse peut montrer le continent et la région du lieu. Deck © Simon Pinkas, CC BY 4.0 ; les dessins des drapeaux sont dans le domaine public ou sous CC0. Crédits et sources : https://github.com/rectoversohq/rectoverso-flags"
 }

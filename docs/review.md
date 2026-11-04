@@ -2,12 +2,12 @@
 
 ## Current publication
 
-The owner approved this source and package release. The reproducible prerelease is [0.1.0-rc.1](https://github.com/rectoversohq/rectoverso-flags/releases/tag/v0.1.0-rc.1). Its English/French assets and SHA-256 manifest identify the exact bytes; earlier validation and source provenance below remain historical evidence. Subsequent changes still require their own checks and publication approval.
+The owner approved this source and package release. The reproducible prerelease is [0.1.0-rc.2](https://github.com/rectoversohq/rectoverso-flags/releases/tag/v0.1.0-rc.2). It adds the gallery metadata and sample question to [0.1.0-rc.1](https://github.com/rectoversohq/rectoverso-flags/releases/tag/v0.1.0-rc.1) and corrects the Anki deck description; cards, notes, identities and pictures are unchanged. Its English/French assets and SHA-256 manifest identify the exact bytes; earlier validation and source provenance below remain historical evidence. Subsequent changes still require their own checks and publication approval.
 
 The deck is CC BY 4.0, with component licenses retained. This source release does not deploy app asset packs or change the app source pin.
 
 
-The owner approved creating this repository and pushing this candidate for source review. The [source issue](https://github.com/rectoversohq/rectoverso-flags/issues/1) tracks the first PR against a README-only main branch. Merges, version tags and package releases remain separate owner decisions. The source is public; no packaged deck release is published.
+The owner approved creating this repository and pushing this candidate for source review. The [source issue](https://github.com/rectoversohq/rectoverso-flags/issues/1) tracks the first PR against a README-only main branch. Merges, version tags and package releases remain separate owner decisions. The source is public, and its packages are published as GitHub prereleases.
 
 ## Provenance of this branch
 
@@ -26,7 +26,7 @@ The manifest describes the frozen reviewed package candidate, including its reco
 
 ## En français
 
-Le propriétaire a autorisé le dépôt et l’envoi des sources pour revue. Le premier commit de sources reproduit exactement l’arbre du candidat testé indiqué ci-dessus ; son historique local d’origine est conservé. Les modifications de mise en place concernent la documentation, sans changer les cartes, médias, identités ni générateurs. Vérifier le résultat réel d’**Anki packages** sur la pull request. La revue Anki Desktop, l’approbation éditoriale et la publication restent des étapes distinctes. Aucun paquet n’est publié à ce stade.
+Le propriétaire a autorisé le dépôt et l’envoi des sources pour revue. Le premier commit de sources reproduit exactement l’arbre du candidat testé indiqué ci-dessus ; son historique local d’origine est conservé. Les modifications de mise en place concernent la documentation, sans changer les cartes, médias, identités ni générateurs. Vérifier le résultat réel d’**Anki packages** sur la pull request. La revue Anki Desktop, l’approbation éditoriale et la publication restent des étapes distinctes. Les paquets sont publiés en préversions sur GitHub.
 
 ## Owner phone feedback
 
