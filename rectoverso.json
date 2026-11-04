@@ -11,12 +11,12 @@
     "fr": "Géographie"
   },
   "headline": {
-    "en": "Know a place by its flag, and its flag by name.",
-    "fr": "Reconnaître un lieu à son drapeau, et son drapeau à son nom."
+    "en": "Know a place by its flag, and a flag by its place.",
+    "fr": "Reconnaître un lieu à son drapeau, et un drapeau à son lieu."
   },
   "description": {
-    "en": "The flags of the world's countries and territories, in both directions: from a flag to its place, from a place to its flag. Each flag keeps its real proportions and colors. The continent and the region come with every answer.",
-    "fr": "Les drapeaux des pays et territoires du monde, dans les deux sens : d’un drapeau à son lieu, d’un lieu à son drapeau. Chaque drapeau garde ses vraies proportions et ses couleurs. Le continent et la région accompagnent chaque réponse."
+    "en": "230 flags of the world's countries and territories, in both directions: from a flag to its place, from a place to its flag. Each flag keeps its real proportions and colors, and every answer can show the place's continent and region.",
+    "fr": "230 drapeaux des pays et territoires du monde, dans les deux sens : d’un drapeau à son lieu, d’un lieu à son drapeau. Chaque drapeau garde ses vraies proportions et ses couleurs, et chaque réponse peut montrer le continent et la région du lieu."
   },
   "categories": [
     "geography"

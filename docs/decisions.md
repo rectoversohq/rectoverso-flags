@@ -1,5 +1,9 @@
 # Decisions
 
+## 2026-11-04 — Gallery copy
+
+The owner approved the gallery copy: the headline "Know a place by its flag, and a flag by its place." / « Reconnaître un lieu à son drapeau, et un drapeau à son lieu. » and the description that names its 230 flags (in `rectoverso.json`). It replaces the first draft, whose headline was ambiguous and whose description read as every place's flag.
+
 ## 2026-11-02 — Owner phone feedback
 
 Answer context now exposes **Continent** and **Region** as separate English/French resources. Existing continent memberships and search aliases are unchanged. The new Region field is appended; existing deck/model/template/field identities remain intact. The shared French national tricolor is used only for France in every flag exercise. The ten affected territories keep their ISO records and any applicable non-flag exercises. The four geographic riddles for Indonesia/Monaco and Chad/Romania are removed, with faithful flag artwork unchanged.
