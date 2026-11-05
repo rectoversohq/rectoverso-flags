@@ -1,4 +1,4 @@
-import json, sys, unittest
+import json, re, sys, unittest
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parents[1] / "scripts"))
@@ -59,7 +59,7 @@ class SourceContract(unittest.TestCase):
         places = {p["code"]: p for p in read("source/places.json")}
         for code, expected in {
             "FRA": ["EU", "NA"],
-            "PRT": ["EU", "AF"],
+            "PRT": ["EU"],
             "COL": ["SA", "NA"],
             "VEN": ["SA", "NA"],
             "ESP": ["EU", "AF"],
@@ -72,6 +72,47 @@ class SourceContract(unittest.TestCase):
             "SHN": ["AF"],
         }.items():
             self.assertEqual(places[code]["continents"], expected)
+
+    def test_french_text_follows_french_typography(self):
+        # RectoVerso's French: a narrow no-break space (U+202F) before ; : ! ? and inside « »,
+        # never an ordinary space and never none. A URL's colon is not punctuation.
+        mark = re.compile(r"(?<!\u202f)[;:!?](?!//)|«(?!\u202f)|(?<!\u202f)»")
+        _, notes, _, deck = inputs("fr")
+        texts = [deck["description"], deck["name"]]
+        for note in notes:
+            for name, value in note["fields"].items():
+                if "<img" in value:
+                    continue
+                if name == "RectoVerso search":
+                    for field in json.loads(value)["fields"]:
+                        texts += [field["name"], *field["values"], *field["aliases"]]
+                else:
+                    texts.append(value)
+        meta = read("rectoverso.json")
+        texts += [meta[k]["fr"] for k in ("title", "subject", "headline", "description")]
+
+        def strings(value):
+            if isinstance(value, dict):
+                return [s for v in value.values() for s in strings(v)]
+            if isinstance(value, list):
+                return [s for v in value for s in strings(v)]
+            return [value] if isinstance(value, str) else []
+
+        texts += strings(read("source/languages/fr.json"))
+        for path in ("source/places.json", "source/coverage-exceptions.json"):
+            def french(value):
+                if isinstance(value, dict):
+                    return [s for k, v in value.items() for s in ([v] if k == "fr" and isinstance(v, str) else french(v))]
+                if isinstance(value, list):
+                    return [s for v in value for s in french(v)]
+                return []
+            texts += french(read(path))
+        for text in texts:
+            self.assertNotRegex(text, mark)
+        continents = {n["fields"]["Continent"] for n in notes}
+        self.assertIn("Europe\u202f; Asie", continents)
+        english = {n["fields"]["Continent"] for n in inputs("en")[1]}
+        self.assertIn("Europe; Asia", english)
 
     def test_private_material_never_claims_blanket_cc(self):
         m = read("rectoverso.json")

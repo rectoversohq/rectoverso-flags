@@ -8,4 +8,4 @@ New authored deck content © Simon Pinkas. Licensed under Creative Commons Attri
 - Learner names and the frozen ISO roster follow RectoVerso Maps v0.3.0-rc.1, © Simon Pinkas, CC BY 4.0: https://github.com/rectoversohq/rectoverso-maps/tree/v0.3.0-rc.1 . This deck contains no map images or capital questions.
 - The build uses the separately installed Anki backend (AGPL); no Anki program binary is redistributed inside the deck.
 
-The candidate has not been published. Trademark and flag-use rules, where applicable, are separate from copyright; no endorsement is implied.
+Its packages are published as [prereleases](https://github.com/rectoversohq/rectoverso-flags/releases). Trademark and flag-use rules, where applicable, are separate from copyright; no endorsement is implied.

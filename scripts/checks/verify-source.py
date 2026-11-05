@@ -81,6 +81,15 @@ def verify():
                     if image not in credits:
                         raise ValueError("Uncredited image")
         counts[language] = len(notes)
+        # The gallery's sample question: one of this language's cards (each note makes one),
+        # shown alone, so every picture it names is here.
+        sample = [n for n in notes if n["guid"] == meta["languages"][language].get("sample")]
+        if len(sample) != 1:
+            raise ValueError("The gallery sample is not one of this language's cards")
+        for value in sample[0]["fields"].values():
+            for image in re.findall(r'<img src="([^"]+)"', value):
+                if not (ROOT / meta["sourceFiles"]["pictures"] / image).is_file():
+                    raise ValueError("The gallery sample's picture is missing")
     frozen = read("source/identities.json")
     expected = {
         lang: [n["guid"] for n in inputs(lang)[1]] for lang in meta["languages"]

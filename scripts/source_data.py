@@ -194,7 +194,8 @@ def inputs(language):
                     "details": "<br>".join(
                         html.escape(x) for x in dict.fromkeys(details) if x
                     ),
-                    "continent": "; ".join(parts),
+                    # French takes a narrow no-break space before the semicolon (RectoVerso's French typography).
+                    "continent": ("\u202f; " if language == "fr" else "; ").join(parts),
                     "region": place["region"][language],
                     "search": json.dumps(
                         {"v": 1, "fields": search},
@@ -232,5 +233,6 @@ def inputs(language):
         deckID=meta["id"],
         language=language,
         package=artifact["package"],
+        sample=artifact["sample"],
     )
     return localized, notes, types, deck
