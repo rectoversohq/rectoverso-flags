@@ -1,5 +1,13 @@
 # Decisions
 
+## 2026-11-05 — The Canary Islands in Europe; French typography (0.1.0-rc.2)
+
+The owner's answers on this rc.2 (2026-11-05):
+- "The Canary Islands go with Europe in the island rule, following the sources as with Madeira." Spain's reason becomes Ceuta, Melilla and the plazas de soberanía on the North African coast; Spain stays Europe + Africa, and no card changes from this (`continents.json`'s `islands` and `transcontinental` notes, [coverage](coverage.md)). The rule keeps "Otherwise, island location is not inherited from the administering state": the Atlantic islands now follow the sources' classification of Portugal and Spain, and the sentence still holds for every other island.
+- French typography: "a narrow no-break space (U+202F) before « ; » in the French Continent field, and anywhere else the French cards or deck text have a plain space before « ; : ! ? » or inside « »", following RectoVerso's French rules and Maps 0.3.0-rc.3. `scripts/source_data.py` joins French continents with a narrow no-break space before the semicolon (`\u202f; `); English keeps `; `. 28 French notes change, the two exercises of the 14 places with more than one continent (« Afrique ; Antarctique », « Europe ; Asie »…); the reasons in `source/coverage-exceptions.json` take the same space. A source test holds the rule for every French field, search value, deck text and French source string.
+
+`contentModifiedAt` moves to this revision, so Anki's default import applies the new text. No identity changes.
+
 ## 2026-11-05 — Portugal in Europe; Amsterdam and Saint Paul in Africa (0.1.0-rc.2)
 
 The owner's answers for Maps 0.3.0-rc.3 ([rectoverso-maps PR #10](https://github.com/rectoversohq/rectoverso-maps/pull/10)): "Madeira → Europe, not Africa. Follow the sources." and "Amsterdam and Saint Paul → Africa, as UN M49 has it, not Antarctica. This replaces the 2 November call for those two islands." The owner (2026-11-05): Flags follows in its unpublished 0.1.0-rc.2, not in a later release.

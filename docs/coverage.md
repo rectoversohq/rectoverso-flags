@@ -49,7 +49,7 @@ Continent metadata in this deck describes the whole ISO reference place. Separat
 |---|---|---|
 | France | Europe + North America | Metropolitan France plus Clipperton; separately ISO-coded overseas places remain independent. |
 | Portugal | Europe | Mainland, the Azores and Madeira. UN M49, GeoNames and the CIA World Factbook classify Portugal in Europe, and no source assigns Madeira to Africa: the owner moved Madeira to Europe on 5 November 2026, as in Maps. |
-| Spain | Europe + Africa | Includes the Canary Islands and African mainland regions. |
+| Spain | Europe + Africa | Ceuta, Melilla and the plazas de soberanía on the North African coast. The Canary Islands go with Europe, as the sources classify Spain and none assigns them to Africa: the owner's decision on 5 November 2026, as for Madeira. |
 | Colombia | South America + North America | Includes San Andrés/Providencia in the Caribbean. |
 | Venezuela | South America + North America | Includes the remote Caribbean Isla de Aves. |
 
