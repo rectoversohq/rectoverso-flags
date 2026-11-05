@@ -1,5 +1,9 @@
 # Decisions
 
+## 2026-11-05 — Publication preparation for 0.1.0-rc.3
+
+The owner asked for this preparation before releasing 0.1.0-rc.3. `rectoverso.json`'s version, tag and release address, the READMEs (English and French) and the review page point to 0.1.0-rc.3, and the update guide names 0.1.0-rc.2 as the published predecessor to test from. `contentModifiedAt` moves to a time after the France change, the last content change. The Anki deck descriptions already describe the published deck and are unchanged.
+
 ## 2026-11-05 — The French docs (0.1.0-rc.3)
 
 The French README, the review page's French section and the French quotations of this page take RectoVerso's French typography, as the notes did in 0.1.0-rc.2 and as Maps 0.3.0-rc.3 did for its docs (the owner, for Maps: "Maps' French docs and READMEs are fixed in rc.3"): a narrow no-break space (U+202F) before « ; » and « : » and inside « », and « deck » for « jeu » (« dépôt du deck »). The apostrophes were already curly. Typography only: no card, package or meaning changes.
