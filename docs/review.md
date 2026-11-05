@@ -2,7 +2,7 @@
 
 ## Current publication
 
-The owner approved this source and package release. The reproducible prerelease is [0.1.0-rc.2](https://github.com/rectoversohq/rectoverso-flags/releases/tag/v0.1.0-rc.2). It adds the gallery metadata and sample question to [0.1.0-rc.1](https://github.com/rectoversohq/rectoverso-flags/releases/tag/v0.1.0-rc.1) and corrects the Anki deck description; cards, notes, identities and pictures are unchanged. Its English/French assets and SHA-256 manifest identify the exact bytes; earlier validation and source provenance below remain historical evidence. Subsequent changes still require their own checks and publication approval.
+The owner approved this source and package release. The reproducible prerelease is [0.1.0-rc.2](https://github.com/rectoversohq/rectoverso-flags/releases/tag/v0.1.0-rc.2). It adds the gallery metadata and sample question to [0.1.0-rc.1](https://github.com/rectoversohq/rectoverso-flags/releases/tag/v0.1.0-rc.1) corrects the Anki deck description, and gives Portugal the continent Europe alone on its four notes (two per language), as the sources have it; every other note, every identity and the pictures are unchanged. Its English/French assets and SHA-256 manifest identify the exact bytes; earlier validation and source provenance below remain historical evidence. Subsequent changes still require their own checks and publication approval.
 
 The deck is CC BY 4.0, with component licenses retained. This source release does not deploy app asset packs or change the app source pin.
 

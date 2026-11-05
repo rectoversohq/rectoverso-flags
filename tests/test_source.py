@@ -59,7 +59,7 @@ class SourceContract(unittest.TestCase):
         places = {p["code"]: p for p in read("source/places.json")}
         for code, expected in {
             "FRA": ["EU", "NA"],
-            "PRT": ["EU", "AF"],
+            "PRT": ["EU"],
             "COL": ["SA", "NA"],
             "VEN": ["SA", "NA"],
             "ESP": ["EU", "AF"],

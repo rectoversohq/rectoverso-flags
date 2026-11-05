@@ -1,5 +1,15 @@
 # Decisions
 
+## 2026-11-05 — Portugal in Europe; Amsterdam and Saint Paul in Africa (0.1.0-rc.2)
+
+The owner's answers for Maps 0.3.0-rc.3 ([rectoverso-maps PR #10](https://github.com/rectoversohq/rectoverso-maps/pull/10)): "Madeira → Europe, not Africa. Follow the sources." and "Amsterdam and Saint Paul → Africa, as UN M49 has it, not Antarctica. This replaces the 2 November call for those two islands." The owner (2026-11-05): Flags follows in its unpublished 0.1.0-rc.2, not in a later release.
+
+- **Portugal** (`PRT`) is Europe alone in `source/continents.json` and `source/places.json`: UN M49, GeoNames and the CIA World Factbook classify Portugal in Europe, and no source assigns Madeira to Africa. Its two notes per language (`rv-flags-en-prt-flag-place` and `rv-flags-en-prt-place-flag`, and their French twins) show **Continent** Europe, and their search metadata no longer lists Africa or Afrique. No other note's content changes, and no identity changes. The island rule puts Madeira with the Azores in Europe; the Madeira tourism board's reference, now a dead link, goes.
+- **French Southern Territories** (`ATF`) keep Africa + Antarctica. Only the text changes: Amsterdam and Saint Paul move to ATF's African group in `taxonomyReview`, with the IPEV reference and [coverage](coverage.md) to match.
+- **Spain** (`ESP`) stays Europe + Africa: Ceuta, Melilla and the plazas de soberanía lie on the North African coast. An independent check found no source that assigns the Canary Islands to Africa; the island rule's Canary text is unchanged and waits for the owner.
+
+`contentModifiedAt` moves to this revision, so Anki's default import updates the Portugal notes. The sources read are kept with the release evidence outside Git.
+
 ## 2026-11-04 — Publication preparation for 0.1.0-rc.2
 
 The owner asked for this preparation before releasing 0.1.0-rc.2. The Anki deck description, which still read “Local review candidate; not published”, now describes the published deck in English and French, with its license and where its credits and sources are. The READMEs, NOTICE and review page point to 0.1.0-rc.2, and the update guide names 0.1.0-rc.1 as the published predecessor to test from. Cards, notes, identities and pictures are unchanged; `contentModifiedAt` stays, since no card changed.
