@@ -26,7 +26,7 @@ The manifest describes the frozen reviewed package candidate, including its reco
 
 ## En français
 
-Le propriétaire a autorisé le dépôt et l’envoi des sources pour revue. Le premier commit de sources reproduit exactement l’arbre du candidat testé indiqué ci-dessus ; son historique local d’origine est conservé. Les modifications de mise en place concernent la documentation, sans changer les cartes, médias, identités ni générateurs. Vérifier le résultat réel d’**Anki packages** sur la pull request. La revue Anki Desktop, l’approbation éditoriale et la publication restent des étapes distinctes. Les paquets sont publiés en préversions sur GitHub.
+Le propriétaire a autorisé le dépôt et l’envoi des sources pour revue. Le premier commit de sources reproduit exactement l’arbre du candidat testé indiqué ci-dessus ; son historique local d’origine est conservé. Les modifications de mise en place concernent la documentation, sans changer les cartes, médias, identités ni générateurs. Vérifier le résultat réel d’**Anki packages** sur la pull request. La revue Anki Desktop, l’approbation éditoriale et la publication restent des étapes distinctes. Les paquets sont publiés en préversions sur GitHub.
 
 ## Owner phone feedback
 

@@ -1,5 +1,9 @@
 # Decisions
 
+## 2026-11-05 — The French docs (0.1.0-rc.3)
+
+The French README, the review page's French section and the French quotations of this page take RectoVerso's French typography, as the notes did in 0.1.0-rc.2 and as Maps 0.3.0-rc.3 did for its docs (the owner, for Maps: "Maps' French docs and READMEs are fixed in rc.3"): a narrow no-break space (U+202F) before « ; » and « : » and inside « », and « deck » for « jeu » (« dépôt du deck »). The apostrophes were already curly. Typography only: no card, package or meaning changes.
+
 ## 2026-11-05 — France in Europe only (0.1.0-rc.3)
 
 The owner (2026-11-05), for Pro Geography 0.2.0-rc.2: "France: Europe only in Geography, matching Maps' core France. Drop North America from France's continents." Maps 0.3.0-rc.3 gives France Europe and asks Clipperton, which has no ISO 3166-1 code of its own, as a question of its own (North America). Flags 0.1.0-rc.2 gave France Europe + North America, for Clipperton, and so disagreed with Maps; the owner asked for Flags to follow in 0.1.0-rc.3 ([#5](https://github.com/rectoversohq/rectoverso-flags/issues/5)).
@@ -34,7 +38,7 @@ The owner asked for this preparation before releasing 0.1.0-rc.2. The Anki deck 
 
 ## 2026-11-04 — Gallery copy
 
-The owner approved the gallery copy: the headline "Know a place by its flag, and a flag by its place." / « Reconnaître un lieu à son drapeau, et un drapeau à son lieu. » and the description that names its 230 flags (in `rectoverso.json`). It replaces the first draft, whose headline was ambiguous and whose description read as every place's flag.
+The owner approved the gallery copy: the headline "Know a place by its flag, and a flag by its place." / « Reconnaître un lieu à son drapeau, et un drapeau à son lieu. » and the description that names its 230 flags (in `rectoverso.json`). It replaces the first draft, whose headline was ambiguous and whose description read as every place's flag.
 
 ## 2026-11-02 — Owner phone feedback
 
