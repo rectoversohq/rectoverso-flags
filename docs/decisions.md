@@ -1,5 +1,15 @@
 # Decisions
 
+## 2026-11-05 — France in Europe only (0.1.0-rc.3)
+
+The owner (2026-11-05), for Pro Geography 0.2.0-rc.2: "France: Europe only in Geography, matching Maps' core France. Drop North America from France's continents." Maps 0.3.0-rc.3 gives France Europe and asks Clipperton, which has no ISO 3166-1 code of its own, as a question of its own (North America). Flags 0.1.0-rc.2 gave France Europe + North America, for Clipperton, and so disagreed with Maps; the owner asked for Flags to follow in 0.1.0-rc.3 ([#5](https://github.com/rectoversohq/rectoverso-flags/issues/5)).
+
+- **France** (`FRA`) is Europe only in `source/continents.json` and `source/places.json`. UN M49 and GeoNames classify France, as a whole, in Europe. Clipperton, a French atoll in the North Pacific, adds no continent: an exception to whole-place membership, said in the convention, the `scope` note and [coverage](coverage.md). The island rule no longer names Clipperton.
+- France's two notes per language (`rv-flags-en-fra-flag-place` and `rv-flags-en-fra-place-flag`, and their French twins) show **Continent** Europe, and their search metadata no longer lists North America or Amérique du Nord. No other note's content changes, and no identity changes.
+- Every other place's continents agree with Maps 0.3.0-rc.3's `continents.json`; France was the one difference.
+
+`contentModifiedAt` moves to this revision, so Anki's default import applies the new text.
+
 ## 2026-11-05 — The Canary Islands in Europe; French typography (0.1.0-rc.2)
 
 The owner's answers on this rc.2 (2026-11-05):

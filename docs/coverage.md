@@ -43,17 +43,17 @@ The pinned Ultimate Geography 5.3 source register supplies the original flag pro
 
 ## Whole-place membership audit
 
-Continent metadata in this deck describes the whole ISO reference place. Separately coded territories are represented independently. Non-separately-coded islands remain part of that place even when the 39 additional regional quiz questions are Maps-only.
+Continent metadata in this deck describes the whole ISO reference place, with one exception: France. Separately coded territories are represented independently. Non-separately-coded islands remain part of that place even when the 39 additional regional quiz questions are Maps-only.
 
 | Place | Membership | Reason |
 |---|---|---|
-| France | Europe + North America | Metropolitan France plus Clipperton; separately ISO-coded overseas places remain independent. |
+| France | Europe | Europe only, as Maps gives France: the owner's decision on 5 November 2026. UN M49 and GeoNames classify France, as a whole, in Europe. Clipperton, a French atoll in the North Pacific with no ISO 3166-1 code of its own, is asked on its own in Maps (North America) and adds no continent here. Separately ISO-coded overseas places remain independent. |
 | Portugal | Europe | Mainland, the Azores and Madeira. UN M49, GeoNames and the CIA World Factbook classify Portugal in Europe, and no source assigns Madeira to Africa: the owner moved Madeira to Europe on 5 November 2026, as in Maps. |
 | Spain | Europe + Africa | Ceuta, Melilla and the plazas de soberanía on the North African coast. The Canary Islands go with Europe, as the sources classify Spain and none assigns them to Africa: the owner's decision on 5 November 2026, as for Madeira. |
 | Colombia | South America + North America | Includes San Andrés/Providencia in the Caribbean. |
 | Venezuela | South America + North America | Includes the remote Caribbean Isla de Aves. |
 
-These memberships are not copied from Maps’ deliberately core-only France/Portugal questions. The private combined deck’s map artwork keeps the approved core/overview geometry; its continent metadata describes the named whole place rather than claiming every island is shown in that image. No new regional quiz card or boundary geometry is added.
+Every place's continents agree with Maps 0.3.0-rc.3's, France included; the other rows are not copied from Maps’ deliberately core-only questions. The private combined deck’s map artwork keeps the approved core/overview geometry; its continent metadata describes the named whole place rather than claiming every island is shown in that image. No new regional quiz card or boundary geometry is added.
 
 Primary references and the distinction between geographic groups and the separate primary Region field are recorded in [continents.json](../source/continents.json). The owner approved the BVT/HMD/SGS/ATF Antarctic-group assignments documented below: the independent GeoNames register supports this discovery grouping, which must not be generalized from agency or administrative coverage to all subantarctic islands. Australia, New Zealand, South Africa and Saint Helena are not relabeled Antarctica.
 
