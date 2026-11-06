@@ -32,7 +32,7 @@ See [source review and validation status](docs/review.md).
 
 ## Build for Anki
 
-Use Python 3.14 and the pinned Anki backend. No account, API key or paid service is needed. Tracked PNG assets are sufficient to build; macOS WebKit is needed only to regenerate them from SVG.
+Use Python 3.14 and the pinned Anki backend. No account, API key or paid service is needed. The packages use the tracked flag PNGs. macOS WebKit is needed only to regenerate those images from SVG. The build also renders the [gallery cover masters](docs/build.md#gallery-covers).
 
 ```sh
 python3.14 -m venv /path/outside-the-repo/anki-venv

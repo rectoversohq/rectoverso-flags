@@ -5,6 +5,7 @@ from datetime import datetime
 from pathlib import Path
 from anki.collection import Collection, ExportAnkiPackageOptions
 from anki.decks import DeckId
+from covers import render_covers
 from source_data import ROOT, inputs
 
 
@@ -22,6 +23,7 @@ def build(language, out):
     out.parent.mkdir(parents=True, exist_ok=True)
     if len(notes) != meta["cards"] or len({n["guid"] for n in notes}) != len(notes):
         raise ValueError("Card count or note identities differ")
+    render_covers(out.parent)
     with tempfile.TemporaryDirectory(prefix="anki-build-", dir=out.parent) as temp:
         col = Collection(str(Path(temp) / "collection.anki2"))
         try:
