@@ -62,3 +62,7 @@ RectoVerso's gallery reads every deck from one metadata layout ([#690](https://g
 ## 2026-11-06 — One complete AGENTS.md for every agent, by kind of work
 
 The owner: a single `AGENTS.md`, read by any agent (Codex, Claude Code or another) and complete on its own, organized around the three kinds of work done here: deck authoring (the content), contract honoring (what RectoVerso's gallery and Anki read: rectoverso.json, identities, packages, versions and releases) and cover making (the gallery's pictures: the specification, the names, the masters, renderer and check). It restates RectoVerso's `agents/decks.md`, the Library page's deck contract and cover specification and its French, with this repository's own rules; where they disagree, RectoVerso's pages win and this file is corrected. The `CLAUDE.md` first proposed here, importing RectoVerso's page, isn't kept.
+
+## 2026-11-06 — 1.0.0, the first release learners get
+
+The owner (2026-11-06): the deck's first release in RectoVerso's Deck gallery is 1.0.0, after the owner's review, its tag and release on the owner's go; the 0.1.0-rc.3 prepared here becomes it. It carries this branch's France in Europe only and French docs, adds `whatsNew` in both languages (the owner's copy to confirm), and sets `status` to `release`. It lists no gallery covers yet (the app shows placeholders until the deck's own). Its predecessor for the update test stays 0.1.0-rc.2, the last published prerelease. `contentModifiedAt` stays 2026-11-05T10:23:00Z: the cards haven't changed since.
