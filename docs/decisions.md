@@ -57,3 +57,8 @@ The owner approved releasing all authored decks. Publish this reviewed bilingual
 ## 2026-11-03 — Gallery metadata and sample question (candidate 0.1.0-rc.2)
 
 RectoVerso's gallery reads every deck from one metadata layout ([#690](https://github.com/simonpinkas/RectoVerso/issues/690)). `rectoverso.json` adds a headline and a description in English and French, the `geography` category, the creator and the upstream sources, and under each language the `sample`: the GUID of the one card the gallery opens as the deck's sample question. The sample is proposed; the owner chooses it. Each language's sidecar carries it. Note content, identities and artwork are unchanged; only the release metadata and the version (0.1.0-rc.2, unreleased) change. Release and app pin wait for the owner.
+
+
+## 2026-11-06 — One complete AGENTS.md for every agent, by kind of work
+
+The owner: a single `AGENTS.md`, read by any agent (Codex, Claude Code or another) and complete on its own, organized around the three kinds of work done here: deck authoring (the content), contract honoring (what RectoVerso's gallery and Anki read: rectoverso.json, identities, packages, versions and releases) and cover making (the gallery's pictures: the specification, the names, the masters, renderer and check). It restates RectoVerso's `agents/decks.md`, the Library page's deck contract and cover specification and its French, with this repository's own rules; where they disagree, RectoVerso's pages win and this file is corrected. The `CLAUDE.md` first proposed here, importing RectoVerso's page, isn't kept.
