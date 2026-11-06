@@ -20,6 +20,7 @@ python scripts/build.py --language fr --out /outside/repo/Drapeaux-fr-460.apkg
 | `source/identities.json` | Frozen candidate GUID, deck/model/field/template identities |
 | `source/media/` | Attributed, Anki-compatible PNG files |
 | `artwork/svg/` | Original flag vectors |
+| `artwork/covers/` | Approved SVG masters for gallery covers |
 | `scripts/` | Builder, CI and macOS SVG rendering tool |
 | `scripts/checks/`, `tests/` | Source, Anki round-trip and reproducibility checks |
 
@@ -30,6 +31,47 @@ On macOS, compile `scripts/render-svg.swift` into an external temporary director
 ## Gallery metadata
 
 RectoVerso's gallery reads this deck from `rectoverso.json` and each package's `.rectoverso.json` sidecar, attached to the release with the release's `SHA256SUMS` (the contract: [RectoVerso #690](https://github.com/simonpinkas/RectoVerso/issues/690)). Beside the identity and version: the headline and description in each language, the categories, the creator, the license, the upstream sources, and under each language its `sample`, the GUID of the card the gallery opens as the deck's sample question. A sample is one of that language's cards and shows alone with all its pictures; `scripts/checks/verify-source.py` checks it.
+
+## Gallery covers
+
+Render and check the covers in an external directory.
+
+```sh
+python scripts/covers.py --output /outside/repo/covers
+python scripts/checks/verify-covers.py --output /outside/repo/covers
+```
+
+The SVG masters in `artwork/covers/` use
+`rv-flags[-<en|fr>]-cover[-<light|dark>]-<n>.svg` with lowercase names
+and numbering from 1. Omit the language for art without words and omit the
+appearance for art that serves both light and dark mode. A cover with words
+needs a master for every shipped language at the same number and appearance.
+Use a 3:2 SVG viewport, outline any lettering, and keep resources inside each
+SVG. The renderer checks the PNG dimensions before writing the files. The
+three approved masters are shared across both languages and appearances.
+
+The package build renders the masters beside the packages and sidecars as
+2,010 × 1,340 PNGs. CI checks names, dimensions, light and dark coverage for
+each language, complete localized sets, and ambiguous names. The language
+pill's corner (`x ≥ 1608`, `y ≤ 335`) must be within 4 per channel of its
+dominant color. CI compares PNG bytes across independent builds and attaches
+them as the `flags-covers` artifact. List the files in the deck metadata when
+preparing a release.
+
+### Artwork provenance
+
+The approved compositions are © Simon Pinkas, CC BY 4.0. Sunline and
+Quartered use motifs drawn from the deck's flag references. The frosted
+reveal embeds the exact public-domain `rv-flag-syc.png` from `source/media/`,
+SHA-256 `0c8a5c8633aecfc6c8eefcdd53bd0ba2b750cef18f13726af0e27bef9e1185b9`.
+The [flag credits](flag-credits.md) and [manifest](../rectoverso.json) record
+each source and component license.
+
+| Master | Flag references | SHA-256 |
+|---|---|---|
+| [rv-flags-cover-1.svg](../artwork/covers/rv-flags-cover-1.svg) | [Brazil](../artwork/svg/rv-flag-bra.svg), [Japan](../artwork/svg/rv-flag-jpn.svg) | `5a90add139edf5e0ccb8d03e6db0d3aab401dfa50ff1856bc1ddb5c92cb5f43a` |
+| [rv-flags-cover-2.svg](../artwork/covers/rv-flags-cover-2.svg) | [Seychelles](../artwork/svg/rv-flag-syc.svg), [deck image](../source/media/rv-flag-syc.png) | `1d9d33afe626e6f58c70850ed30a9bbc2a36838e04ae4b1c99fb6ef19112f5b5` |
+| [rv-flags-cover-3.svg](../artwork/covers/rv-flags-cover-3.svg) | [Panama](../artwork/svg/rv-flag-pan.svg), [Canada](../artwork/svg/rv-flag-can.svg) | `b1d91feda71fed392696f62060ff4c03a3c5735c72471f4d11dc6987993ce445` |
 
 ## Updating a published deck
 

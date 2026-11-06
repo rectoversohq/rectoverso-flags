@@ -66,3 +66,23 @@ The owner: a single `AGENTS.md`, read by any agent (Codex, Claude Code or anothe
 ## 2026-11-06 — 1.0.0, the first release learners get
 
 The owner (2026-11-06): the deck's first release in RectoVerso's Deck gallery is 1.0.0, after the owner's review, its tag and release on the owner's go; the 0.1.0-rc.3 prepared here becomes it. It carries this branch's France in Europe only and French docs, adds `whatsNew` in both languages (the owner's copy to confirm), and sets `status` to `release`. It lists no gallery covers yet (the app shows placeholders until the deck's own). Its predecessor for the update test stays 0.1.0-rc.2, the last published prerelease. `contentModifiedAt` stays 2026-11-05T10:23:00Z: the cards haven't changed since.
+
+## 2026-11-06 — Flags gallery covers
+
+Simon Pinkas approved the three compositions in gallery order: Sunline
+(Brazil and Japan), a halfway revealed Seychelles flag under frosted glass,
+and Quartered (Panama and Canada). The middle cover shows how the app
+unveils a picture answer. Each composition serves both languages and
+appearances. The builder follows [Capitals PR #8](https://github.com/rectoversohq/rectoverso-capitals/pull/8)
+so both decks render and validate covers under the same contract. The
+[build guide](build.md#gallery-covers) records the master hashes and sources.
+
+## 2026-11-06 — Lighter glass on the Flags reveal
+
+Simon Pinkas asked for a lighter frosted half on the Seychelles cover. The
+reveal uses a paler glass tint so the blurred colors are easier to see.
+
+## 2026-11-06 — Brighter whites on the Flags covers
+
+Simon Pinkas asked for a lighter white on the flag compositions. Sunline and
+Quartered use the near-white tint `#F7F5F0` for their white flag areas.
