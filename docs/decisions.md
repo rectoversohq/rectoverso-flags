@@ -54,3 +54,8 @@ unveils a picture answer. Each composition serves both languages and
 appearances. The builder follows [Capitals PR #8](https://github.com/rectoversohq/rectoverso-capitals/pull/8)
 so both decks render and validate covers under the same contract. The
 [build guide](build.md#gallery-covers) records the master hashes and sources.
+
+## 2026-11-06 — Lighter glass on the Flags reveal
+
+Simon Pinkas asked for a lighter frosted half on the Seychelles cover. The
+reveal uses a paler glass tint so the blurred colors are easier to see.

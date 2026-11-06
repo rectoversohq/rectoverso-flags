@@ -70,7 +70,7 @@ each source and component license.
 | Master | Flag references | SHA-256 |
 |---|---|---|
 | [rv-flags-cover-1.svg](../artwork/covers/rv-flags-cover-1.svg) | [Brazil](../artwork/svg/rv-flag-bra.svg), [Japan](../artwork/svg/rv-flag-jpn.svg) | `a47340fa8bb83dbc93bf64f12cf1b2bcdc1483c2e3346239b4dbdc9d1cc5e7df` |
-| [rv-flags-cover-2.svg](../artwork/covers/rv-flags-cover-2.svg) | [Seychelles](../artwork/svg/rv-flag-syc.svg), [deck image](../source/media/rv-flag-syc.png) | `819df4c48e5864fbfc64f9fed2fd449654227f4131619bd41a5b75d6d493470f` |
+| [rv-flags-cover-2.svg](../artwork/covers/rv-flags-cover-2.svg) | [Seychelles](../artwork/svg/rv-flag-syc.svg), [deck image](../source/media/rv-flag-syc.png) | `1d9d33afe626e6f58c70850ed30a9bbc2a36838e04ae4b1c99fb6ef19112f5b5` |
 | [rv-flags-cover-3.svg](../artwork/covers/rv-flags-cover-3.svg) | [Panama](../artwork/svg/rv-flag-pan.svg), [Canada](../artwork/svg/rv-flag-can.svg) | `fc3438b298646469516488c60daa02f5a1f84ad58ef53d02e84b41c2494bd515` |
 
 ## Updating a published deck
