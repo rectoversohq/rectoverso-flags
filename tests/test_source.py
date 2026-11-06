@@ -58,7 +58,7 @@ class SourceContract(unittest.TestCase):
     def test_continents_describe_whole_places_not_maps_core_questions(self):
         places = {p["code"]: p for p in read("source/places.json")}
         for code, expected in {
-            "FRA": ["EU", "NA"],
+            "FRA": ["EU"],
             "PRT": ["EU"],
             "COL": ["SA", "NA"],
             "VEN": ["SA", "NA"],

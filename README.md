@@ -4,7 +4,7 @@ Recognize a flag. Recall it from a place name.
 
 [Français](README.fr.md) · [Coverage and sources](docs/coverage.md) · [Build and update](docs/build.md)
 
-**Prerelease 0.1.0-rc.2.** [Download the English/French Anki packages](https://github.com/rectoversohq/rectoverso-flags/releases/tag/v0.1.0-rc.2).
+**Release 1.0.0.** [Download the English/French Anki packages](https://github.com/rectoversohq/rectoverso-flags/releases/tag/v1.0.0).
 
 | | |
 |---|---|
@@ -24,7 +24,7 @@ Answer context uses separately labeled **Continent** and **Region** fields. See 
 The complete candidate is reviewed in [source issue #1](https://github.com/rectoversohq/rectoverso-flags/issues/1). Clone the tagged source to reproduce this prerelease:
 
 ```sh
-git clone --branch v0.1.0-rc.2 https://github.com/rectoversohq/rectoverso-flags.git
+git clone --branch v1.0.0 https://github.com/rectoversohq/rectoverso-flags.git
 cd rectoverso-flags
 ```
 

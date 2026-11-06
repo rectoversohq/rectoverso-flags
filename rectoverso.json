@@ -1,7 +1,7 @@
 {
   "id": "rectoverso-flags",
-  "version": "0.1.0-rc.2",
-  "status": "prerelease",
+  "version": "1.0.0",
+  "status": "release",
   "title": {
     "en": "Flags",
     "fr": "Drapeaux"
@@ -17,6 +17,10 @@
   "description": {
     "en": "230 flags of the world's countries and territories, in both directions: from a flag to its place, from a place to its flag. Each flag keeps its real proportions and colors, and every answer can show the place's continent and region.",
     "fr": "230 drapeaux des pays et territoires du monde, dans les deux sens : d’un drapeau à son lieu, d’un lieu à son drapeau. Chaque drapeau garde ses vraies proportions et ses couleurs, et chaque réponse peut montrer le continent et la région du lieu."
+  },
+  "whatsNew": {
+    "en": "France is in Europe only, as in the Maps deck.",
+    "fr": "La France est en Europe seulement, comme dans le deck Cartes."
   },
   "categories": [
     "geography"
@@ -3144,11 +3148,37 @@
       "licenseRegister": "https://github.com/anki-geo/ultimate-geography/blob/a66cb9c428833fa76e9184273aeaa13b31b4b0d4/sources.csv"
     }
   ],
+  "covers": {
+    "en": {
+      "light": [
+        "rv-flags-cover-1.png",
+        "rv-flags-cover-2.png",
+        "rv-flags-cover-3.png"
+      ],
+      "dark": [
+        "rv-flags-cover-1.png",
+        "rv-flags-cover-2.png",
+        "rv-flags-cover-3.png"
+      ]
+    },
+    "fr": {
+      "light": [
+        "rv-flags-cover-1.png",
+        "rv-flags-cover-2.png",
+        "rv-flags-cover-3.png"
+      ],
+      "dark": [
+        "rv-flags-cover-1.png",
+        "rv-flags-cover-2.png",
+        "rv-flags-cover-3.png"
+      ]
+    }
+  },
   "sourceFiles": {
     "pictures": "source/media",
     "places": "source/places.json"
   },
-  "releaseTag": "v0.1.0-rc.2",
+  "releaseTag": "v1.0.0",
   "languages": {
     "en": {
       "id": "rectoverso-flags-en",
@@ -3169,10 +3199,10 @@
       "sample": "rv-flags-fr-npl-flag-place"
     }
   },
-  "contentModifiedAt": "2026-11-05T07:03:46Z",
+  "contentModifiedAt": "2026-11-05T10:23:00Z",
   "publication": {
     "remote": "https://github.com/rectoversohq/rectoverso-flags",
-    "release": "https://github.com/rectoversohq/rectoverso-flags/releases/tag/v0.1.0-rc.2",
+    "release": "https://github.com/rectoversohq/rectoverso-flags/releases/tag/v1.0.0",
     "approved": true,
     "visibility": "public"
   }

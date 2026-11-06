@@ -2,7 +2,7 @@
 
 ## Current publication
 
-The owner approved this source and package release. The reproducible prerelease is [0.1.0-rc.2](https://github.com/rectoversohq/rectoverso-flags/releases/tag/v0.1.0-rc.2). It adds the gallery metadata and sample question to [0.1.0-rc.1](https://github.com/rectoversohq/rectoverso-flags/releases/tag/v0.1.0-rc.1), corrects the Anki deck description, gives Portugal the continent Europe alone on its four notes (two per language), as the sources have it, and follows RectoVerso's French typography: 28 French notes, those of the places with more than one continent, take a narrow no-break space before the semicolon of **Continent**. Every other note, every identity and the pictures are unchanged. Its English/French assets and SHA-256 manifest identify the exact bytes; earlier validation and source provenance below remain historical evidence. Subsequent changes still require their own checks and publication approval.
+The candidate for [1.0.0](https://github.com/rectoversohq/rectoverso-flags/releases/tag/v1.0.0), the first release learners get in RectoVerso's Deck gallery, awaits the owner's review; its tag and release wait for the owner's go. It adds what's new in both languages, gives France the continent Europe alone on its four notes (two per language), as Maps 0.3.0-rc.3 does, and sets the French docs in RectoVerso's French typography. Every other note, every identity and the pictures are those of [0.1.0-rc.2](https://github.com/rectoversohq/rectoverso-flags/releases/tag/v0.1.0-rc.2), which added the gallery metadata and sample question to [0.1.0-rc.1](https://github.com/rectoversohq/rectoverso-flags/releases/tag/v0.1.0-rc.1), corrected the Anki deck description, gave Portugal the continent Europe alone, and took RectoVerso's French typography in the **Continent** of the places with more than one continent. Its English/French assets and SHA-256 manifest identify the exact bytes; earlier validation and source provenance below remain historical evidence. Subsequent changes still require their own checks and publication approval.
 
 The deck is CC BY 4.0, with component licenses retained. This source release does not deploy app asset packs or change the app source pin.
 
@@ -26,7 +26,7 @@ The manifest describes the frozen reviewed package candidate, including its reco
 
 ## En français
 
-Le propriétaire a autorisé le dépôt et l’envoi des sources pour revue. Le premier commit de sources reproduit exactement l’arbre du candidat testé indiqué ci-dessus ; son historique local d’origine est conservé. Les modifications de mise en place concernent la documentation, sans changer les cartes, médias, identités ni générateurs. Vérifier le résultat réel d’**Anki packages** sur la pull request. La revue Anki Desktop, l’approbation éditoriale et la publication restent des étapes distinctes. Les paquets sont publiés en préversions sur GitHub.
+Le propriétaire a autorisé le dépôt et l’envoi des sources pour revue. Le premier commit de sources reproduit exactement l’arbre du candidat testé indiqué ci-dessus ; son historique local d’origine est conservé. Les modifications de mise en place concernent la documentation, sans changer les cartes, médias, identités ni générateurs. Vérifier le résultat réel d’**Anki packages** sur la pull request. La revue Anki Desktop, l’approbation éditoriale et la publication restent des étapes distinctes. Les paquets sont publiés en préversions sur GitHub.
 
 ## Owner phone feedback
 
