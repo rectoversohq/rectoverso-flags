@@ -59,3 +59,8 @@ so both decks render and validate covers under the same contract. The
 
 Simon Pinkas asked for a lighter frosted half on the Seychelles cover. The
 reveal uses a paler glass tint so the blurred colors are easier to see.
+
+## 2026-11-06 — Brighter whites on the Flags covers
+
+Simon Pinkas asked for a lighter white on the flag compositions. Sunline and
+Quartered use the near-white tint `#F7F5F0` for their white flag areas.
