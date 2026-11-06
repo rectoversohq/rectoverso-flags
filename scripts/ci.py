@@ -53,6 +53,15 @@ try:
                 str(out / folder / data["package"]["file"]),
             )
     run(
+        "covers",
+        sys.executable,
+        "scripts/checks/verify-covers.py",
+        "--output",
+        str(out / "packages"),
+        "--compare",
+        str(out / "rebuilt"),
+    )
+    run(
         "anki",
         sys.executable,
         "scripts/checks/validate-anki.py",

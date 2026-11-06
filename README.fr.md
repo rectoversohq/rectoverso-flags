@@ -25,7 +25,7 @@ La [revue des sources](docs/review.md) précise l’état des contrôles et les 
 
 ## Construire pour Anki
 
-Utiliser Python 3.14 et la version d’Anki fixée dans `requirements.txt`. Aucun compte ni service payant n’est nécessaire. Les PNG suivis dans Git suffisent ; WebKit sur macOS n’est nécessaire que pour les régénérer depuis les SVG.
+Utiliser Python 3.14 et la version d’Anki fixée dans `requirements.txt`. Aucun compte ni service payant n’est nécessaire. Les paquets utilisent les PNG des drapeaux suivis dans Git. WebKit sur macOS sert uniquement à régénérer ces images à partir des SVG. La construction génère aussi les [couvertures de la galerie](docs/build.md#gallery-covers).
 
 ```sh
 python3.14 -m venv /chemin/hors-du-depot/anki-venv

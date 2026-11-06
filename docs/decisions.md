@@ -44,3 +44,13 @@ RectoVerso's gallery reads every deck from one metadata layout ([#690](https://g
 ## 2026-11-06 — One complete AGENTS.md for every agent, by kind of work
 
 The owner: a single `AGENTS.md`, read by any agent (Codex, Claude Code or another) and complete on its own, organized around the three kinds of work done here: deck authoring (the content), contract honoring (what RectoVerso's gallery and Anki read: rectoverso.json, identities, packages, versions and releases) and cover making (the gallery's pictures: the specification, the names, the masters, renderer and check). It restates RectoVerso's `agents/decks.md`, the Library page's deck contract and cover specification and its French, with this repository's own rules; where they disagree, RectoVerso's pages win and this file is corrected. The `CLAUDE.md` first proposed here, importing RectoVerso's page, isn't kept.
+
+## 2026-11-06 — Flags gallery covers
+
+Simon Pinkas approved the three compositions in gallery order: Sunline
+(Brazil and Japan), a halfway revealed Seychelles flag under frosted glass,
+and Quartered (Panama and Canada). The middle cover shows how the app
+unveils a picture answer. Each composition serves both languages and
+appearances. The builder follows [Capitals PR #8](https://github.com/rectoversohq/rectoverso-capitals/pull/8)
+so both decks render and validate covers under the same contract. The
+[build guide](build.md#gallery-covers) records the master hashes and sources.
