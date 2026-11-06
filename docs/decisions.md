@@ -86,3 +86,7 @@ reveal uses a paler glass tint so the blurred colors are easier to see.
 
 Simon Pinkas asked for a lighter white on the flag compositions. Sunline and
 Quartered use the near-white tint `#F7F5F0` for their white flag areas.
+
+## 2026-11-06 — 1.0.0 lists the gallery covers
+
+The owner approved the three covers and the 1.0.0 release with its `whatsNew` (2026-11-06). `rectoverso.json` lists `rv-flags-cover-1.png`, `rv-flags-cover-2.png` and `rv-flags-cover-3.png`, in that order, in every language and both appearances: none has words, and each serves light and dark. The release attaches the three PNGs beside the packages.

@@ -3148,6 +3148,32 @@
       "licenseRegister": "https://github.com/anki-geo/ultimate-geography/blob/a66cb9c428833fa76e9184273aeaa13b31b4b0d4/sources.csv"
     }
   ],
+  "covers": {
+    "en": {
+      "light": [
+        "rv-flags-cover-1.png",
+        "rv-flags-cover-2.png",
+        "rv-flags-cover-3.png"
+      ],
+      "dark": [
+        "rv-flags-cover-1.png",
+        "rv-flags-cover-2.png",
+        "rv-flags-cover-3.png"
+      ]
+    },
+    "fr": {
+      "light": [
+        "rv-flags-cover-1.png",
+        "rv-flags-cover-2.png",
+        "rv-flags-cover-3.png"
+      ],
+      "dark": [
+        "rv-flags-cover-1.png",
+        "rv-flags-cover-2.png",
+        "rv-flags-cover-3.png"
+      ]
+    }
+  },
   "sourceFiles": {
     "pictures": "source/media",
     "places": "source/places.json"
