@@ -1,6 +1,6 @@
 {
   "id": "rectoverso-flags",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "status": "release",
   "title": {
     "en": "Flags",
@@ -19,8 +19,8 @@
     "fr": "230 drapeaux des pays et territoires du monde, dans les deux sens : d’un drapeau à son lieu, d’un lieu à son drapeau. Chaque drapeau garde ses vraies proportions et ses couleurs, et chaque réponse peut montrer le continent et la région du lieu."
   },
   "whatsNew": {
-    "en": "France is in Europe only, as in the Maps deck.",
-    "fr": "La France est en Europe seulement, comme dans le deck Cartes."
+    "en": "In the Deck gallery, the deck's sample question now reveals the Seychelles' flag.",
+    "fr": "Dans la galerie de decks, la question d’essai dévoile désormais le drapeau des Seychelles."
   },
   "categories": [
     "geography"
@@ -3178,7 +3178,7 @@
     "pictures": "source/media",
     "places": "source/places.json"
   },
-  "releaseTag": "v1.0.0",
+  "releaseTag": "v1.0.1",
   "languages": {
     "en": {
       "id": "rectoverso-flags-en",
@@ -3187,7 +3187,7 @@
       "package": {
         "file": "Flags-en-460.apkg"
       },
-      "sample": "rv-flags-en-npl-flag-place"
+      "sample": "rv-flags-en-syc-place-flag"
     },
     "fr": {
       "id": "rectoverso-flags-fr",
@@ -3196,13 +3196,13 @@
       "package": {
         "file": "Drapeaux-fr-460.apkg"
       },
-      "sample": "rv-flags-fr-npl-flag-place"
+      "sample": "rv-flags-fr-syc-place-flag"
     }
   },
-  "contentModifiedAt": "2026-11-05T10:23:00Z",
+  "contentModifiedAt": "2026-11-11T18:20:00Z",
   "publication": {
     "remote": "https://github.com/rectoversohq/rectoverso-flags",
-    "release": "https://github.com/rectoversohq/rectoverso-flags/releases/tag/v1.0.0",
+    "release": "https://github.com/rectoversohq/rectoverso-flags/releases/tag/v1.0.1",
     "approved": true,
     "visibility": "public"
   }
