@@ -90,3 +90,6 @@ Quartered use the near-white tint `#F7F5F0` for their white flag areas.
 ## 2026-11-06 — 1.0.0 lists the gallery covers
 
 The owner approved the three covers and the 1.0.0 release with its `whatsNew` (2026-11-06). `rectoverso.json` lists `rv-flags-cover-1.png`, `rv-flags-cover-2.png` and `rv-flags-cover-3.png`, in that order, in every language and both appearances: none has words, and each serves light and dark. The release attaches the three PNGs beside the packages.
+
+## 2026-11-11 — 1.0.1: the gallery's sample is the Seychelles' flag revealed
+The owner (#12): the deck's sample in RectoVerso's Deck gallery (the eye on a cover, **Try a question**) shows a flag being revealed, the Seychelles', instead of Nepal's flag as the question. `sample` is `rv-flags-en-syc-place-flag` and `rv-flags-fr-syc-place-flag`; it matches the second cover. No card or note changed, so study progress is untouched; the edition moves to 1.0.1 as the kit's versioning asks.
